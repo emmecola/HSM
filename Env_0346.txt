@@ -1,0 +1,79 @@
+                     Theria		65063
+                      Eutheria		65017
+                       Boreoeutheria		64887
+                        Euarchontoglires		46819
+                         Primates		45933
+                          Haplorrhini		45682
+                           Simiiformes		45575
+                            Catarrhini		43373
+                             Hominoidea		38028
+                              Hominidae		31493
+                               Homininae		26802
+                                Pan		217
+                                 Pan troglodytes		31
+                                Gorilla		87
+                                 Gorilla gorilla		87
+                                  Gorilla gorilla gorilla		87
+                                Homo		10588
+                                 Homo sapiens		10588
+                               Ponginae		141
+                                Pongo		141
+                                 Pongo abelii		141
+                             Cercopithecoidea		50
+                              Cercopithecidae		50
+                               Cercopithecinae		27
+                                Chlorocebus		16
+                                 Chlorocebus sabaeus		16
+                         Glires		763
+                          Rodentia		31
+                           Sciuromorpha		5
+                            Sciuridae		5
+                             Xerinae		5
+                              Marmotini		5
+                               Marmota		4
+                           Myomorpha		23
+                            Muroidea		23
+                             Muridae		21
+                              Murinae		21
+                               Rattus		20
+                          Lagomorpha		719
+                           Leporidae		707
+                            Oryctolagus		707
+                             Oryctolagus cuniculus		707
+                        Laurasiatheria		17584
+                         Artiodactyla		9418
+                          Ruminantia		8834
+                           Pecora		8834
+                            Bovidae		7414
+                             Bovinae		1578
+                              Bos		468
+                               Bos taurus		86
+                               Bos mutus		18
+                             Caprinae		4722
+                              Ovis		837
+                               Ovis aries		837
+                              Capra		2087
+                               Capra hircus		2087
+                          Suina		472
+                           Suidae		472
+                            Sus		260
+                             Sus scrofa		260
+                         Carnivora		8072
+                          Caniformia		7547
+                           Canidae		7357
+                            Vulpes		76
+                             Vulpes vulpes		8
+                            Canis		4867
+                             Canis lupus		4867
+                              Canis lupus familiaris		395
+                           Mustelidae		39
+                            Melinae		10
+                             Meles		10
+                              Meles meles		10
+                          Feliformia		443
+                           Felidae		432
+                            Felinae		158
+                             Felis		102
+                              Felis catus		102
+                         Chiroptera		1
+                          Microchiroptera		1

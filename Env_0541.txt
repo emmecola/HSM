@@ -1,0 +1,82 @@
+                     Theria		870137
+                      Eutheria		861952
+                       Boreoeutheria		849042
+                        Euarchontoglires		249149
+                         Glires		231374
+                          Lagomorpha		144295
+                           Leporidae		127099
+                            Oryctolagus		127099
+                             Oryctolagus cuniculus		127099
+                          Rodentia		86628
+                           Myomorpha		84648
+                            Muroidea		83504
+                             Cricetidae		58
+                             Muridae		72509
+                              Murinae		71930
+                               Rattus		63755
+                                Rattus norvegicus		5805
+                                Rattus rattus		24592
+                             Spalacidae		2819
+                              Spalacinae		2819
+                               Nannospalax		2819
+                                Nannospalax galili		2819
+                           Sciuromorpha		721
+                            Sciuridae		721
+                             Xerinae		671
+                              Marmotini		671
+                               Marmota		315
+                         Primates		15874
+                          Haplorrhini		15286
+                           Simiiformes		15149
+                            Catarrhini		12372
+                             Hominoidea		9058
+                              Hominidae		6380
+                               Homininae		5141
+                                Homo		1664
+                                 Homo sapiens		1664
+                        Laurasiatheria		584367
+                         Carnivora		325144
+                          Caniformia		310386
+                           Canidae		255722
+                            Vulpes		30525
+                             Vulpes vulpes		3896
+                             Vulpes lagopus		4169
+                            Canis		63313
+                             Canis lupus		63313
+                              Canis lupus dingo		925
+                              Canis lupus familiaris		3408
+                           Mustelidae		23847
+                            Mustelinae		5042
+                             Mustela		3557
+                              Mustela putorius		2160
+                               Mustela putorius furo		2160
+                            Lutrinae		214
+                            Melinae		7817
+                             Meles		7817
+                              Meles meles		7817
+                          Feliformia		832
+                           Felidae		425
+                         Eulipotyphla		190634
+                          Erinaceidae		190549
+                           Erinaceinae		190549
+                            Erinaceus		190549
+                             Erinaceus europaeus		190549
+                         Artiodactyla		54671
+                          Suina		2248
+                           Suidae		2248
+                            Sus		792
+                             Sus scrofa		792
+                          Ruminantia		49978
+                           Pecora		49978
+                            Cervidae		17385
+                             Odocoileinae		2111
+                              Odocoileus		2111
+                               Odocoileus virginianus		2111
+                                Odocoileus virginianus texanus		2110
+                             Cervinae		7806
+                              Cervus		7806
+                               Cervus elaphus		617
+                            Bovidae		3378
+                             Caprinae		764
+                             Bovinae		1264
+                              Bos		174

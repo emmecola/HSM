@@ -1,0 +1,16 @@
+                     Theria		143
+                      Eutheria		143
+                       Boreoeutheria		142
+                        Euarchontoglires		137
+                         Primates		135
+                          Haplorrhini		132
+                           Simiiformes		132
+                            Catarrhini		113
+                             Cercopithecoidea		78
+                              Cercopithecidae		78
+                               Cercopithecinae		47
+                             Hominoidea		17
+                              Hominidae		13
+                               Homininae		10
+                                Homo		5
+                                 Homo sapiens		5

@@ -1,0 +1,70 @@
+                     Theria		40312
+                      Eutheria		39791
+                       Boreoeutheria		39011
+                        Euarchontoglires		9375
+                         Primates		6955
+                          Haplorrhini		6695
+                           Simiiformes		6629
+                            Catarrhini		5434
+                             Hominoidea		3976
+                              Hominidae		2785
+                               Homininae		2250
+                                Homo		704
+                                 Homo sapiens		704
+                         Glires		2215
+                          Rodentia		758
+                           Myomorpha		706
+                            Muroidea		653
+                             Spalacidae		130
+                              Spalacinae		130
+                               Nannospalax		130
+                                Nannospalax galili		130
+                             Muridae		313
+                              Murinae		310
+                               Rattus		263
+                                Rattus norvegicus		53
+                           Hystricomorpha		17
+                          Lagomorpha		1444
+                           Leporidae		1342
+                            Oryctolagus		1342
+                             Oryctolagus cuniculus		1342
+                        Laurasiatheria		28479
+                         Carnivora		26351
+                          Feliformia		289
+                           Felidae		253
+                            Felinae		41
+                             Prionailurus		2
+                              Prionailurus viverrinus		1
+                          Caniformia		24827
+                           Mustelidae		1908
+                            Mustelinae		37
+                             Neogale		6
+                              Neogale vison		6
+                             Mustela		5
+                            Melinae		885
+                             Meles		885
+                              Meles meles		885
+                           Canidae		20094
+                            Vulpes		3311
+                             Vulpes lagopus		508
+                             Vulpes vulpes		387
+                            Canis		3481
+                             Canis lupus		3481
+                              Canis lupus dingo		54
+                              Canis lupus familiaris		157
+                         Artiodactyla		835
+                          Ruminantia		714
+                           Pecora		714
+                            Bovidae		334
+                             Bovinae		166
+                              Bos		45
+                             Caprinae		102
+                              Ovis		52
+                               Ovis aries		52
+                          Suina		74
+                           Suidae		74
+                         Eulipotyphla		415
+                          Erinaceidae		415
+                           Erinaceinae		415
+                            Erinaceus		415
+                             Erinaceus europaeus		415

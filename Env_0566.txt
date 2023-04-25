@@ -1,0 +1,73 @@
+                     Theria		158186
+                      Eutheria		157668
+                       Boreoeutheria		155324
+                        Laurasiatheria		36031
+                         Artiodactyla		15251
+                          Suina		6652
+                           Suidae		6652
+                            Sus		2252
+                             Sus scrofa		2252
+                            Phacochoerus		148
+                             Phacochoerus africanus		148
+                          Ruminantia		7748
+                           Pecora		7748
+                            Bovidae		3847
+                             Bovinae		825
+                             Caprinae		2051
+                              Ovis		975
+                               Ovis aries		975
+                            Cervidae		256
+                         Carnivora		19470
+                          Caniformia		15664
+                           Canidae		13263
+                            Vulpes		1343
+                             Vulpes lagopus		172
+                             Vulpes vulpes		181
+                            Canis		3532
+                             Canis lupus		3532
+                              Canis lupus dingo		53
+                           Mustelidae		867
+                            Mustelinae		269
+                             Mustela		179
+                              Mustela putorius		103
+                               Mustela putorius furo		103
+                            Melinae		197
+                             Meles		197
+                              Meles meles		197
+                          Feliformia		2839
+                           Felidae		2515
+                            Felinae		548
+                             Felis		296
+                              Felis catus		296
+                         Eulipotyphla		318
+                          Erinaceidae		318
+                           Erinaceinae		318
+                            Erinaceus		318
+                             Erinaceus europaeus		318
+                        Euarchontoglires		112928
+                         Primates		101455
+                          Haplorrhini		97655
+                           Simiiformes		96722
+                            Catarrhini		78693
+                             Hominoidea		57252
+                              Hominidae		40736
+                               Homininae		32919
+                                Pan		165
+                                Homo		10799
+                                 Homo sapiens		10799
+                               Ponginae		43
+                                Pongo		43
+                                 Pongo abelii		43
+                         Glires		9038
+                          Rodentia		3295
+                           Myomorpha		3241
+                            Muroidea		3199
+                             Muridae		2901
+                              Murinae		2873
+                               Rattus		2552
+                                Rattus norvegicus		287
+                                Rattus rattus		977
+                          Lagomorpha		5724
+                           Leporidae		5330
+                            Oryctolagus		5330
+                             Oryctolagus cuniculus		5330

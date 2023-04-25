@@ -1,0 +1,45 @@
+                     Theria		7823
+                      Eutheria		7806
+                       Boreoeutheria		7682
+                        Euarchontoglires		6292
+                         Primates		6039
+                          Haplorrhini		5793
+                           Simiiformes		5728
+                            Catarrhini		4652
+                             Hominoidea		3343
+                              Hominidae		2324
+                               Homininae		1886
+                                Homo		612
+                                 Homo sapiens		612
+                         Glires		85
+                          Rodentia		19
+                           Sciuromorpha		4
+                            Sciuridae		4
+                             Xerinae		4
+                              Marmotini		4
+                           Myomorpha		9
+                            Muroidea		9
+                             Muridae		2
+                              Gerbillinae		2
+                               Meriones		2
+                                Meriones unguiculatus		2
+                          Lagomorpha		66
+                           Leporidae		60
+                            Oryctolagus		60
+                             Oryctolagus cuniculus		60
+                        Laurasiatheria		1002
+                         Artiodactyla		894
+                          Ruminantia		222
+                           Pecora		222
+                            Bovidae		96
+                             Bovinae		62
+                          Tylopoda		1
+                           Camelidae		1
+                            Camelus		1
+                          Suina		637
+                           Suidae		637
+                            Sus		214
+                             Sus scrofa		214
+                         Carnivora		61
+                          Caniformia		55
+                           Canidae		45

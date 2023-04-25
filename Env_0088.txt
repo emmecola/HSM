@@ -1,0 +1,40 @@
+                     Theria		5023
+                      Eutheria		4999
+                       Boreoeutheria		4982
+                        Laurasiatheria		861
+                         Artiodactyla		835
+                          Ruminantia		748
+                           Pecora		748
+                            Bovidae		496
+                             Bovinae		378
+                              Bison		12
+                               Bison bison		12
+                                Bison bison bison		12
+                          Suina		66
+                           Suidae		66
+                        Euarchontoglires		4029
+                         Glires		25
+                          Rodentia		24
+                           Myomorpha		18
+                            Muroidea		18
+                             Muridae		14
+                              Murinae		14
+                               Mus		10
+                                Mus		8
+                                 Mus caroli		4
+                         Primates		3985
+                          Haplorrhini		3965
+                           Simiiformes		3957
+                            Catarrhini		3749
+                             Hominoidea		3263
+                              Hominidae		2659
+                               Homininae		2283
+                                Homo		882
+                                 Homo sapiens		882
+                              Hylobatidae		5
+                               Hylobates		5
+                                Hylobates moloch		5
+                             Cercopithecoidea		14
+                              Cercopithecidae		14
+                               Cercopithecinae		4
+                                Macaca		1

@@ -1,0 +1,133 @@
+                     Theria		424681
+                      Eutheria		419505
+                       Boreoeutheria		410717
+                        Laurasiatheria		347386
+                         Carnivora		331376
+                          Feliformia		264
+                           Felidae		146
+                           Herpestidae		41
+                            Suricata		41
+                             Suricata suricatta		41
+                          Caniformia		315876
+                           Mustelidae		2219
+                            Mustelinae		152
+                             Mustela		67
+                            Melinae		958
+                             Meles		958
+                              Meles meles		958
+                           Canidae		280397
+                            Vulpes		47679
+                             Vulpes lagopus		6493
+                             Vulpes vulpes		5227
+                            Canis		41736
+                             Canis lupus		41736
+                              Canis lupus dingo		688
+                              Canis lupus familiaris		1800
+                           Phocidae		185
+                            Leptonychotes		14
+                             Leptonychotes weddellii		14
+                           Ursidae		165
+                            Ailuropoda		66
+                             Ailuropoda melanoleuca		66
+                         Artiodactyla		1993
+                          Ruminantia		1286
+                           Pecora		1286
+                            Bovidae		444
+                             Caprinae		228
+                              Ovis		116
+                               Ovis aries		116
+                             Bovinae		85
+                            Cervidae		227
+                             Cervinae		129
+                              Cervus		129
+                          Whippomorpha		37
+                           Cetacea		37
+                            Odontoceti		17
+                             Delphinidae		5
+                          Suina		529
+                           Suidae		529
+                            Sus		187
+                             Sus scrofa		187
+                         Eulipotyphla		2711
+                          Erinaceidae		2711
+                           Erinaceinae		2711
+                            Erinaceus		2711
+                             Erinaceus europaeus		2711
+                         Perissodactyla		25
+                          Equidae		22
+                           Equus		22
+                         Chiroptera		55
+                          Microchiroptera		51
+                           Phyllostomidae		29
+                            Phyllostominae		2
+                             Phyllostomus		2
+                            Desmodontinae		6
+                             Desmodus		6
+                              Desmodus rotundus		6
+                        Euarchontoglires		52184
+                         Glires		40881
+                          Rodentia		37287
+                           Myomorpha		36165
+                            Muroidea		35381
+                             Muridae		28068
+                              Murinae		27804
+                               Rattus		24450
+                                Rattus norvegicus		2305
+                                Rattus rattus		9529
+                               Arvicanthis		32
+                                Arvicanthis niloticus		32
+                               Mus		34
+                                Coelomys		22
+                                 Mus pahari		22
+                             Cricetidae		98
+                              Neotominae		49
+                               Onychomys		19
+                                Onychomys torridus		19
+                               Peromyscus		23
+                                Peromyscus maniculatus		10
+                                 Peromyscus maniculatus bairdii		10
+                             Spalacidae		2280
+                              Spalacinae		2280
+                               Nannospalax		2280
+                                Nannospalax galili		2280
+                           Castorimorpha		15
+                            Heteromyidae		15
+                             Perognathinae		14
+                              Perognathus		14
+                               Perognathus longimembris		14
+                                Perognathus longimembris pacificus		14
+                           Sciuromorpha		340
+                            Sciuridae		340
+                             Xerinae		295
+                              Marmotini		295
+                          Lagomorpha		3564
+                           Leporidae		3232
+                            Oryctolagus		3232
+                             Oryctolagus cuniculus		3232
+                           Ochotonidae		3
+                            Ochotona		3
+                         Primates		10689
+                          Haplorrhini		10313
+                           Simiiformes		10221
+                            Catarrhini		8368
+                             Hominoidea		6087
+                              Hominidae		4375
+                               Homininae		3483
+                                Homo		1099
+                                 Homo sapiens		1099
+                             Cercopithecoidea		23
+                              Cercopithecidae		23
+                               Cercopithecinae		15
+                                Chlorocebus		8
+                                 Chlorocebus sabaeus		8
+                            Platyrrhini		19
+                             Cebidae		14
+                              Callitrichinae		11
+                               Callithrix		11
+                                Callithrix		11
+                                 Callithrix jacchus		11
+                       Afrotheria		25
+                        Chrysochloridae		6
+                         Chrysochlorinae		6
+                          Chrysochloris		6
+                           Chrysochloris asiatica		6

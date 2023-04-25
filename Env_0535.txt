@@ -1,0 +1,78 @@
+                     Theria		86232
+                      Eutheria		85964
+                       Boreoeutheria		84705
+                        Euarchontoglires		70757
+                         Primates		65985
+                          Haplorrhini		63804
+                           Simiiformes		63263
+                            Catarrhini		51817
+                             Hominoidea		37702
+                              Hominidae		26691
+                               Homininae		21269
+                                Homo		6704
+                                 Homo sapiens		6704
+                                Gorilla		30
+                                 Gorilla gorilla		30
+                                  Gorilla gorilla gorilla		30
+                               Ponginae		34
+                                Pongo		34
+                                 Pongo abelii		34
+                             Cercopithecoidea		46
+                              Cercopithecidae		46
+                               Cercopithecinae		19
+                            Platyrrhini		19
+                             Aotidae		6
+                              Aotus		6
+                               Aotus nancymaae		6
+                         Glires		3366
+                          Rodentia		1732
+                           Myomorpha		1648
+                            Muroidea		1604
+                             Spalacidae		109
+                              Spalacinae		109
+                               Nannospalax		109
+                                Nannospalax galili		109
+                             Muridae		1283
+                              Murinae		1274
+                               Rattus		1108
+                                Rattus norvegicus		117
+                                Rattus rattus		412
+                            Dipodoidea		7
+                             Dipodidae		7
+                              Dipodinae		7
+                               Jaculus		7
+                                Jaculus jaculus		7
+                           Sciuromorpha		45
+                            Sciuridae		45
+                             Xerinae		42
+                              Marmotini		42
+                          Lagomorpha		1633
+                           Leporidae		1494
+                            Oryctolagus		1494
+                             Oryctolagus cuniculus		1494
+                        Laurasiatheria		10277
+                         Carnivora		8365
+                          Caniformia		7956
+                           Canidae		5459
+                            Vulpes		664
+                            Canis		914
+                             Canis lupus		914
+                              Canis lupus dingo		12
+                           Mustelidae		1507
+                            Melinae		785
+                             Meles		785
+                              Meles meles		785
+                           Phocidae		6
+                         Artiodactyla		864
+                          Ruminantia		580
+                           Pecora		580
+                            Bovidae		329
+                             Bovinae		267
+                              Bos		44
+                          Suina		251
+                           Suidae		251
+                         Eulipotyphla		777
+                          Erinaceidae		775
+                           Erinaceinae		775
+                            Erinaceus		775
+                             Erinaceus europaeus		775

@@ -1,0 +1,131 @@
+                     Theria		606377
+                      Eutheria		598405
+                       Boreoeutheria		585521
+                        Laurasiatheria		499997
+                         Carnivora		472682
+                          Caniformia		449952
+                           Ursidae		282
+                            Ursus		122
+                           Phocidae		284
+                            Neomonachus		23
+                             Neomonachus schauinslandi		23
+                           Mustelidae		12364
+                            Lutrinae		233
+                             Lutra		54
+                              Lutra lutra		54
+                            Melinae		6396
+                             Meles		6396
+                              Meles meles		6396
+                           Canidae		389211
+                            Vulpes		69261
+                             Vulpes lagopus		10937
+                             Vulpes vulpes		7645
+                            Canis		54353
+                             Canis lupus		54353
+                              Canis lupus familiaris		2382
+                              Canis lupus dingo		854
+                           Odobenidae		62
+                            Odobenus		62
+                             Odobenus rosmarus		62
+                              Odobenus rosmarus divergens		62
+                          Feliformia		748
+                           Felidae		428
+                           Herpestidae		55
+                            Suricata		55
+                             Suricata suricatta		55
+                         Artiodactyla		5043
+                          Ruminantia		3416
+                           Pecora		3416
+                            Bovidae		1346
+                             Bovinae		174
+                             Caprinae		842
+                              Capra		405
+                               Capra hircus		405
+                            Cervidae		492
+                             Cervinae		255
+                              Cervus		255
+                               Cervus elaphus		24
+                          Whippomorpha		61
+                           Cetacea		61
+                            Odontoceti		30
+                             Delphinidae		6
+                          Suina		1376
+                           Suidae		1376
+                            Phacochoerus		49
+                             Phacochoerus africanus		49
+                            Sus		451
+                             Sus scrofa		451
+                         Perissodactyla		41
+                          Rhinocerotidae		37
+                           Ceratotherium		37
+                            Ceratotherium simum		37
+                             Ceratotherium simum simum		37
+                         Eulipotyphla		5871
+                          Erinaceidae		5863
+                           Erinaceinae		5863
+                            Erinaceus		5863
+                             Erinaceus europaeus		5863
+                          Talpidae		3
+                         Chiroptera		33
+                          Microchiroptera		28
+                           Vespertilionidae		9
+                        Euarchontoglires		68935
+                         Glires		33155
+                          Rodentia		2131
+                           Hystricomorpha		114
+                           Myomorpha		1593
+                            Muroidea		1448
+                             Spalacidae		435
+                              Spalacinae		435
+                               Nannospalax		435
+                                Nannospalax galili		435
+                             Muridae		302
+                              Murinae		295
+                               Rattus		239
+                                Rattus rattus		95
+                           Sciuromorpha		212
+                            Sciuridae		212
+                             Xerinae		198
+                              Marmotini		198
+                               Marmota		90
+                               Ictidomys		2
+                                Ictidomys tridecemlineatus		2
+                               Urocitellus		3
+                                Urocitellus parryii		3
+                           Castorimorpha		29
+                            Heteromyidae		29
+                             Perognathinae		26
+                              Perognathus		26
+                               Perognathus longimembris		26
+                                Perognathus longimembris pacificus		26
+                          Lagomorpha		30951
+                           Leporidae		27858
+                            Oryctolagus		27858
+                             Oryctolagus cuniculus		27858
+                         Primates		34741
+                          Haplorrhini		33437
+                           Simiiformes		33098
+                            Catarrhini		26855
+                             Hominoidea		19371
+                              Hominidae		13914
+                               Homininae		11130
+                                Homo		3621
+                                 Homo sapiens		3621
+                              Hylobatidae		12
+                             Cercopithecoidea		44
+                              Cercopithecidae		44
+                               Cercopithecinae		20
+                                Chlorocebus		10
+                                 Chlorocebus sabaeus		10
+                            Platyrrhini		27
+                             Cebidae		14
+                              Cebinae		10
+                           Tarsiiformes		16
+                            Tarsiidae		16
+                             Carlito		16
+                              Carlito syrichta		16
+                      Metatheria		11
+                       Diprotodontia		6
+                        Phascolarctidae		5
+                         Phascolarctos		5
+                          Phascolarctos cinereus		5

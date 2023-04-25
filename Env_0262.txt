@@ -1,0 +1,41 @@
+                     Theria		5520844
+                      Eutheria		5518412
+                       Boreoeutheria		5508346
+                        Laurasiatheria		5490417
+                         Artiodactyla		5450320
+                          Ruminantia		4915853
+                           Pecora		4915853
+                            Cervidae		2292
+                             Cervinae		1524
+                              Cervus		1524
+                            Bovidae		4296786
+                             Caprinae		7810
+                              Capra		2289
+                               Capra hircus		2289
+                              Ovis		2749
+                               Ovis aries		2749
+                             Bovinae		3900546
+                              Bos		1324531
+                               Bos mutus		7980
+                               Bos indicus		13472
+                               Bos indicus x Bos taurus		36650
+                               Bos taurus		246352
+                              Bison		69213
+                               Bison bison		69213
+                                Bison bison bison		69206
+                              Bubalus		6353
+                               Bubalus bubalis		6353
+                          Suina		496931
+                           Suidae		496931
+                            Sus		266435
+                             Sus scrofa		266435
+                            Phacochoerus		12417
+                             Phacochoerus africanus		12417
+                          Whippomorpha		164
+                           Cetacea		164
+                        Euarchontoglires		1363
+                         Primates		1306
+                          Haplorrhini		1265
+                           Simiiformes		1256
+                            Catarrhini		1020
+                             Hominoidea		561

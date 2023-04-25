@@ -1,0 +1,22 @@
+                     Theria		74175
+                      Eutheria		73041
+                       Boreoeutheria		71012
+                        Euarchontoglires		25708
+                         Primates		24195
+                          Haplorrhini		23170
+                           Simiiformes		22914
+                            Catarrhini		18075
+                             Hominoidea		12349
+                              Hominidae		7942
+                               Homininae		5840
+                         Glires		557
+                          Rodentia		470
+                        Laurasiatheria		41079
+                         Artiodactyla		3493
+                          Ruminantia		3100
+                           Pecora		3100
+                         Carnivora		35865
+                          Caniformia		33843
+                           Canidae		29830
+                            Canis		6955
+                             Canis lupus		6955

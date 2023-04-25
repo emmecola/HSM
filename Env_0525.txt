@@ -1,0 +1,93 @@
+                     Theria		2670422
+                      Eutheria		2650808
+                       Boreoeutheria		2619017
+                        Euarchontoglires		1488965
+                         Primates		487698
+                          Haplorrhini		463046
+                           Simiiformes		457596
+                            Catarrhini		362177
+                             Hominoidea		264913
+                              Hominidae		190989
+                               Homininae		155241
+                                Pan		794
+                                Homo		50249
+                                 Homo sapiens		50249
+                                Gorilla		329
+                                 Gorilla gorilla		329
+                                  Gorilla gorilla gorilla		329
+                             Cercopithecoidea		189
+                              Cercopithecidae		189
+                         Glires		984351
+                          Lagomorpha		238821
+                           Leporidae		218990
+                            Oryctolagus		218990
+                             Oryctolagus cuniculus		218990
+                          Rodentia		744806
+                           Myomorpha		735803
+                            Muroidea		733390
+                             Muridae		693620
+                              Murinae		687614
+                               Rattus		616883
+                                Rattus norvegicus		290694
+                                Rattus rattus		7789
+                             Spalacidae		1076
+                              Spalacinae		1076
+                               Nannospalax		1076
+                                Nannospalax galili		1076
+                           Hystricomorpha		3603
+                            Octodontidae		1886
+                             Octodon		1886
+                              Octodon degus		1886
+                           Castorimorpha		23
+                            Heteromyidae		22
+                             Perognathinae		18
+                              Perognathus		18
+                               Perognathus longimembris		18
+                                Perognathus longimembris pacificus		18
+                        Laurasiatheria		1070977
+                         Artiodactyla		11095
+                          Ruminantia		7879
+                           Pecora		7879
+                            Cervidae		219
+                             Cervinae		131
+                              Cervus		131
+                            Bovidae		4327
+                             Caprinae		2221
+                              Ovis		1068
+                               Ovis aries		1068
+                             Bovinae		1080
+                          Suina		2421
+                           Suidae		2421
+                            Sus		844
+                             Sus scrofa		844
+                          Whippomorpha		25
+                           Cetacea		25
+                         Carnivora		1030239
+                          Caniformia		572987
+                           Mustelidae		2732
+                            Mustelinae		81
+                            Melinae		1292
+                             Meles		1292
+                              Meles meles		1292
+                           Canidae		520388
+                            Vulpes		52808
+                             Vulpes vulpes		5971
+                             Vulpes lagopus		9457
+                            Canis		148985
+                             Canis lupus		148985
+                              Canis lupus familiaris		8787
+                              Canis lupus dingo		2141
+                          Feliformia		408271
+                           Felidae		367264
+                            Felinae		88590
+                             Lynx		270
+                             Prionailurus		592
+                             Felis		47882
+                              Felis catus		47882
+                            Pantherinae		362
+                             Panthera		362
+                         Eulipotyphla		4897
+                          Erinaceidae		4894
+                           Erinaceinae		4894
+                            Erinaceus		4894
+                             Erinaceus europaeus		4894

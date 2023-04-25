@@ -1,0 +1,54 @@
+                     Theria		45799
+                      Eutheria		45778
+                       Boreoeutheria		45680
+                        Euarchontoglires		8808
+                         Primates		8747
+                          Haplorrhini		8688
+                           Simiiformes		8658
+                            Catarrhini		7957
+                             Hominoidea		6946
+                              Hominidae		5820
+                               Homininae		5072
+                                Pan		31
+                                Homo		2002
+                                 Homo sapiens		2002
+                                Gorilla		12
+                                 Gorilla gorilla		12
+                                  Gorilla gorilla gorilla		12
+                         Glires		22
+                          Rodentia		22
+                           Hystricomorpha		1
+                            Chinchillidae		1
+                             Chinchilla		1
+                              Chinchilla lanigera		1
+                           Myomorpha		6
+                            Muroidea		5
+                        Laurasiatheria		36653
+                         Artiodactyla		36463
+                          Suina		1994
+                           Suidae		1994
+                            Phacochoerus		69
+                             Phacochoerus africanus		69
+                            Sus		1064
+                             Sus scrofa		1064
+                          Ruminantia		33240
+                           Pecora		33240
+                            Bovidae		28512
+                             Bovinae		759
+                              Bos		200
+                               Bos taurus		39
+                              Bubalus		30
+                               Bubalus bubalis		30
+                             Caprinae		23930
+                              Ovis		13986
+                               Ovis aries		13986
+                              Capra		780
+                               Capra hircus		780
+                            Cervidae		44
+                             Cervinae		29
+                              Cervus		29
+                         Carnivora		38
+                          Caniformia		35
+                           Canidae		33
+                            Canis		20
+                             Canis lupus		20

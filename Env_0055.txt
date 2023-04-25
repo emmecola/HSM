@@ -1,0 +1,45 @@
+                     Theria		577330
+                      Eutheria		576943
+                       Boreoeutheria		575765
+                        Euarchontoglires		52464
+                         Primates		48065
+                          Haplorrhini		47806
+                           Simiiformes		47617
+                            Catarrhini		44770
+                             Hominoidea		40146
+                              Hominidae		33824
+                               Homininae		29571
+                                Homo		12328
+                                 Homo sapiens		12328
+                         Glires		4209
+                          Lagomorpha		2818
+                           Leporidae		2757
+                            Oryctolagus		2757
+                             Oryctolagus cuniculus		2757
+                          Rodentia		1378
+                           Myomorpha		1263
+                            Muroidea		1256
+                             Muridae		1171
+                              Murinae		1167
+                               Rattus		970
+                        Laurasiatheria		521056
+                         Carnivora		10391
+                          Caniformia		10244
+                           Canidae		10002
+                            Canis		6346
+                             Canis lupus		6346
+                         Artiodactyla		508634
+                          Ruminantia		468766
+                           Pecora		468766
+                            Bovidae		407963
+                             Bovinae		13022
+                              Bos		3637
+                             Caprinae		342511
+                              Capra		13472
+                               Capra hircus		13472
+                              Ovis		201573
+                               Ovis aries		201573
+                          Suina		24680
+                           Suidae		24680
+                            Sus		14112
+                             Sus scrofa		14112

@@ -1,0 +1,52 @@
+                     Theria		1224304
+                      Eutheria		1223616
+                       Boreoeutheria		1221622
+                        Laurasiatheria		1069196
+                         Artiodactyla		1061415
+                          Suina		16866
+                           Suidae		16866
+                            Sus		9425
+                             Sus scrofa		9425
+                          Ruminantia		1025076
+                           Pecora		1025076
+                            Cervidae		726
+                             Cervinae		437
+                              Cervus		437
+                            Bovidae		886281
+                             Bovinae		344879
+                              Bos		118639
+                               Bos indicus x Bos taurus		3161
+                               Bos taurus		21342
+                              Bubalus		1230
+                               Bubalus bubalis		1230
+                             Caprinae		438542
+                              Ovis		253171
+                               Ovis aries		253171
+                              Capra		16661
+                               Capra hircus		16661
+                         Carnivora		2389
+                          Caniformia		2305
+                           Canidae		2138
+                            Canis		1345
+                             Canis lupus		1345
+                          Feliformia		12
+                        Euarchontoglires		147538
+                         Primates		141888
+                          Haplorrhini		141071
+                           Simiiformes		140766
+                            Catarrhini		130933
+                             Hominoidea		116936
+                              Hominidae		98698
+                               Homininae		86522
+                                Pan		461
+                                Homo		35013
+                                 Homo sapiens		35013
+                         Glires		5153
+                          Rodentia		5139
+                           Myomorpha		5076
+                            Muroidea		5065
+                             Muridae		4965
+                              Murinae		4953
+                               Rattus		4748
+                                Rattus rattus		531
+                                Rattus norvegicus		2670

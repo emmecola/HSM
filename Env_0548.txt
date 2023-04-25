@@ -1,0 +1,46 @@
+                     Theria		83195
+                      Eutheria		83071
+                       Boreoeutheria		81917
+                        Euarchontoglires		37907
+                         Primates		12919
+                          Haplorrhini		12415
+                           Simiiformes		12287
+                            Catarrhini		9949
+                             Hominoidea		7282
+                              Hominidae		5227
+                               Homininae		4230
+                                Homo		1393
+                                 Homo sapiens		1393
+                         Glires		24456
+                          Lagomorpha		24317
+                           Leporidae		21044
+                            Oryctolagus		21044
+                             Oryctolagus cuniculus		21044
+                          Rodentia		12
+                           Castorimorpha		1
+                            Heteromyidae		1
+                        Laurasiatheria		42167
+                         Artiodactyla		882
+                          Ruminantia		268
+                           Pecora		268
+                            Bovidae		109
+                             Bovinae		60
+                              Bos		12
+                          Suina		579
+                           Suidae		579
+                            Sus		208
+                             Sus scrofa		208
+                         Carnivora		238
+                          Caniformia		150
+                           Canidae		63
+                           Mustelidae		34
+                           Ursidae		9
+                            Ursus		6
+                             Ursus maritimus		4
+                          Feliformia		79
+                           Felidae		76
+                         Eulipotyphla		40281
+                          Erinaceidae		40261
+                           Erinaceinae		40261
+                            Erinaceus		40261
+                             Erinaceus europaeus		40261

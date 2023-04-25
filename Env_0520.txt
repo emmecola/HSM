@@ -1,0 +1,67 @@
+                     Theria		7990361
+                      Eutheria		7955286
+                       Boreoeutheria		7848472
+                        Laurasiatheria		1722097
+                         Eulipotyphla		135345
+                          Erinaceidae		135256
+                           Erinaceinae		135256
+                            Erinaceus		135256
+                             Erinaceus europaeus		135256
+                         Artiodactyla		333284
+                          Ruminantia		1753
+                           Pecora		1753
+                            Bovidae		260
+                          Suina		320913
+                           Suidae		320913
+                            Sus		115950
+                             Sus scrofa		115950
+                            Phacochoerus		5578
+                             Phacochoerus africanus		5578
+                         Carnivora		1210343
+                          Feliformia		25458
+                           Felidae		22871
+                            Felinae		4930
+                             Felis		2614
+                              Felis catus		2614
+                          Caniformia		1136831
+                           Canidae		974986
+                            Vulpes		39549
+                             Vulpes vulpes		4524
+                             Vulpes lagopus		5888
+                            Canis		370696
+                             Canis lupus		370696
+                              Canis lupus dingo		6257
+                              Canis lupus familiaris		21530
+                           Mustelidae		61996
+                            Melinae		32231
+                             Meles		32231
+                              Meles meles		32231
+                        Euarchontoglires		5992668
+                         Glires		5822534
+                          Lagomorpha		2882881
+                           Leporidae		2688685
+                            Oryctolagus		2688685
+                             Oryctolagus cuniculus		2688685
+                          Rodentia		2931011
+                           Myomorpha		2193
+                            Muroidea		1799
+                           Sciuromorpha		2892505
+                            Sciuridae		2892505
+                             Xerinae		2743699
+                              Marmotini		2743699
+                               Marmota		1355158
+                                Marmota flaviventris		21833
+                                Marmota monax		29134
+                                Marmota marmota		106650
+                                 Marmota marmota marmota		106650
+                               Ictidomys		3076
+                                Ictidomys tridecemlineatus		3076
+                         Primates		127085
+                          Haplorrhini		122171
+                           Simiiformes		119976
+                            Catarrhini		97200
+                             Hominoidea		70810
+                              Hominidae		50337
+                               Homininae		40661
+                                Homo		13159
+                                 Homo sapiens		13159

@@ -1,0 +1,53 @@
+                     Theria		1368336
+                      Eutheria		1365592
+                       Boreoeutheria		1361729
+                        Euarchontoglires		237226
+                         Glires		48676
+                          Lagomorpha		47219
+                           Leporidae		46386
+                            Oryctolagus		46386
+                             Oryctolagus cuniculus		46386
+                          Rodentia		1380
+                           Myomorpha		1233
+                            Muroidea		1176
+                             Muridae		927
+                              Murinae		927
+                               Rattus		705
+                         Primates		187710
+                          Haplorrhini		186537
+                           Simiiformes		186134
+                            Catarrhini		172593
+                             Hominoidea		151920
+                              Hominidae		126357
+                               Homininae		109978
+                                Homo		43685
+                                 Homo sapiens		43685
+                        Laurasiatheria		1117319
+                         Carnivora		579360
+                          Feliformia		30651
+                           Felidae		29465
+                            Felinae		11897
+                             Felis		7161
+                              Felis catus		7161
+                          Caniformia		543248
+                           Canidae		532497
+                            Vulpes		3888
+                            Canis		353560
+                             Canis lupus		353560
+                              Canis lupus dingo		7996
+                              Canis lupus familiaris		29042
+                         Artiodactyla		532541
+                          Suina		24699
+                           Suidae		24699
+                            Sus		13539
+                             Sus scrofa		13539
+                          Ruminantia		500407
+                           Pecora		500407
+                            Bovidae		426141
+                             Bovinae		32367
+                              Bos		8647
+                             Caprinae		337077
+                              Ovis		61635
+                               Ovis aries		61635
+                              Capra		155165
+                               Capra hircus		155165

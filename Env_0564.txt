@@ -1,0 +1,114 @@
+                     Theria		148625
+                      Eutheria		147765
+                       Boreoeutheria		144795
+                        Laurasiatheria		118129
+                         Artiodactyla		87167
+                          Ruminantia		43817
+                           Pecora		43817
+                            Cervidae		15629
+                             Odocoileinae		1920
+                              Odocoileus		1920
+                               Odocoileus virginianus		1920
+                                Odocoileus virginianus texanus		1919
+                             Cervinae		7029
+                              Cervus		7029
+                               Cervus elaphus		475
+                               Cervus canadensis		332
+                            Bovidae		4042
+                             Bovinae		934
+                              Bos		70
+                              Bubalus		138
+                               Bubalus bubalis		138
+                             Caprinae		1840
+                              Ovis		708
+                               Ovis aries		708
+                              Capra		157
+                               Capra hircus		157
+                          Suina		39603
+                           Suidae		39603
+                            Sus		12675
+                             Sus scrofa		12675
+                            Phacochoerus		1366
+                             Phacochoerus africanus		1366
+                         Carnivora		26522
+                          Feliformia		123
+                           Felidae		53
+                            Pantherinae		5
+                             Panthera		5
+                              Panthera leo		2
+                           Herpestidae		11
+                            Suricata		11
+                             Suricata suricatta		11
+                          Caniformia		25023
+                           Canidae		16687
+                            Vulpes		2532
+                             Vulpes vulpes		286
+                            Canis		2514
+                             Canis lupus		2514
+                              Canis lupus dingo		49
+                           Mustelidae		4872
+                            Melinae		2543
+                             Meles		2543
+                              Meles meles		2543
+                           Phocidae		18
+                           Ursidae		48
+                            Ursus		29
+                         Eulipotyphla		1191
+                          Erinaceidae		1191
+                           Erinaceinae		1191
+                            Erinaceus		1191
+                             Erinaceus europaeus		1191
+                         Chiroptera		23
+                          Microchiroptera		21
+                           Phyllostomidae		13
+                            Desmodontinae		10
+                             Desmodus		10
+                              Desmodus rotundus		10
+                        Euarchontoglires		23019
+                         Glires		15612
+                          Lagomorpha		11933
+                           Ochotonidae		37
+                            Ochotona		37
+                             Ochotona princeps		17
+                           Leporidae		10085
+                            Oryctolagus		10085
+                             Oryctolagus cuniculus		10085
+                          Rodentia		3622
+                           Myomorpha		3347
+                            Muroidea		3013
+                             Spalacidae		1142
+                              Spalacinae		1142
+                               Nannospalax		1142
+                                Nannospalax galili		1142
+                             Cricetidae		40
+                              Arvicolinae		30
+                               Arvicola		11
+                                Arvicola amphibius		11
+                               Myodes		5
+                                Myodes glareolus		5
+                             Muridae		448
+                              Murinae		438
+                               Rattus		367
+                                Rattus rattus		143
+                           Sciuromorpha		8
+                            Sciuridae		8
+                           Castorimorpha		6
+                            Heteromyidae		6
+                             Perognathinae		5
+                              Perognathus		5
+                               Perognathus longimembris		5
+                                Perognathus longimembris pacificus		5
+                         Primates		7016
+                          Haplorrhini		6802
+                           Simiiformes		6739
+                            Catarrhini		5490
+                             Hominoidea		3981
+                              Hominidae		2821
+                               Homininae		2259
+                                Homo		696
+                                 Homo sapiens		696
+                          Strepsirrhini		9
+                           Lemuriformes		8
+                            Indriidae		5
+                             Propithecus		5
+                              Propithecus coquereli		5

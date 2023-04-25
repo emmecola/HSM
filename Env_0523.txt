@@ -1,0 +1,98 @@
+                     Theria		2897083
+                      Eutheria		2881668
+                       Boreoeutheria		2837008
+                        Euarchontoglires		1051379
+                         Glires		963716
+                          Rodentia		524845
+                           Hystricomorpha		2257
+                            Octodontidae		1267
+                             Octodon		1267
+                              Octodon degus		1267
+                           Myomorpha		518131
+                            Muroidea		516496
+                             Muridae		487225
+                              Murinae		481339
+                               Rattus		423480
+                                Rattus norvegicus		197878
+                                Rattus rattus		6396
+                             Spalacidae		1550
+                              Spalacinae		1550
+                               Nannospalax		1550
+                                Nannospalax galili		1550
+                           Sciuromorpha		429
+                            Sciuridae		429
+                             Xerinae		373
+                              Marmotini		373
+                           Castorimorpha		34
+                            Heteromyidae		32
+                             Perognathinae		24
+                              Perognathus		24
+                               Perognathus longimembris		24
+                                Perognathus longimembris pacificus		24
+                          Lagomorpha		437454
+                           Leporidae		413199
+                            Oryctolagus		413199
+                             Oryctolagus cuniculus		413199
+                         Primates		81364
+                          Haplorrhini		78721
+                           Simiiformes		78071
+                            Catarrhini		64733
+                             Hominoidea		47132
+                              Hominidae		33239
+                               Homininae		26677
+                                Homo		8462
+                                 Homo sapiens		8462
+                             Cercopithecoidea		127
+                              Cercopithecidae		127
+                               Cercopithecinae		63
+                                Chlorocebus		20
+                                 Chlorocebus sabaeus		20
+                        Laurasiatheria		1726433
+                         Carnivora		1657391
+                          Feliformia		662944
+                           Felidae		602174
+                            Felinae		131246
+                             Lynx		379
+                             Puma		126
+                             Prionailurus		1045
+                              Prionailurus bengalensis		280
+                             Felis		70339
+                              Felis catus		70339
+                             Leopardus		383
+                              Leopardus geoffroyi		383
+                          Caniformia		907611
+                           Mustelidae		4411
+                            Melinae		2000
+                             Meles		2000
+                              Meles meles		2000
+                           Phocidae		443
+                           Canidae		814955
+                            Vulpes		129865
+                             Vulpes lagopus		17050
+                             Vulpes vulpes		17442
+                            Canis		161259
+                             Canis lupus		161259
+                              Canis lupus familiaris		7924
+                              Canis lupus dingo		2432
+                         Artiodactyla		11371
+                          Ruminantia		6780
+                           Pecora		6780
+                            Cervidae		602
+                             Cervinae		342
+                              Cervus		342
+                            Bovidae		3136
+                             Bovinae		997
+                             Caprinae		1368
+                              Ovis		608
+                               Ovis aries		608
+                          Suina		3962
+                           Suidae		3962
+                            Phacochoerus		116
+                             Phacochoerus africanus		116
+                            Sus		1356
+                             Sus scrofa		1356
+                         Eulipotyphla		7833
+                          Erinaceidae		7826
+                           Erinaceinae		7826
+                            Erinaceus		7826
+                             Erinaceus europaeus		7826

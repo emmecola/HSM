@@ -1,0 +1,39 @@
+                     Theria		5975323
+                      Eutheria		5972363
+                       Boreoeutheria		5961734
+                        Euarchontoglires		24568
+                         Primates		24063
+                          Haplorrhini		23932
+                           Simiiformes		23884
+                            Catarrhini		22292
+                             Hominoidea		19644
+                              Hominidae		16294
+                               Homininae		14192
+                                Homo		5806
+                                 Homo sapiens		5806
+                         Glires		257
+                          Rodentia		239
+                           Myomorpha		145
+                            Muroidea		132
+                        Laurasiatheria		5918424
+                         Artiodactyla		5880300
+                          Suina		29635
+                           Suidae		29635
+                            Sus		15857
+                             Sus scrofa		15857
+                          Ruminantia		5802018
+                           Pecora		5802018
+                            Cervidae		1235
+                            Bovidae		5061140
+                             Bovinae		3888689
+                              Bos		1320508
+                               Bos taurus		231276
+                               Bos indicus x Bos taurus		34880
+                               Bos indicus		20491
+                              Bubalus		8592
+                               Bubalus bubalis		8592
+                             Caprinae		676405
+                              Ovis		386436
+                               Ovis aries		386436
+                              Capra		22758
+                               Capra hircus		22758

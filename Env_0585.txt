@@ -1,0 +1,254 @@
+                     Theria		1099440
+                      Eutheria		1080058
+                       Xenarthra		815
+                        Pilosa		367
+                         Folivora		367
+                          Megalonychidae		367
+                           Choloepus		367
+                            Choloepus didactylus		367
+                        Cingulata		361
+                         Dasypodidae		361
+                          Dasypus		361
+                           Dasypus novemcinctus		361
+                       Boreoeutheria		975142
+                        Euarchontoglires		640797
+                         Glires		548031
+                          Rodentia		507334
+                           Hystricomorpha		347481
+                            Bathyergidae		80698
+                             Heterocephalus		38376
+                              Heterocephalus glaber		38376
+                             Fukomys		22272
+                              Fukomys damarensis		22272
+                            Caviidae		13922
+                             Cavia		13922
+                              Cavia porcellus		13922
+                            Octodontidae		11311
+                             Octodon		11311
+                              Octodon degus		11311
+                            Chinchillidae		24204
+                             Chinchilla		24204
+                              Chinchilla lanigera		24204
+                           Castorimorpha		5651
+                            Heteromyidae		1957
+                             Perognathinae		462
+                              Perognathus		462
+                               Perognathus longimembris		462
+                                Perognathus longimembris pacificus		462
+                             Dipodomyinae		759
+                              Dipodomys		759
+                               Dipodomys ordii		192
+                            Castoridae		2681
+                             Castor		2681
+                              Castor canadensis		2681
+                           Myomorpha		30516
+                            Muroidea		28712
+                             Cricetidae		2560
+                              Cricetinae		709
+                               Cricetulus		311
+                                Cricetulus griseus		311
+                               Mesocricetus		338
+                                Mesocricetus auratus		338
+                              Neotominae		1201
+                               Peromyscus		173
+                               Onychomys		832
+                                Onychomys torridus		832
+                              Arvicolinae		233
+                             Muridae		15896
+                              Murinae		15330
+                               Rattus		13086
+                                Rattus norvegicus		1804
+                                Rattus rattus		4939
+                               Mus		133
+                                Mus		82
+                               Grammomys		174
+                                Grammomys surdaster		174
+                              Gerbillinae		348
+                               Meriones		348
+                                Meriones unguiculatus		348
+                             Spalacidae		1522
+                              Spalacinae		1522
+                               Nannospalax		1522
+                                Nannospalax galili		1522
+                            Dipodoidea		1006
+                             Dipodidae		1006
+                              Dipodinae		1006
+                               Jaculus		1006
+                                Jaculus jaculus		1006
+                           Sciuromorpha		13149
+                            Sciuridae		13149
+                             Sciurinae		5386
+                              Sciurini		5386
+                             Xerinae		4565
+                              Marmotini		4565
+                               Marmota		1284
+                                Marmota flaviventris		165
+                               Urocitellus		381
+                                Urocitellus parryii		381
+                          Lagomorpha		38167
+                           Ochotonidae		159
+                            Ochotona		159
+                           Leporidae		35219
+                            Oryctolagus		35219
+                             Oryctolagus cuniculus		35219
+                         Primates		24883
+                          Strepsirrhini		2893
+                           Lemuriformes		2120
+                            Cheirogaleidae		470
+                             Microcebus		470
+                              Microcebus murinus		470
+                            Indriidae		444
+                             Propithecus		444
+                              Propithecus coquereli		444
+                            Lemuridae		487
+                             Lemur		487
+                              Lemur catta		487
+                           Lorisiformes		485
+                            Galagidae		485
+                             Otolemur		485
+                              Otolemur garnettii		485
+                          Haplorrhini		19035
+                           Simiiformes		17623
+                            Catarrhini		11973
+                             Hominoidea		7058
+                              Hominidae		4824
+                               Homininae		3660
+                                Homo		1145
+                                 Homo sapiens		1145
+                               Ponginae		191
+                                Pongo		191
+                                 Pongo abelii		191
+                              Hylobatidae		145
+                             Cercopithecoidea		1157
+                              Cercopithecidae		1157
+                               Cercopithecinae		389
+                                Chlorocebus		112
+                                 Chlorocebus sabaeus		112
+                               Colobinae		242
+                            Platyrrhini		1396
+                             Cebidae		711
+                              Cebinae		311
+                               Sapajus		101
+                                Sapajus apella		101
+                              Saimiriinae		242
+                               Saimiri		242
+                                Saimiri boliviensis		242
+                                 Saimiri boliviensis boliviensis		242
+                             Aotidae		252
+                              Aotus		252
+                               Aotus nancymaae		252
+                           Tarsiiformes		732
+                            Tarsiidae		732
+                             Carlito		732
+                              Carlito syrichta		732
+                         Dermoptera		930
+                          Cynocephalidae		930
+                           Galeopterus		930
+                            Galeopterus variegatus		930
+                         Scandentia		534
+                          Tupaiidae		534
+                           Tupaia		534
+                            Tupaia chinensis		534
+                        Laurasiatheria		230199
+                         Eulipotyphla		4599
+                          Erinaceidae		4568
+                           Erinaceinae		4568
+                            Erinaceus		4568
+                             Erinaceus europaeus		4568
+                         Artiodactyla		4932
+                          Whippomorpha		1063
+                           Cetacea		1063
+                            Odontoceti		458
+                             Delphinidae		136
+                              Globicephala		42
+                               Globicephala melas		42
+                          Suina		960
+                           Suidae		960
+                            Sus		258
+                             Sus scrofa		258
+                          Ruminantia		1832
+                           Pecora		1832
+                            Cervidae		511
+                             Cervinae		196
+                              Cervus		196
+                             Odocoileinae		122
+                              Odocoileus		122
+                               Odocoileus virginianus		122
+                                Odocoileus virginianus texanus		122
+                            Bovidae		351
+                             Caprinae		139
+                          Tylopoda		358
+                           Camelidae		358
+                         Perissodactyla		875
+                          Equidae		756
+                           Equus		756
+                         Carnivora		204758
+                          Feliformia		1010
+                           Felidae		655
+                            Felinae		27
+                            Pantherinae		168
+                             Panthera		168
+                              Panthera tigris		28
+                          Caniformia		195947
+                           Phocidae		312
+                            Neomonachus		36
+                             Neomonachus schauinslandi		36
+                            Halichoerus		25
+                             Halichoerus grypus		25
+                           Ursidae		562
+                            Ursus		157
+                           Canidae		179466
+                            Vulpes		3646
+                             Vulpes lagopus		556
+                            Canis		72934
+                             Canis lupus		72934
+                              Canis lupus familiaris		4493
+                              Canis lupus dingo		1067
+                           Mustelidae		371
+                         Chiroptera		3287
+                          Microchiroptera		2831
+                           Vespertilionidae		649
+                            Myotis		227
+                             Myotis myotis		56
+                            Pipistrellus		152
+                             Pipistrellus kuhlii		152
+                           Phyllostomidae		618
+                            Stenodermatinae		161
+                             Artibeus		120
+                              Artibeus jamaicensis		120
+                            Desmodontinae		153
+                             Desmodus		153
+                              Desmodus rotundus		153
+                            Phyllostominae		100
+                             Phyllostomus		100
+                           Molossidae		238
+                            Molossus		238
+                             Molossus molossus		238
+                           Rhinolophidae		511
+                            Rhinolophinae		511
+                             Rhinolophus		511
+                              Rhinolophus ferrumequinum		511
+                          Megachiroptera		234
+                           Pteropodidae		234
+                            Pteropodinae		234
+                         Pholidota		279
+                          Manidae		279
+                           Manis		279
+                       Afrotheria		1040
+                        Proboscidea		265
+                         Elephantidae		265
+                          Loxodonta		265
+                           Loxodonta africana		265
+                        Sirenia		315
+                         Trichechidae		315
+                          Trichechus		315
+                           Trichechus manatus		315
+                            Trichechus manatus latirostris		315
+                        Chrysochloridae		181
+                         Chrysochlorinae		181
+                          Chrysochloris		181
+                           Chrysochloris asiatica		181
+                      Metatheria		276
+                       Didelphimorphia		37
+                        Didelphidae		37
+                         Didelphinae		37

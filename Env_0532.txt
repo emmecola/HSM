@@ -1,0 +1,97 @@
+                     Theria		224665
+                      Eutheria		222747
+                       Boreoeutheria		217477
+                        Laurasiatheria		207139
+                         Artiodactyla		719
+                          Ruminantia		668
+                           Pecora		668
+                            Cervidae		142
+                            Bovidae		47
+                             Caprinae		20
+                              Ovis		7
+                               Ovis aries		7
+                         Carnivora		200011
+                          Caniformia		187501
+                           Phocidae		301
+                           Mustelidae		79606
+                            Mustelinae		5914
+                             Mustela		2124
+                              Mustela erminea		631
+                              Mustela putorius		518
+                               Mustela putorius furo		517
+                             Neogale		1278
+                              Neogale vison		1278
+                            Lutrinae		10735
+                             Lontra		1236
+                              Lontra canadensis		1236
+                             Lutra		960
+                              Lutra lutra		960
+                             Enhydra		1234
+                              Enhydra lutris		1234
+                               Enhydra lutris kenyoni		1233
+                            Melinae		4984
+                             Meles		4984
+                              Meles meles		4984
+                           Ursidae		407
+                            Ursus		163
+                             Ursus maritimus		5
+                            Ailuropoda		81
+                             Ailuropoda melanoleuca		81
+                           Canidae		66869
+                            Vulpes		11740
+                             Vulpes lagopus		1542
+                             Vulpes vulpes		1453
+                            Canis		9455
+                             Canis lupus		9455
+                              Canis lupus familiaris		411
+                              Canis lupus dingo		141
+                          Feliformia		219
+                           Felidae		127
+                            Pantherinae		18
+                             Panthera		18
+                              Panthera pardus		2
+                            Felinae		12
+                             Leopardus		6
+                              Leopardus geoffroyi		6
+                           Hyaenidae		38
+                            Hyaena		38
+                             Hyaena hyaena		38
+                        Euarchontoglires		2427
+                         Primates		1410
+                          Haplorrhini		1361
+                           Simiiformes		1342
+                            Catarrhini		1129
+                             Hominoidea		813
+                              Hominidae		558
+                               Homininae		448
+                                Homo		145
+                                 Homo sapiens		145
+                         Glires		940
+                          Lagomorpha		748
+                           Ochotonidae		7
+                            Ochotona		7
+                             Ochotona princeps		6
+                           Leporidae		682
+                            Oryctolagus		682
+                             Oryctolagus cuniculus		682
+                          Rodentia		190
+                           Castorimorpha		34
+                            Heteromyidae		34
+                             Perognathinae		32
+                              Perognathus		32
+                               Perognathus longimembris		32
+                                Perognathus longimembris pacificus		32
+                           Sciuromorpha		34
+                            Sciuridae		34
+                             Xerinae		29
+                              Marmotini		29
+                           Hystricomorpha		7
+                            Octodontidae		2
+                             Octodon		2
+                              Octodon degus		2
+                           Myomorpha		72
+                            Muroidea		57
+                             Cricetidae		6
+                              Cricetinae		3
+                               Cricetulus		3
+                                Cricetulus griseus		3

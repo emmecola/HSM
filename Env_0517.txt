@@ -1,0 +1,49 @@
+                     Theria		9729
+                      Eutheria		9644
+                       Boreoeutheria		9441
+                        Laurasiatheria		8150
+                         Carnivora		7817
+                          Caniformia		7317
+                           Canidae		6674
+                            Vulpes		1856
+                             Vulpes lagopus		353
+                             Vulpes vulpes		195
+                            Canis		783
+                             Canis lupus		783
+                              Canis lupus dingo		8
+                           Mustelidae		8
+                            Mustelinae		3
+                             Mustela		2
+                              Mustela erminea		1
+                            Lutrinae		2
+                          Feliformia		167
+                           Felidae		144
+                         Eulipotyphla		46
+                          Erinaceidae		46
+                           Erinaceinae		46
+                            Erinaceus		46
+                             Erinaceus europaeus		46
+                         Artiodactyla		32
+                          Ruminantia		27
+                           Pecora		27
+                            Cervidae		3
+                        Euarchontoglires		1036
+                         Glires		847
+                          Lagomorpha		432
+                           Leporidae		403
+                            Oryctolagus		403
+                             Oryctolagus cuniculus		403
+                          Rodentia		412
+                           Myomorpha		370
+                            Muroidea		325
+                             Spalacidae		149
+                              Spalacinae		149
+                               Nannospalax		149
+                                Nannospalax galili		149
+                         Primates		167
+                          Haplorrhini		163
+                           Simiiformes		158
+                            Catarrhini		134
+                             Hominoidea		83
+                              Hominidae		50
+                               Homininae		40

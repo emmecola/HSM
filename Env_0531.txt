@@ -1,0 +1,92 @@
+                     Theria		191153
+                      Eutheria		188344
+                       Boreoeutheria		184953
+                        Laurasiatheria		164728
+                         Carnivora		94945
+                          Caniformia		90855
+                           Canidae		73077
+                            Vulpes		11155
+                             Vulpes vulpes		1329
+                             Vulpes lagopus		1933
+                            Canis		13230
+                             Canis lupus		13230
+                              Canis lupus dingo		250
+                              Canis lupus familiaris		670
+                           Mustelidae		8085
+                            Melinae		4483
+                             Meles		4483
+                              Meles meles		4483
+                           Ursidae		33
+                            Ursus		21
+                         Artiodactyla		65472
+                          Suina		48514
+                           Suidae		48514
+                            Sus		16051
+                             Sus scrofa		16051
+                            Phacochoerus		1725
+                             Phacochoerus africanus		1725
+                          Ruminantia		15178
+                           Pecora		15178
+                            Cervidae		5312
+                             Odocoileinae		676
+                              Odocoileus		676
+                               Odocoileus virginianus		676
+                                Odocoileus virginianus texanus		675
+                             Cervinae		2371
+                              Cervus		2371
+                            Bovidae		1065
+                             Bovinae		406
+                             Caprinae		313
+                              Capra		82
+                               Capra hircus		82
+                              Ovis		103
+                               Ovis aries		103
+                         Eulipotyphla		296
+                          Erinaceidae		296
+                           Erinaceinae		296
+                            Erinaceus		296
+                             Erinaceus europaeus		296
+                         Pholidota		26
+                          Manidae		26
+                           Manis		26
+                        Euarchontoglires		15950
+                         Glires		6467
+                          Rodentia		1033
+                           Myomorpha		740
+                            Muroidea		664
+                             Muridae		191
+                              Murinae		191
+                               Rattus		158
+                             Spalacidae		160
+                              Spalacinae		160
+                               Nannospalax		160
+                                Nannospalax galili		160
+                           Sciuromorpha		143
+                            Sciuridae		143
+                             Xerinae		140
+                              Marmotini		140
+                               Marmota		73
+                                Marmota marmota		9
+                                 Marmota marmota marmota		9
+                          Lagomorpha		5409
+                           Ochotonidae		14
+                            Ochotona		14
+                             Ochotona princeps		8
+                           Leporidae		4632
+                            Oryctolagus		4632
+                             Oryctolagus cuniculus		4632
+                         Primates		9140
+                          Haplorrhini		8768
+                           Simiiformes		8677
+                            Catarrhini		7081
+                             Hominoidea		5068
+                              Hominidae		3559
+                               Homininae		2811
+                                Homo		912
+                                 Homo sapiens		912
+                      Metatheria		3
+                       Didelphimorphia		3
+                        Didelphidae		3
+                         Didelphinae		3
+                          Gracilinanus		1
+                           Gracilinanus agilis		1

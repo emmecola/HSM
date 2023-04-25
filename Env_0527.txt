@@ -1,0 +1,97 @@
+                     Theria		3446476
+                      Eutheria		3390999
+                       Boreoeutheria		3323176
+                        Laurasiatheria		3084807
+                         Artiodactyla		7116
+                          Suina		704
+                           Suidae		704
+                          Ruminantia		5947
+                           Pecora		5947
+                            Bovidae		676
+                             Bovinae		371
+                            Cervidae		1641
+                             Cervinae		807
+                              Cervus		807
+                         Carnivora		2997178
+                          Feliformia		1505
+                           Felidae		836
+                           Herpestidae		173
+                            Suricata		173
+                             Suricata suricatta		173
+                          Caniformia		2858676
+                           Otariidae		436
+                           Phocidae		1459
+                           Mustelidae		902295
+                            Lutrinae		27944
+                             Lutra		2672
+                              Lutra lutra		2672
+                             Enhydra		3149
+                              Enhydra lutris		3149
+                               Enhydra lutris kenyoni		3142
+                             Lontra		3650
+                              Lontra canadensis		3650
+                            Mustelinae		17067
+                             Mustela		6379
+                              Mustela erminea		1806
+                              Mustela putorius		1799
+                               Mustela putorius furo		1799
+                             Neogale		3689
+                              Neogale vison		3689
+                            Melinae		421228
+                             Meles		421228
+                              Meles meles		421228
+                           Canidae		1544434
+                            Vulpes		128186
+                             Vulpes vulpes		14761
+                             Vulpes lagopus		22621
+                            Canis		479057
+                             Canis lupus		479057
+                              Canis lupus dingo		7358
+                              Canis lupus familiaris		29653
+                           Ursidae		742
+                         Eulipotyphla		1859
+                          Erinaceidae		1856
+                           Erinaceinae		1856
+                            Erinaceus		1856
+                             Erinaceus europaeus		1856
+                        Euarchontoglires		147447
+                         Glires		132237
+                          Lagomorpha		37421
+                           Leporidae		33411
+                            Oryctolagus		33411
+                             Oryctolagus cuniculus		33411
+                          Rodentia		94587
+                           Myomorpha		84313
+                            Muroidea		74740
+                             Muridae		566
+                              Murinae		343
+                              Gerbillinae		145
+                               Meriones		145
+                                Meriones unguiculatus		145
+                             Cricetidae		859
+                              Arvicolinae		210
+                              Neotominae		93
+                             Spalacidae		30274
+                              Spalacinae		30274
+                               Nannospalax		30274
+                                Nannospalax galili		30274
+                           Sciuromorpha		2476
+                            Sciuridae		2476
+                             Xerinae		2284
+                              Marmotini		2284
+                               Marmota		1149
+                           Castorimorpha		142
+                            Heteromyidae		134
+                             Perognathinae		121
+                              Perognathus		121
+                               Perognathus longimembris		121
+                                Perognathus longimembris pacificus		121
+                         Primates		11258
+                          Haplorrhini		10662
+                           Simiiformes		10542
+                            Catarrhini		8475
+                             Hominoidea		6157
+                              Hominidae		4412
+                               Homininae		3503
+                                Homo		1111
+                                 Homo sapiens		1111

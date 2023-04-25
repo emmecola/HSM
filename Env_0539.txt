@@ -1,0 +1,87 @@
+                     Theria		867824
+                      Eutheria		854170
+                       Boreoeutheria		836261
+                        Laurasiatheria		654133
+                         Carnivora		576436
+                          Caniformia		547461
+                           Mustelidae		55223
+                            Lutrinae		568
+                            Mustelinae		298
+                            Melinae		29634
+                             Meles		29634
+                              Meles meles		29634
+                           Canidae		431627
+                            Vulpes		63009
+                             Vulpes vulpes		7162
+                             Vulpes lagopus		8896
+                            Canis		81162
+                             Canis lupus		81162
+                              Canis lupus dingo		1333
+                              Canis lupus familiaris		4020
+                          Feliformia		3289
+                           Felidae		1022
+                         Artiodactyla		37937
+                          Ruminantia		27976
+                           Pecora		27976
+                            Cervidae		9690
+                             Cervinae		4407
+                              Cervus		4407
+                               Cervus elaphus		384
+                             Odocoileinae		1151
+                              Odocoileus		1151
+                               Odocoileus virginianus		1151
+                                Odocoileus virginianus texanus		1150
+                            Bovidae		2217
+                             Bovinae		748
+                              Bubalus		121
+                               Bubalus bubalis		121
+                             Caprinae		671
+                          Suina		8494
+                           Suidae		8494
+                            Sus		2878
+                             Sus scrofa		2878
+                         Eulipotyphla		21835
+                          Erinaceidae		21829
+                           Erinaceinae		21829
+                            Erinaceus		21829
+                             Erinaceus europaeus		21829
+                        Euarchontoglires		161587
+                         Primates		19058
+                          Haplorrhini		18317
+                           Simiiformes		17869
+                            Catarrhini		14665
+                             Hominoidea		10669
+                              Hominidae		7435
+                               Homininae		5939
+                                Homo		1928
+                                 Homo sapiens		1928
+                         Glires		139432
+                          Rodentia		68350
+                           Hystricomorpha		1099
+                            Caviidae		1030
+                             Cavia		1030
+                              Cavia porcellus		1030
+                           Myomorpha		61560
+                            Muroidea		54477
+                             Muridae		2409
+                              Murinae		2332
+                               Rattus		1804
+                                Rattus norvegicus		513
+                             Cricetidae		771
+                              Cricetinae		390
+                               Cricetulus		209
+                                Cricetulus griseus		209
+                             Spalacidae		20841
+                              Spalacinae		20841
+                               Nannospalax		20841
+                                Nannospalax galili		20841
+                           Castorimorpha		70
+                            Heteromyidae		60
+                             Perognathinae		48
+                              Perognathus		48
+                               Perognathus longimembris		48
+                                Perognathus longimembris pacificus		48
+                          Lagomorpha		70830
+                           Leporidae		63248
+                            Oryctolagus		63248
+                             Oryctolagus cuniculus		63248

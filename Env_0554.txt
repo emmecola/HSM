@@ -1,0 +1,87 @@
+                     Theria		459925
+                      Eutheria		459233
+                       Boreoeutheria		454927
+                        Laurasiatheria		385845
+                         Artiodactyla		10263
+                          Whippomorpha		26
+                           Cetacea		26
+                            Odontoceti		17
+                             Physeteridae		6
+                              Physeter		6
+                               Physeter catodon		6
+                          Ruminantia		9205
+                           Pecora		9205
+                            Bovidae		5583
+                             Caprinae		3757
+                              Capra		323
+                               Capra hircus		323
+                              Ovis		1592
+                               Ovis aries		1592
+                             Bovinae		541
+                              Bos		113
+                          Suina		243
+                           Suidae		243
+                            Sus		90
+                             Sus scrofa		90
+                         Carnivora		4106
+                          Caniformia		3804
+                           Canidae		2343
+                            Vulpes		222
+                            Canis		631
+                             Canis lupus		631
+                              Canis lupus familiaris		34
+                           Mustelidae		958
+                            Mustelinae		482
+                             Mustela		329
+                              Mustela putorius		171
+                               Mustela putorius furo		171
+                              Mustela erminea		21
+                            Lutrinae		13
+                             Lutra		4
+                              Lutra lutra		4
+                           Ursidae		9
+                            Ursus		6
+                             Ursus americanus		2
+                           Phocidae		6
+                          Feliformia		96
+                           Felidae		83
+                         Eulipotyphla		364751
+                          Erinaceidae		364517
+                           Erinaceinae		364517
+                            Erinaceus		364517
+                             Erinaceus europaeus		364517
+                         Perissodactyla		3
+                        Euarchontoglires		62569
+                         Primates		22102
+                          Haplorrhini		21229
+                           Simiiformes		21013
+                            Catarrhini		16912
+                             Hominoidea		12331
+                              Hominidae		8773
+                               Homininae		7049
+                                Homo		2303
+                                 Homo sapiens		2303
+                                Gorilla		16
+                                 Gorilla gorilla		16
+                                  Gorilla gorilla gorilla		16
+                          Strepsirrhini		8
+                           Lemuriformes		8
+                            Lemuridae		5
+                             Lemur		5
+                              Lemur catta		5
+                         Glires		39543
+                          Lagomorpha		39341
+                           Ochotonidae		131
+                            Ochotona		131
+                             Ochotona princeps		67
+                           Leporidae		33623
+                            Oryctolagus		33623
+                             Oryctolagus cuniculus		33623
+                          Rodentia		62
+                           Myomorpha		45
+                            Muroidea		43
+                             Spalacidae		10
+                              Spalacinae		10
+                               Nannospalax		10
+                                Nannospalax galili		10
+                       Xenarthra		1

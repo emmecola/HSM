@@ -1,0 +1,51 @@
+                     Theria		100537
+                      Eutheria		99535
+                       Boreoeutheria		97779
+                        Laurasiatheria		65172
+                         Artiodactyla		14741
+                          Ruminantia		3934
+                           Pecora		3934
+                            Bovidae		579
+                             Bovinae		204
+                             Caprinae		160
+                            Cervidae		1033
+                             Cervinae		525
+                              Cervus		525
+                          Suina		10175
+                           Suidae		10175
+                            Sus		3372
+                             Sus scrofa		3372
+                         Carnivora		48598
+                          Caniformia		46486
+                           Canidae		39207
+                            Vulpes		2427
+                            Canis		11846
+                             Canis lupus		11846
+                              Canis lupus familiaris		653
+                           Mustelidae		2669
+                            Melinae		1359
+                             Meles		1359
+                              Meles meles		1359
+                        Euarchontoglires		29752
+                         Primates		19417
+                          Haplorrhini		18647
+                           Simiiformes		18467
+                            Catarrhini		14912
+                             Hominoidea		10748
+                              Hominidae		7748
+                               Homininae		6202
+                                Homo		2037
+                                 Homo sapiens		2037
+                         Glires		9765
+                          Lagomorpha		2399
+                           Leporidae		2214
+                            Oryctolagus		2214
+                             Oryctolagus cuniculus		2214
+                          Rodentia		7356
+                           Myomorpha		7162
+                            Muroidea		6973
+                             Muridae		5991
+                              Murinae		5934
+                               Rattus		5243
+                                Rattus rattus		2032
+                                Rattus norvegicus		504

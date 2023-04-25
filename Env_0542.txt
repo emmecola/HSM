@@ -1,0 +1,28 @@
+                     Theria		232429
+                      Eutheria		228535
+                       Boreoeutheria		223045
+                        Euarchontoglires		48554
+                         Glires		44427
+                          Rodentia		3443
+                           Myomorpha		2986
+                            Muroidea		2519
+                          Lagomorpha		40873
+                           Leporidae		33199
+                            Oryctolagus		33199
+                             Oryctolagus cuniculus		33199
+                         Primates		3497
+                          Haplorrhini		3338
+                           Simiiformes		2124
+                            Catarrhini		1582
+                             Hominoidea		794
+                        Laurasiatheria		168042
+                         Carnivora		157497
+                          Caniformia		150436
+                           Canidae		134014
+                            Vulpes		15828
+                            Canis		23114
+                             Canis lupus		23114
+                              Canis lupus dingo		440
+                         Artiodactyla		4977
+                          Ruminantia		4535
+                           Pecora		4535

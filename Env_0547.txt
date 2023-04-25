@@ -1,0 +1,49 @@
+                     Theria		77699
+                      Eutheria		77560
+                       Boreoeutheria		76808
+                        Euarchontoglires		41674
+                         Primates		40265
+                          Haplorrhini		38910
+                           Simiiformes		38554
+                            Catarrhini		31879
+                             Hominoidea		22837
+                              Hominidae		16204
+                               Homininae		12945
+                                Homo		4059
+                                 Homo sapiens		4059
+                             Cercopithecoidea		20
+                              Cercopithecidae		20
+                            Platyrrhini		12
+                             Aotidae		5
+                              Aotus		5
+                               Aotus nancymaae		5
+                         Glires		492
+                          Lagomorpha		482
+                           Leporidae		414
+                            Oryctolagus		414
+                             Oryctolagus cuniculus		414
+                        Laurasiatheria		32589
+                         Artiodactyla		1312
+                          Ruminantia		1034
+                           Pecora		1034
+                            Bovidae		624
+                             Bovinae		235
+                             Caprinae		266
+                              Ovis		113
+                               Ovis aries		113
+                          Suina		214
+                           Suidae		214
+                            Sus		77
+                             Sus scrofa		77
+                         Carnivora		575
+                          Caniformia		547
+                           Mustelidae		452
+                            Mustelinae		230
+                             Mustela		161
+                              Mustela putorius		98
+                               Mustela putorius furo		98
+                         Eulipotyphla		30116
+                          Erinaceidae		30074
+                           Erinaceinae		30074
+                            Erinaceus		30074
+                             Erinaceus europaeus		30074

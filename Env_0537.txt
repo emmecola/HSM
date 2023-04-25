@@ -1,0 +1,82 @@
+                     Theria		23251
+                      Eutheria		23056
+                       Boreoeutheria		22586
+                        Laurasiatheria		12652
+                         Carnivora		10989
+                          Feliformia		62
+                           Herpestidae		19
+                            Suricata		19
+                             Suricata suricatta		19
+                          Caniformia		10399
+                           Canidae		8465
+                            Vulpes		1298
+                             Vulpes lagopus		204
+                             Vulpes vulpes		131
+                            Canis		1604
+                             Canis lupus		1604
+                              Canis lupus familiaris		66
+                              Canis lupus dingo		26
+                           Mustelidae		805
+                            Melinae		407
+                             Meles		407
+                              Meles meles		407
+                           Otariidae		6
+                            Eumetopias		4
+                             Eumetopias jubatus		4
+                         Artiodactyla		637
+                          Whippomorpha		12
+                           Cetacea		12
+                            Odontoceti		5
+                             Delphinidae		2
+                          Ruminantia		336
+                           Pecora		336
+                            Cervidae		50
+                            Bovidae		52
+                             Caprinae		27
+                              Ovis		8
+                               Ovis aries		8
+                          Suina		256
+                           Suidae		256
+                            Sus		83
+                             Sus scrofa		83
+                         Eulipotyphla		547
+                          Erinaceidae		547
+                           Erinaceinae		547
+                            Erinaceus		547
+                             Erinaceus europaeus		547
+                         Chiroptera		5
+                          Microchiroptera		3
+                           Phyllostomidae		3
+                            Stenodermatinae		3
+                             Sturnira		2
+                              Sturnira hondurensis		2
+                        Euarchontoglires		9190
+                         Primates		2249
+                          Haplorrhini		2171
+                           Simiiformes		2157
+                            Catarrhini		1731
+                             Hominoidea		1307
+                              Hominidae		920
+                               Homininae		714
+                                Homo		237
+                                 Homo sapiens		237
+                                Pan		8
+                               Ponginae		7
+                                Pongo		7
+                                 Pongo abelii		7
+                         Glires		6816
+                          Lagomorpha		6124
+                           Leporidae		5623
+                            Oryctolagus		5623
+                             Oryctolagus cuniculus		5623
+                          Rodentia		674
+                           Myomorpha		610
+                            Muroidea		560
+                             Muridae		319
+                              Murinae		318
+                               Rattus		271
+                                Rattus rattus		123
+                           Hystricomorpha		4
+                            Chinchillidae		1
+                             Chinchilla		1
+                              Chinchilla lanigera		1

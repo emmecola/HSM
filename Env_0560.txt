@@ -1,0 +1,71 @@
+                     Theria		1678178
+                      Eutheria		1674678
+                       Boreoeutheria		1659121
+                        Laurasiatheria		1560505
+                         Artiodactyla		11858
+                          Suina		5542
+                           Suidae		5542
+                            Sus		1876
+                             Sus scrofa		1876
+                          Ruminantia		5908
+                           Pecora		5908
+                            Bovidae		908
+                             Bovinae		647
+                            Cervidae		2715
+                             Cervinae		2086
+                              Cervus		2086
+                               Cervus elaphus		230
+                         Eulipotyphla		1383598
+                          Erinaceidae		1382895
+                           Erinaceinae		1382895
+                            Erinaceus		1382895
+                             Erinaceus europaeus		1382895
+                         Carnivora		135777
+                          Feliformia		62
+                          Caniformia		129019
+                           Canidae		110354
+                            Vulpes		18930
+                             Vulpes lagopus		2420
+                             Vulpes vulpes		2045
+                            Canis		15500
+                             Canis lupus		15500
+                              Canis lupus dingo		235
+                           Mustelidae		4493
+                            Melinae		2292
+                             Meles		2292
+                              Meles meles		2292
+                         Pholidota		200
+                          Manidae		200
+                           Manis		200
+                        Euarchontoglires		76770
+                         Glires		64131
+                          Rodentia		50238
+                           Myomorpha		45967
+                            Muroidea		40649
+                             Muridae		236
+                              Murinae		195
+                             Cricetidae		477
+                              Neotominae		54
+                             Spalacidae		17374
+                              Spalacinae		17374
+                               Nannospalax		17374
+                                Nannospalax galili		17374
+                           Castorimorpha		126
+                            Heteromyidae		122
+                             Perognathinae		112
+                              Perognathus		112
+                               Perognathus longimembris		112
+                                Perognathus longimembris pacificus		112
+                          Lagomorpha		13733
+                           Leporidae		11518
+                            Oryctolagus		11518
+                             Oryctolagus cuniculus		11518
+                         Primates		10302
+                          Haplorrhini		9806
+                           Simiiformes		9709
+                            Catarrhini		7957
+                             Hominoidea		5808
+                              Hominidae		4140
+                               Homininae		3232
+                                Homo		1028
+                                 Homo sapiens		1028

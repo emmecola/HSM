@@ -1,0 +1,100 @@
+                     Theria		7934384
+                      Eutheria		7909008
+                       Boreoeutheria		7776123
+                        Euarchontoglires		6974723
+                         Primates		8306
+                          Haplorrhini		6634
+                           Simiiformes		6440
+                            Catarrhini		4931
+                             Hominoidea		3195
+                              Hominidae		2374
+                               Homininae		1010
+                             Cercopithecoidea		402
+                              Cercopithecidae		402
+                               Cercopithecinae		146
+                         Glires		6901274
+                          Rodentia		1067414
+                           Myomorpha		978885
+                            Muroidea		855770
+                             Muridae		11268
+                              Murinae		8912
+                               Mus		877
+                                Mus		440
+                               Rattus		4146
+                                Rattus rattus		1766
+                              Gerbillinae		1559
+                               Meriones		1559
+                                Meriones unguiculatus		1559
+                             Cricetidae		23533
+                              Cricetinae		7975
+                               Cricetulus		2348
+                                Cricetulus griseus		2348
+                               Mesocricetus		2106
+                                Mesocricetus auratus		2106
+                              Arvicolinae		3839
+                               Microtus		690
+                               Arvicola		1157
+                                Arvicola amphibius		1157
+                              Neotominae		5514
+                               Peromyscus		2665
+                                Peromyscus leucopus		1034
+                               Onychomys		1863
+                                Onychomys torridus		1863
+                             Spalacidae		338923
+                              Spalacinae		338923
+                               Nannospalax		338923
+                                Nannospalax galili		338923
+                            Dipodoidea		7985
+                             Dipodidae		7985
+                              Dipodinae		7985
+                               Jaculus		7985
+                                Jaculus jaculus		7985
+                           Hystricomorpha		919
+                           Castorimorpha		217
+                            Heteromyidae		161
+                           Sciuromorpha		1554
+                            Sciuridae		1554
+                             Xerinae		1016
+                              Marmotini		1016
+                          Lagomorpha		5819579
+                           Leporidae		5384731
+                            Oryctolagus		5384731
+                             Oryctolagus cuniculus		5384731
+                           Ochotonidae		2079
+                            Ochotona		2079
+                             Ochotona curzoniae		1073
+                        Laurasiatheria		667122
+                         Chiroptera		300
+                          Microchiroptera		229
+                         Artiodactyla		4105
+                          Ruminantia		3712
+                           Pecora		3712
+                            Cervidae		1205
+                             Cervinae		607
+                              Cervus		607
+                            Bovidae		154
+                         Carnivora		631003
+                          Feliformia		230
+                          Caniformia		602966
+                           Mustelidae		4146
+                            Lutrinae		149
+                            Melinae		2047
+                             Meles		2047
+                              Meles meles		2047
+                           Canidae		538539
+                            Vulpes		77092
+                             Vulpes vulpes		8559
+                             Vulpes lagopus		11301
+                            Canis		104227
+                             Canis lupus		104227
+                              Canis lupus dingo		1596
+                              Canis lupus familiaris		5430
+                           Phocidae		405
+                         Pholidota		712
+                          Manidae		712
+                           Manis		712
+                         Eulipotyphla		8463
+                          Erinaceidae		8452
+                           Erinaceinae		8452
+                            Erinaceus		8452
+                             Erinaceus europaeus		8452

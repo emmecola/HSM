@@ -1,0 +1,86 @@
+                     Theria		16155
+                      Eutheria		16102
+                       Boreoeutheria		16046
+                        Laurasiatheria		9145
+                         Artiodactyla		8007
+                          Ruminantia		7380
+                           Pecora		7380
+                            Bovidae		6087
+                             Caprinae		3932
+                              Capra		1663
+                               Capra hircus		1663
+                              Ovis		838
+                               Ovis aries		838
+                             Bovinae		1388
+                              Bos		425
+                               Bos taurus		75
+                               Bos mutus		6
+                          Suina		520
+                           Suidae		520
+                            Sus		280
+                             Sus scrofa		280
+                         Chiroptera		7
+                          Microchiroptera		7
+                           Phyllostomidae		6
+                            Desmodontinae		5
+                             Desmodus		5
+                              Desmodus rotundus		5
+                         Perissodactyla		7
+                          Equidae		7
+                           Equus		7
+                         Eulipotyphla		6
+                          Soricidae		6
+                           Soricinae		6
+                            Sorex		6
+                             Sorex araneus		6
+                         Carnivora		1021
+                          Feliformia		546
+                           Felidae		514
+                          Caniformia		457
+                           Canidae		432
+                            Canis		251
+                             Canis lupus		251
+                        Euarchontoglires		6754
+                         Primates		5623
+                          Haplorrhini		5595
+                           Simiiformes		5578
+                            Catarrhini		5239
+                             Hominoidea		4609
+                              Hominidae		3839
+                               Homininae		3354
+                                Homo		1334
+                                 Homo sapiens		1334
+                                Pan		22
+                                 Pan troglodytes		5
+                              Hylobatidae		4
+                               Nomascus		3
+                                Nomascus leucogenys		3
+                             Cercopithecoidea		21
+                              Cercopithecidae		21
+                               Cercopithecinae		8
+                           Tarsiiformes		3
+                            Tarsiidae		3
+                             Carlito		3
+                              Carlito syrichta		3
+                         Glires		1100
+                          Lagomorpha		1010
+                           Leporidae		1001
+                            Oryctolagus		1001
+                             Oryctolagus cuniculus		1001
+                          Rodentia		87
+                           Myomorpha		58
+                            Muroidea		58
+                             Muridae		39
+                              Murinae		39
+                               Mus		29
+                                Mus		24
+                                 Mus musculus		22
+                             Cricetidae		7
+                              Neotominae		6
+                               Onychomys		6
+                                Onychomys torridus		6
+                           Castorimorpha		11
+                            Heteromyidae		11
+                             Dipodomyinae		11
+                              Dipodomys		11
+                               Dipodomys spectabilis		11

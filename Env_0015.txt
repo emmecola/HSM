@@ -1,0 +1,52 @@
+                     Theria		71419
+                      Eutheria		71373
+                       Boreoeutheria		71185
+                        Laurasiatheria		6037
+                         Artiodactyla		5496
+                          Ruminantia		4917
+                           Pecora		4917
+                            Bovidae		3640
+                             Bovinae		2393
+                              Bos		641
+                               Bos taurus		90
+                               Bos indicus x Bos taurus		9
+                             Caprinae		607
+                              Ovis		177
+                               Ovis aries		177
+                              Capra		183
+                               Capra hircus		183
+                          Suina		445
+                           Suidae		445
+                            Sus		210
+                             Sus scrofa		210
+                         Perissodactyla		1
+                          Equidae		1
+                           Equus		1
+                         Carnivora		460
+                          Feliformia		77
+                           Felidae		71
+                          Caniformia		371
+                           Canidae		354
+                            Canis		198
+                             Canis lupus		198
+                        Euarchontoglires		64364
+                         Primates		64048
+                          Haplorrhini		63645
+                           Simiiformes		63519
+                            Catarrhini		58857
+                             Hominoidea		51119
+                              Hominidae		42037
+                               Homininae		36256
+                                Pan		247
+                                 Pan troglodytes		33
+                                Gorilla		106
+                                 Gorilla gorilla		106
+                                  Gorilla gorilla gorilla		106
+                                Homo		13678
+                                 Homo sapiens		13678
+                             Cercopithecoidea		39
+                              Cercopithecidae		39
+                         Glires		6
+                          Rodentia		6
+                           Myomorpha		2
+                            Muroidea		1

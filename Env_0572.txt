@@ -1,0 +1,54 @@
+                     Theria		379661
+                      Eutheria		377152
+                       Boreoeutheria		370021
+                        Laurasiatheria		283406
+                         Carnivora		148767
+                          Feliformia		1765
+                           Felidae		1517
+                          Caniformia		140008
+                           Canidae		119201
+                            Vulpes		15800
+                             Vulpes lagopus		2207
+                            Canis		23377
+                             Canis lupus		23377
+                              Canis lupus dingo		374
+                           Mustelidae		6083
+                            Mustelinae		1653
+                             Mustela		790
+                            Melinae		1113
+                             Meles		1113
+                              Meles meles		1113
+                         Artiodactyla		125692
+                          Suina		116405
+                           Suidae		116405
+                            Phacochoerus		3809
+                             Phacochoerus africanus		3809
+                            Sus		37460
+                             Sus scrofa		37460
+                          Ruminantia		4270
+                           Pecora		4270
+                            Bovidae		1997
+                             Bovinae		1295
+                        Euarchontoglires		75929
+                         Primates		30655
+                          Haplorrhini		29618
+                           Simiiformes		28999
+                            Catarrhini		23876
+                             Hominoidea		17475
+                              Hominidae		12272
+                               Homininae		9775
+                                Homo		3125
+                                 Homo sapiens		3125
+                         Glires		44190
+                          Rodentia		20112
+                           Myomorpha		19753
+                            Muroidea		19453
+                             Muridae		17404
+                              Murinae		17216
+                               Rattus		14992
+                                Rattus norvegicus		1412
+                                Rattus rattus		5774
+                          Lagomorpha		23981
+                           Leporidae		21082
+                            Oryctolagus		21082
+                             Oryctolagus cuniculus		21082

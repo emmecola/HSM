@@ -1,0 +1,61 @@
+                     Theria		596555
+                      Eutheria		596243
+                       Boreoeutheria		594962
+                        Euarchontoglires		35832
+                         Primates		27318
+                          Haplorrhini		27177
+                           Simiiformes		27119
+                            Catarrhini		25275
+                             Hominoidea		22375
+                              Hominidae		18734
+                               Homininae		16367
+                                Homo		6612
+                                 Homo sapiens		6612
+                         Glires		8364
+                          Lagomorpha		7676
+                           Leporidae		7595
+                            Oryctolagus		7595
+                             Oryctolagus cuniculus		7595
+                          Rodentia		679
+                           Myomorpha		566
+                            Muroidea		564
+                             Muridae		536
+                              Murinae		534
+                               Rattus		461
+                                Rattus norvegicus		205
+                        Laurasiatheria		557003
+                         Artiodactyla		553558
+                          Ruminantia		516384
+                           Pecora		516384
+                            Cervidae		423
+                             Cervinae		233
+                              Cervus		233
+                            Bovidae		442434
+                             Caprinae		372900
+                              Ovis		194217
+                               Ovis aries		194217
+                              Capra		37923
+                               Capra hircus		37923
+                             Bovinae		10024
+                              Bos		2772
+                               Bos taurus		469
+                              Bubalus		519
+                               Bubalus bubalis		519
+                          Whippomorpha		39
+                           Cetacea		39
+                          Suina		20254
+                           Suidae		20254
+                            Sus		11318
+                             Sus scrofa		11318
+                         Carnivora		1174
+                          Caniformia		812
+                           Canidae		774
+                            Canis		477
+                             Canis lupus		477
+                          Feliformia		340
+                           Felidae		319
+                      Metatheria		10
+                       Microbiotheria		9
+                        Microbiotheriidae		9
+                         Dromiciops		9
+                          Dromiciops gliroides		9

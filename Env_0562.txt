@@ -1,0 +1,96 @@
+                     Theria		522098
+                      Eutheria		515722
+                       Boreoeutheria		504429
+                        Euarchontoglires		37586
+                         Glires		24305
+                          Rodentia		18441
+                           Myomorpha		17479
+                            Muroidea		16568
+                             Cricetidae		50
+                             Muridae		9523
+                              Murinae		9435
+                               Rattus		8268
+                                Rattus norvegicus		811
+                                Rattus rattus		3144
+                             Spalacidae		2782
+                              Spalacinae		2782
+                               Nannospalax		2782
+                                Nannospalax galili		2782
+                           Sciuromorpha		237
+                            Sciuridae		237
+                             Xerinae		223
+                              Marmotini		223
+                               Marmota		103
+                           Castorimorpha		17
+                            Heteromyidae		16
+                             Perognathinae		15
+                              Perognathus		15
+                               Perognathus longimembris		15
+                                Perognathus longimembris pacificus		15
+                          Lagomorpha		5830
+                           Leporidae		5274
+                            Oryctolagus		5274
+                             Oryctolagus cuniculus		5274
+                         Primates		12545
+                          Haplorrhini		12024
+                           Simiiformes		11877
+                            Catarrhini		9630
+                             Hominoidea		7051
+                              Hominidae		5024
+                               Homininae		3970
+                                Homo		1305
+                                 Homo sapiens		1305
+                             Cercopithecoidea		32
+                              Cercopithecidae		32
+                               Cercopithecinae		18
+                                Chlorocebus		10
+                                 Chlorocebus sabaeus		10
+                          Strepsirrhini		2
+                        Laurasiatheria		452498
+                         Artiodactyla		3827
+                          Suina		1352
+                           Suidae		1352
+                            Phacochoerus		51
+                             Phacochoerus africanus		51
+                            Sus		487
+                             Sus scrofa		487
+                          Ruminantia		2257
+                           Pecora		2257
+                            Cervidae		462
+                             Cervinae		201
+                              Cervus		201
+                            Bovidae		641
+                             Bovinae		133
+                             Caprinae		338
+                              Ovis		166
+                               Ovis aries		166
+                         Carnivora		431881
+                          Feliformia		539
+                           Felidae		334
+                           Herpestidae		54
+                            Suricata		54
+                             Suricata suricatta		54
+                          Caniformia		411285
+                           Canidae		364148
+                            Vulpes		62661
+                             Vulpes vulpes		6692
+                             Vulpes lagopus		8165
+                            Canis		53219
+                             Canis lupus		53219
+                              Canis lupus familiaris		2287
+                              Canis lupus dingo		782
+                           Mustelidae		2784
+                            Mustelinae		86
+                             Neogale		44
+                              Neogale vison		44
+                            Melinae		1340
+                             Meles		1340
+                              Meles meles		1340
+                           Ursidae		1191
+                            Ursus		753
+                           Phocidae		234
+                         Eulipotyphla		2056
+                          Erinaceidae		2054
+                           Erinaceinae		2054
+                            Erinaceus		2054
+                             Erinaceus europaeus		2054

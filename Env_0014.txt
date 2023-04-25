@@ -1,0 +1,37 @@
+                     Theria		2227
+                      Eutheria		2214
+                       Boreoeutheria		2200
+                        Laurasiatheria		1051
+                         Carnivora		19
+                          Feliformia		16
+                           Felidae		16
+                         Artiodactyla		1001
+                          Ruminantia		930
+                           Pecora		930
+                            Bovidae		684
+                             Bovinae		450
+                              Bos		86
+                             Caprinae		109
+                          Suina		48
+                           Suidae		48
+                        Euarchontoglires		1067
+                         Glires		34
+                          Rodentia		34
+                           Myomorpha		14
+                            Muroidea		14
+                             Cricetidae		8
+                              Cricetinae		8
+                               Cricetulus		8
+                                Cricetulus griseus		8
+                         Primates		1024
+                          Haplorrhini		1004
+                           Simiiformes		1002
+                            Catarrhini		926
+                             Hominoidea		777
+                              Hominidae		623
+                               Homininae		535
+                                Homo		260
+                                 Homo sapiens		260
+                             Cercopithecoidea		33
+                              Cercopithecidae		33
+                               Cercopithecinae		31

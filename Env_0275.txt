@@ -1,0 +1,34 @@
+                     Theria		2884
+                      Eutheria		2873
+                       Boreoeutheria		2851
+                        Laurasiatheria		1508
+                         Artiodactyla		1425
+                          Ruminantia		1388
+                           Pecora		1388
+                            Bovidae		1183
+                             Caprinae		250
+                              Ovis		136
+                               Ovis aries		136
+                             Bovinae		826
+                              Bos		120
+                         Carnivora		57
+                          Caniformia		57
+                           Canidae		56
+                            Canis		36
+                             Canis lupus		36
+                        Euarchontoglires		1295
+                         Glires		19
+                          Rodentia		19
+                           Castorimorpha		3
+                            Castoridae		3
+                             Castor		3
+                              Castor canadensis		3
+                         Primates		1251
+                          Haplorrhini		1238
+                           Simiiformes		1233
+                            Catarrhini		1160
+                             Hominoidea		1027
+                              Hominidae		842
+                               Homininae		726
+                                Homo		292
+                                 Homo sapiens		292

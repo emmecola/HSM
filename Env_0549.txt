@@ -1,0 +1,39 @@
+                     Theria		63239
+                      Eutheria		62902
+                       Boreoeutheria		62057
+                        Laurasiatheria		26576
+                         Artiodactyla		6299
+                          Ruminantia		5993
+                           Pecora		5993
+                            Bovidae		3615
+                             Caprinae		1809
+                              Ovis		875
+                               Ovis aries		875
+                             Bovinae		959
+                              Bos		161
+                         Chiroptera		11
+                          Microchiroptera		11
+                         Eulipotyphla		19717
+                          Erinaceidae		19706
+                           Erinaceinae		19706
+                            Erinaceus		19706
+                             Erinaceus europaeus		19706
+                         Carnivora		23
+                        Euarchontoglires		33296
+                         Primates		32040
+                          Haplorrhini		30980
+                           Simiiformes		30668
+                            Catarrhini		25182
+                             Hominoidea		18298
+                              Hominidae		12922
+                               Homininae		10366
+                                Homo		3304
+                                 Homo sapiens		3304
+                             Cercopithecoidea		28
+                              Cercopithecidae		28
+                               Colobinae		6
+                         Glires		520
+                          Lagomorpha		515
+                           Leporidae		435
+                            Oryctolagus		435
+                             Oryctolagus cuniculus		435

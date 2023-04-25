@@ -1,0 +1,45 @@
+                     Theria		18532
+                      Eutheria		18309
+                       Boreoeutheria		17898
+                        Euarchontoglires		6470
+                         Primates		2327
+                          Haplorrhini		2225
+                           Simiiformes		2174
+                            Catarrhini		1784
+                             Hominoidea		1318
+                              Hominidae		933
+                               Homininae		750
+                                Homo		243
+                                 Homo sapiens		243
+                         Glires		4031
+                          Lagomorpha		2999
+                           Leporidae		2731
+                            Oryctolagus		2731
+                             Oryctolagus cuniculus		2731
+                          Rodentia		1022
+                           Myomorpha		951
+                            Muroidea		896
+                             Muridae		677
+                              Murinae		665
+                               Rattus		577
+                                Rattus rattus		246
+                        Laurasiatheria		10799
+                         Artiodactyla		1281
+                          Suina		1195
+                           Suidae		1195
+                            Sus		390
+                             Sus scrofa		390
+                         Carnivora		8962
+                          Caniformia		8515
+                           Mustelidae		868
+                            Melinae		353
+                             Meles		353
+                              Meles meles		353
+                           Canidae		6506
+                            Canis		1664
+                             Canis lupus		1664
+                         Eulipotyphla		186
+                          Erinaceidae		186
+                           Erinaceinae		186
+                            Erinaceus		186
+                             Erinaceus europaeus		186

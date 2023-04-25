@@ -1,0 +1,71 @@
+                     Theria		5924131
+                      Eutheria		5922699
+                       Boreoeutheria		5911283
+                        Laurasiatheria		1211452
+                         Carnivora		19210
+                          Feliformia		13036
+                           Felidae		12457
+                            Felinae		2867
+                          Caniformia		5906
+                           Canidae		5592
+                            Canis		3540
+                             Canis lupus		3540
+                         Artiodactyla		1185278
+                          Suina		263458
+                           Suidae		263458
+                            Phacochoerus		7470
+                             Phacochoerus africanus		7470
+                            Sus		145170
+                             Sus scrofa		145170
+                          Ruminantia		904152
+                           Pecora		904152
+                            Cervidae		751
+                             Cervinae		511
+                              Cervus		511
+                            Bovidae		775502
+                             Bovinae		318317
+                              Bos		103925
+                               Bos indicus x Bos taurus		3054
+                               Bos taurus		18861
+                              Bubalus		5563
+                               Bubalus bubalis		5563
+                             Caprinae		366467
+                              Capra		14428
+                               Capra hircus		14428
+                              Ovis		211597
+                               Ovis aries		211597
+                        Euarchontoglires		4654694
+                         Primates		4611705
+                          Haplorrhini		4588423
+                           Simiiformes		4579134
+                            Catarrhini		4288617
+                             Hominoidea		3814651
+                              Hylobatidae		948
+                              Hominidae		3202980
+                               Homininae		2801345
+                                Pan		17297
+                                 Pan troglodytes		2930
+                                Gorilla		6356
+                                 Gorilla gorilla		6356
+                                  Gorilla gorilla gorilla		6356
+                                Homo		1121685
+                                 Homo sapiens		1121685
+                               Ponginae		2627
+                                Pongo		2627
+                                 Pongo abelii		2627
+                             Cercopithecoidea		4363
+                              Cercopithecidae		4363
+                               Colobinae		777
+                               Cercopithecinae		1301
+                         Glires		29627
+                          Rodentia		26747
+                           Myomorpha		26582
+                            Muroidea		26580
+                             Muridae		26081
+                              Murinae		26045
+                               Rattus		24600
+                                Rattus norvegicus		16641
+                          Lagomorpha		2876
+                           Leporidae		2832
+                            Oryctolagus		2832
+                             Oryctolagus cuniculus		2832

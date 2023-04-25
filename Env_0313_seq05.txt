@@ -1,0 +1,33 @@
+                     Theria		91177
+                      Eutheria		90954
+                       Boreoeutheria		89144
+                        Euarchontoglires		87395
+                         Primates		86577
+                          Haplorrhini		86275
+                           Simiiformes		86192
+                            Catarrhini		67921
+                             Hominoidea		114
+                              Hominidae		89
+                               Homininae		64
+                             Cercopithecoidea		63759
+                              Cercopithecidae		63759
+                               Colobinae		68
+                                Piliocolobus		16
+                                 Piliocolobus tephrosceles		16
+                               Cercopithecinae		52775
+                                Chlorocebus		44983
+                                 Chlorocebus sabaeus		44983
+                            Platyrrhini		13
+                             Cebidae		10
+                              Saimiriinae		4
+                               Saimiri		4
+                                Saimiri boliviensis		4
+                                 Saimiri boliviensis boliviensis		4
+                         Glires		18
+                          Rodentia		17
+                        Laurasiatheria		19
+                       Xenarthra		9
+                        Cingulata		9
+                         Dasypodidae		9
+                          Dasypus		9
+                           Dasypus novemcinctus		9

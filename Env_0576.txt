@@ -1,0 +1,90 @@
+                     Theria		23044986
+                      Eutheria		22708673
+                       Boreoeutheria		22210326
+                        Laurasiatheria		20690837
+                         Eulipotyphla		95571
+                          Erinaceidae		95497
+                           Erinaceinae		95497
+                            Erinaceus		95497
+                             Erinaceus europaeus		95497
+                         Carnivora		19851956
+                          Feliformia		19711
+                           Felidae		9264
+                           Herpestidae		2481
+                            Suricata		2481
+                             Suricata suricatta		2481
+                          Caniformia		18911455
+                           Ursidae		11822
+                            Ursus		6198
+                           Mustelidae		55920
+                            Mustelinae		1583
+                            Lutrinae		2895
+                            Melinae		21978
+                             Meles		21978
+                              Meles meles		21978
+                           Canidae		16807792
+                            Vulpes		2786239
+                             Vulpes lagopus		378901
+                             Vulpes vulpes		305875
+                            Canis		2510961
+                             Canis lupus		2510961
+                              Canis lupus dingo		39736
+                              Canis lupus familiaris		111380
+                           Otariidae		3481
+                           Phocidae		10575
+                         Chiroptera		1230
+                          Microchiroptera		922
+                         Artiodactyla		58084
+                          Ruminantia		49279
+                           Pecora		49279
+                            Cervidae		14057
+                             Cervinae		6808
+                              Cervus		6808
+                            Bovidae		4712
+                             Caprinae		2198
+                          Whippomorpha		2235
+                           Cetacea		2235
+                            Odontoceti		1015
+                             Delphinidae		277
+                          Suina		2965
+                           Suidae		2965
+                        Euarchontoglires		908533
+                         Glires		883077
+                          Rodentia		723261
+                           Myomorpha		27292
+                            Muroidea		24177
+                             Spalacidae		10116
+                              Spalacinae		10116
+                               Nannospalax		10116
+                                Nannospalax galili		10116
+                           Sciuromorpha		682936
+                            Sciuridae		682936
+                             Xerinae		647189
+                              Marmotini		647189
+                               Marmota		321467
+                                Marmota monax		6905
+                                Marmota flaviventris		5085
+                                Marmota marmota		25478
+                                 Marmota marmota marmota		25478
+                           Castorimorpha		481
+                            Heteromyidae		465
+                             Perognathinae		406
+                              Perognathus		406
+                               Perognathus longimembris		406
+                                Perognathus longimembris pacificus		406
+                          Lagomorpha		158850
+                           Leporidae		147509
+                            Oryctolagus		147509
+                             Oryctolagus cuniculus		147509
+                         Primates		14055
+                          Haplorrhini		13122
+                           Simiiformes		12746
+                            Catarrhini		10016
+                             Hominoidea		6143
+                              Hominidae		3995
+                               Homininae		2963
+                             Cercopithecoidea		764
+                              Cercopithecidae		764
+                               Cercopithecinae		464
+                                Chlorocebus		225
+                                 Chlorocebus sabaeus		225

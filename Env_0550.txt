@@ -1,0 +1,61 @@
+                     Theria		272517
+                      Eutheria		271942
+                       Boreoeutheria		269211
+                        Laurasiatheria		204768
+                         Carnivora		9028
+                          Caniformia		8640
+                           Mustelidae		2707
+                            Mustelinae		1460
+                             Mustela		979
+                              Mustela putorius		562
+                               Mustela putorius furo		562
+                           Canidae		4854
+                            Vulpes		106
+                            Canis		1837
+                             Canis lupus		1837
+                         Eulipotyphla		184589
+                          Erinaceidae		184481
+                           Erinaceinae		184481
+                            Erinaceus		184481
+                             Erinaceus europaeus		184481
+                         Artiodactyla		7462
+                          Ruminantia		5239
+                           Pecora		5239
+                            Bovidae		3143
+                             Caprinae		1620
+                              Ovis		767
+                               Ovis aries		767
+                             Bovinae		741
+                              Bos		124
+                          Suina		1832
+                           Suidae		1832
+                            Sus		582
+                             Sus scrofa		582
+                        Euarchontoglires		59097
+                         Primates		51796
+                          Haplorrhini		50111
+                           Simiiformes		49726
+                            Catarrhini		41048
+                             Hominoidea		29591
+                              Hominidae		20883
+                               Homininae		16753
+                                Homo		5270
+                                 Homo sapiens		5270
+                         Glires		6064
+                          Lagomorpha		5599
+                           Leporidae		4858
+                            Oryctolagus		4858
+                             Oryctolagus cuniculus		4858
+                          Rodentia		437
+                           Myomorpha		410
+                            Muroidea		406
+                             Cricetidae		19
+                              Arvicolinae		14
+                               Microtus		11
+                                Microtus oregoni		10
+                             Muridae		328
+                              Murinae		322
+                               Rattus		151
+                               Mus		101
+                                Mus		83
+                                 Mus musculus		53

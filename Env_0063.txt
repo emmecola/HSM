@@ -1,0 +1,66 @@
+                     Theria		37513
+                      Eutheria		37491
+                       Boreoeutheria		37397
+                        Euarchontoglires		16116
+                         Primates		15839
+                          Haplorrhini		15730
+                           Simiiformes		15694
+                            Catarrhini		14590
+                             Hominoidea		12901
+                              Hominidae		10868
+                               Homininae		9521
+                                Homo		3903
+                                 Homo sapiens		3903
+                             Cercopithecoidea		26
+                              Cercopithecidae		26
+                               Cercopithecinae		9
+                         Glires		233
+                          Lagomorpha		184
+                           Leporidae		183
+                            Oryctolagus		183
+                             Oryctolagus cuniculus		183
+                          Rodentia		48
+                           Myomorpha		44
+                            Muroidea		43
+                             Muridae		40
+                              Murinae		40
+                               Rattus		31
+                        Laurasiatheria		21020
+                         Artiodactyla		20677
+                          Ruminantia		19231
+                           Pecora		19231
+                            Bovidae		16277
+                             Caprinae		13649
+                              Capra		657
+                               Capra hircus		657
+                              Ovis		7912
+                               Ovis aries		7912
+                             Bovinae		394
+                            Cervidae		17
+                             Cervinae		11
+                              Cervus		11
+                          Suina		898
+                           Suidae		898
+                            Sus		511
+                             Sus scrofa		511
+                         Chiroptera		3
+                          Megachiroptera		2
+                           Pteropodidae		2
+                            Pteropodinae		2
+                             Pteropus		1
+                         Carnivora		260
+                          Caniformia		108
+                           Canidae		101
+                            Canis		44
+                             Canis lupus		44
+                            Vulpes		7
+                             Vulpes lagopus		3
+                           Odobenidae		2
+                            Odobenus		2
+                             Odobenus rosmarus		2
+                              Odobenus rosmarus divergens		2
+                          Feliformia		150
+                           Felidae		144
+                            Felinae		43
+                             Felis		17
+                              Felis catus		17

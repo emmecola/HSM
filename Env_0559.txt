@@ -1,0 +1,68 @@
+                     Theria		549153
+                      Eutheria		540997
+                       Boreoeutheria		529423
+                        Laurasiatheria		499888
+                         Carnivora		471215
+                          Feliformia		357
+                           Felidae		197
+                          Caniformia		449243
+                           Mustelidae		1225
+                            Mustelinae		77
+                           Canidae		401328
+                            Vulpes		64752
+                             Vulpes vulpes		7155
+                             Vulpes lagopus		8850
+                            Canis		65139
+                             Canis lupus		65139
+                              Canis lupus dingo		1043
+                              Canis lupus familiaris		3008
+                           Ursidae		130
+                         Artiodactyla		12132
+                          Suina		11446
+                           Suidae		11446
+                            Sus		3714
+                             Sus scrofa		3714
+                            Phacochoerus		386
+                             Phacochoerus africanus		386
+                          Ruminantia		247
+                           Pecora		247
+                         Eulipotyphla		917
+                          Erinaceidae		916
+                           Erinaceinae		916
+                            Erinaceus		916
+                             Erinaceus europaeus		916
+                        Euarchontoglires		15018
+                         Primates		2036
+                          Haplorrhini		1948
+                           Simiiformes		1713
+                            Catarrhini		1366
+                             Hominoidea		950
+                              Hominidae		611
+                               Homininae		417
+                         Glires		12596
+                          Rodentia		8061
+                           Myomorpha		7422
+                            Muroidea		6934
+                             Muridae		3125
+                              Murinae		3084
+                               Rattus		2659
+                                Rattus rattus		1066
+                             Cricetidae		35
+                             Spalacidae		1524
+                              Spalacinae		1524
+                               Nannospalax		1524
+                                Nannospalax galili		1524
+                           Sciuromorpha		156
+                            Sciuridae		156
+                             Xerinae		138
+                              Marmotini		138
+                           Castorimorpha		25
+                            Heteromyidae		25
+                             Perognathinae		24
+                              Perognathus		24
+                               Perognathus longimembris		24
+                                Perognathus longimembris pacificus		24
+                          Lagomorpha		4510
+                           Leporidae		4155
+                            Oryctolagus		4155
+                             Oryctolagus cuniculus		4155

@@ -1,0 +1,89 @@
+                     Theria		29372
+                      Eutheria		29259
+                       Boreoeutheria		29166
+                        Euarchontoglires		6649
+                         Primates		5863
+                          Haplorrhini		5827
+                           Simiiformes		5805
+                            Catarrhini		5375
+                             Hominoidea		4725
+                              Hominidae		3986
+                               Homininae		3517
+                                Gorilla		17
+                                 Gorilla gorilla		17
+                                  Gorilla gorilla gorilla		17
+                                Homo		1403
+                                 Homo sapiens		1403
+                                Pan		17
+                            Platyrrhini		10
+                             Cebidae		7
+                              Cebinae		6
+                               Cebus		2
+                                Cebus imitator		2
+                         Glires		760
+                          Rodentia		115
+                           Myomorpha		77
+                            Dipodoidea		15
+                             Dipodidae		15
+                              Dipodinae		15
+                               Jaculus		15
+                                Jaculus jaculus		15
+                            Muroidea		62
+                             Muridae		53
+                              Murinae		53
+                               Rattus		45
+                                Rattus norvegicus		24
+                             Cricetidae		6
+                              Neotominae		6
+                               Peromyscus		5
+                                Peromyscus leucopus		4
+                           Hystricomorpha		2
+                            Chinchillidae		1
+                             Chinchilla		1
+                              Chinchilla lanigera		1
+                          Lagomorpha		643
+                           Leporidae		630
+                            Oryctolagus		630
+                             Oryctolagus cuniculus		630
+                        Laurasiatheria		22264
+                         Artiodactyla		21638
+                          Ruminantia		19814
+                           Pecora		19814
+                            Bovidae		16909
+                             Caprinae		9826
+                              Capra		606
+                               Capra hircus		606
+                              Ovis		5547
+                               Ovis aries		5547
+                             Bovinae		4896
+                              Bos		303
+                               Bos taurus		80
+                              Bubalus		2611
+                               Bubalus bubalis		2611
+                            Cervidae		17
+                             Cervinae		11
+                              Cervus		11
+                          Suina		1373
+                           Suidae		1373
+                            Sus		779
+                             Sus scrofa		779
+                         Carnivora		513
+                          Feliformia		318
+                           Felidae		303
+                            Felinae		109
+                             Felis		51
+                              Felis catus		51
+                          Caniformia		183
+                           Canidae		168
+                            Canis		93
+                             Canis lupus		93
+                      Metatheria		84
+                       Diprotodontia		5
+                        Vombatidae		5
+                         Vombatus		5
+                          Vombatus ursinus		5
+                       Didelphimorphia		78
+                        Didelphidae		78
+                         Didelphinae		78
+                          Gracilinanus		78
+                           Gracilinanus agilis		78

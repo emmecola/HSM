@@ -1,0 +1,98 @@
+                     Theria		906329
+                      Eutheria		899629
+                       Boreoeutheria		880310
+                        Euarchontoglires		298765
+                         Glires		71441
+                          Rodentia		34915
+                           Myomorpha		1366
+                            Muroidea		1302
+                             Muridae		909
+                              Murinae		897
+                               Rattus		783
+                                Rattus norvegicus		350
+                           Hystricomorpha		28414
+                            Bathyergidae		2339
+                             Fukomys		647
+                              Fukomys damarensis		647
+                             Heterocephalus		1117
+                              Heterocephalus glaber		1117
+                            Caviidae		602
+                             Cavia		602
+                              Cavia porcellus		602
+                            Octodontidae		10922
+                             Octodon		10922
+                              Octodon degus		10922
+                            Chinchillidae		1332
+                             Chinchilla		1332
+                              Chinchilla lanigera		1332
+                           Castorimorpha		61
+                            Heteromyidae		33
+                             Perognathinae		16
+                              Perognathus		16
+                               Perognathus longimembris		16
+                                Perognathus longimembris pacificus		16
+                           Sciuromorpha		388
+                            Sciuridae		388
+                             Sciurinae		163
+                              Sciurini		163
+                             Xerinae		102
+                              Marmotini		102
+                          Lagomorpha		36341
+                           Leporidae		34163
+                            Oryctolagus		34163
+                             Oryctolagus cuniculus		34163
+                         Primates		218186
+                          Haplorrhini		210506
+                           Simiiformes		208679
+                            Catarrhini		171114
+                             Hominoidea		124613
+                              Hominidae		88291
+                               Homininae		70596
+                                Pan		332
+                                Homo		22351
+                                 Homo sapiens		22351
+                               Ponginae		140
+                                Pongo		140
+                                 Pongo abelii		140
+                             Cercopithecoidea		123
+                              Cercopithecidae		123
+                         Dermoptera		53
+                          Cynocephalidae		53
+                           Galeopterus		53
+                            Galeopterus variegatus		53
+                        Laurasiatheria		552084
+                         Carnivora		533551
+                          Feliformia		46504
+                           Felidae		42298
+                            Felinae		9324
+                             Felis		4994
+                              Felis catus		4994
+                          Caniformia		463494
+                           Mustelidae		1679
+                            Lutrinae		54
+                            Melinae		712
+                             Meles		712
+                              Meles meles		712
+                           Canidae		418484
+                            Vulpes		103746
+                             Vulpes lagopus		18194
+                             Vulpes vulpes		11626
+                            Canis		52176
+                             Canis lupus		52176
+                              Canis lupus dingo		822
+                              Canis lupus familiaris		2337
+                           Phocidae		207
+                         Artiodactyla		736
+                          Ruminantia		567
+                           Pecora		567
+                            Bovidae		121
+                             Bovinae		76
+                          Whippomorpha		87
+                           Cetacea		87
+                            Odontoceti		31
+                             Delphinidae		9
+                         Eulipotyphla		962
+                          Erinaceidae		962
+                           Erinaceinae		962
+                            Erinaceus		962
+                             Erinaceus europaeus		962

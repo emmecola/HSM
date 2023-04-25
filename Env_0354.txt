@@ -1,0 +1,48 @@
+                     Theria		15684
+                      Eutheria		15634
+                       Boreoeutheria		15570
+                        Laurasiatheria		1676
+                         Artiodactyla		1605
+                          Ruminantia		1423
+                           Pecora		1423
+                            Bovidae		1086
+                             Caprinae		859
+                              Ovis		466
+                               Ovis aries		466
+                            Cervidae		6
+                             Cervinae		3
+                              Cervus		3
+                          Suina		123
+                           Suidae		123
+                            Sus		70
+                             Sus scrofa		70
+                         Eulipotyphla		31
+                          Erinaceidae		31
+                           Erinaceinae		31
+                            Erinaceus		31
+                             Erinaceus europaeus		31
+                         Carnivora		11
+                          Caniformia		6
+                           Mustelidae		1
+                        Euarchontoglires		13682
+                         Primates		13585
+                          Haplorrhini		13495
+                           Simiiformes		13458
+                            Catarrhini		12489
+                             Hominoidea		10963
+                              Hominidae		8915
+                               Homininae		7684
+                                Pan		43
+                                 Pan paniscus		10
+                                Homo		2935
+                                 Homo sapiens		2935
+                             Cercopithecoidea		16
+                              Cercopithecidae		16
+                         Glires		22
+                          Rodentia		22
+                           Sciuromorpha		3
+                            Sciuridae		3
+                             Sciurinae		3
+                              Sciurini		3
+                           Myomorpha		5
+                            Muroidea		4

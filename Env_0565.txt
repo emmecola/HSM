@@ -1,0 +1,91 @@
+                     Theria		1657458
+                      Eutheria		1638333
+                       Boreoeutheria		1601827
+                        Euarchontoglires		18317
+                         Primates		1989
+                          Haplorrhini		1876
+                           Simiiformes		1833
+                            Catarrhini		1495
+                             Hominoidea		1037
+                              Hominidae		730
+                               Homininae		575
+                                Homo		173
+                                 Homo sapiens		173
+                             Cercopithecoidea		71
+                              Cercopithecidae		71
+                               Cercopithecinae		39
+                                Chlorocebus		14
+                                 Chlorocebus sabaeus		14
+                         Glires		15755
+                          Rodentia		9692
+                           Myomorpha		8789
+                            Muroidea		7728
+                             Cricetidae		53
+                             Spalacidae		3144
+                              Spalacinae		3144
+                               Nannospalax		3144
+                                Nannospalax galili		3144
+                             Muridae		332
+                              Murinae		317
+                               Rattus		254
+                                Rattus rattus		104
+                           Castorimorpha		25
+                            Heteromyidae		25
+                             Perognathinae		22
+                              Perognathus		22
+                               Perognathus longimembris		22
+                                Perognathus longimembris pacificus		22
+                           Sciuromorpha		72
+                            Sciuridae		72
+                             Xerinae		55
+                              Marmotini		55
+                          Lagomorpha		6021
+                           Leporidae		5038
+                            Oryctolagus		5038
+                             Oryctolagus cuniculus		5038
+                        Laurasiatheria		1538350
+                         Artiodactyla		1430
+                          Ruminantia		545
+                           Pecora		545
+                            Cervidae		171
+                             Cervinae		87
+                              Cervus		87
+                          Whippomorpha		184
+                           Cetacea		184
+                            Odontoceti		77
+                             Delphinidae		20
+                          Suina		572
+                           Suidae		572
+                         Carnivora		1484425
+                          Caniformia		1414562
+                           Canidae		1263131
+                            Vulpes		218965
+                             Vulpes vulpes		23623
+                             Vulpes lagopus		25923
+                            Canis		178634
+                             Canis lupus		178634
+                              Canis lupus familiaris		7185
+                              Canis lupus dingo		2634
+                           Ursidae		1456
+                            Ursus		565
+                            Ailuropoda		346
+                             Ailuropoda melanoleuca		346
+                           Mustelidae		1080
+                           Phocidae		891
+                           Otariidae		282
+                           Odobenidae		165
+                            Odobenus		165
+                             Odobenus rosmarus		165
+                              Odobenus rosmarus divergens		165
+                          Feliformia		1018
+                           Felidae		632
+                         Eulipotyphla		922
+                          Erinaceidae		919
+                           Erinaceinae		919
+                            Erinaceus		919
+                             Erinaceus europaeus		919
+                         Perissodactyla		156
+                          Equidae		139
+                           Equus		139
+                         Chiroptera		97
+                          Microchiroptera		74

@@ -1,0 +1,73 @@
+                     Theria		6527697
+                      Eutheria		6376214
+                       Boreoeutheria		6266263
+                        Euarchontoglires		89254
+                         Primates		32062
+                          Haplorrhini		30886
+                           Simiiformes		30576
+                            Catarrhini		24918
+                             Hominoidea		18030
+                              Hominidae		12832
+                               Homininae		10312
+                                Homo		3383
+                                 Homo sapiens		3383
+                         Glires		55600
+                          Lagomorpha		51705
+                           Leporidae		48244
+                            Oryctolagus		48244
+                             Oryctolagus cuniculus		48244
+                          Rodentia		3736
+                           Hystricomorpha		999
+                           Myomorpha		2284
+                            Muroidea		2190
+                             Muridae		1644
+                              Murinae		1615
+                               Rattus		1276
+                           Castorimorpha		32
+                            Heteromyidae		31
+                             Perognathinae		24
+                              Perognathus		24
+                               Perognathus longimembris		24
+                                Perognathus longimembris pacificus		24
+                        Laurasiatheria		6039999
+                         Carnivora		5642722
+                          Caniformia		5402143
+                           Mustelidae		2197
+                           Ursidae		1064
+                            Ursus		549
+                           Phocidae		961
+                           Canidae		4964589
+                            Vulpes		228781
+                             Vulpes lagopus		29420
+                             Vulpes vulpes		25854
+                            Canis		1820894
+                             Canis lupus		1820894
+                              Canis lupus dingo		26958
+                              Canis lupus familiaris		108461
+                          Feliformia		26049
+                           Felidae		23257
+                            Felinae		5190
+                             Felis		2812
+                              Felis catus		2812
+                         Artiodactyla		242119
+                          Suina		2094
+                           Suidae		2094
+                            Sus		762
+                             Sus scrofa		762
+                          Ruminantia		228991
+                           Pecora		228991
+                            Cervidae		84438
+                             Cervinae		36960
+                              Cervus		36960
+                               Cervus elaphus		2549
+                             Odocoileinae		10757
+                              Odocoileus		10757
+                               Odocoileus virginianus		10757
+                                Odocoileus virginianus texanus		10757
+                            Bovidae		9430
+                             Bovinae		3586
+                             Caprinae		1173
+                          Whippomorpha		610
+                           Cetacea		610
+                            Odontoceti		232
+                             Delphinidae		52

@@ -1,0 +1,41 @@
+                     Theria		5302
+                      Eutheria		5224
+                       Boreoeutheria		5144
+                        Laurasiatheria		3324
+                         Carnivora		3087
+                          Caniformia		2958
+                           Canidae		2682
+                            Canis		1072
+                             Canis lupus		1072
+                           Mustelidae		29
+                         Artiodactyla		138
+                          Ruminantia		124
+                           Pecora		124
+                            Cervidae		7
+                             Odocoileinae		2
+                              Odocoileus		2
+                               Odocoileus virginianus		2
+                                Odocoileus virginianus texanus		2
+                            Bovidae		55
+                             Bovinae		36
+                        Euarchontoglires		1659
+                         Primates		1084
+                          Haplorrhini		1057
+                           Simiiformes		1053
+                            Catarrhini		860
+                             Hominoidea		622
+                              Hominidae		422
+                               Homininae		324
+                                Homo		95
+                                 Homo sapiens		95
+                         Glires		537
+                          Lagomorpha		369
+                           Leporidae		307
+                            Oryctolagus		307
+                             Oryctolagus cuniculus		307
+                          Rodentia		167
+                           Myomorpha		163
+                            Muroidea		160
+                             Muridae		137
+                              Murinae		135
+                               Rattus		119

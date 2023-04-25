@@ -1,0 +1,56 @@
+                     Theria		261393
+                      Eutheria		261277
+                       Boreoeutheria		260975
+                        Laurasiatheria		162006
+                         Artiodactyla		160910
+                          Suina		33418
+                           Suidae		33418
+                            Sus		14243
+                             Sus scrofa		14243
+                            Phacochoerus		626
+                             Phacochoerus africanus		626
+                          Ruminantia		125707
+                           Pecora		125707
+                            Cervidae		97
+                             Cervinae		71
+                              Cervus		71
+                            Bovidae		102379
+                             Bovinae		26597
+                              Bos		6422
+                               Bos indicus x Bos taurus		113
+                               Bos taurus		1708
+                             Caprinae		63567
+                              Ovis		38455
+                               Ovis aries		38455
+                              Capra		416
+                               Capra hircus		416
+                         Carnivora		339
+                          Caniformia		324
+                           Canidae		321
+                            Canis		293
+                             Canis lupus		293
+                        Euarchontoglires		96818
+                         Primates		96732
+                          Haplorrhini		96601
+                           Simiiformes		96569
+                            Catarrhini		93758
+                             Hominoidea		86806
+                              Hominidae		69053
+                               Homininae		57119
+                                Pan		40
+                                Homo		23366
+                                 Homo sapiens		23366
+                              Hylobatidae		56
+                               Nomascus		6
+                                Nomascus leucogenys		6
+                             Cercopithecoidea		157
+                              Cercopithecidae		157
+                               Colobinae		40
+                               Cercopithecinae		18
+                                Chlorocebus		5
+                                 Chlorocebus sabaeus		5
+                         Glires		14
+                          Lagomorpha		12
+                           Leporidae		8
+                            Oryctolagus		8
+                             Oryctolagus cuniculus		8

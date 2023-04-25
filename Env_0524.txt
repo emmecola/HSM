@@ -1,0 +1,79 @@
+                     Theria		458016
+                      Eutheria		450880
+                       Boreoeutheria		442477
+                        Laurasiatheria		392885
+                         Artiodactyla		3084
+                          Ruminantia		1415
+                           Pecora		1415
+                            Bovidae		718
+                             Bovinae		502
+                             Caprinae		65
+                          Suina		1565
+                           Suidae		1565
+                            Sus		548
+                             Sus scrofa		548
+                         Carnivora		377171
+                          Feliformia		63301
+                           Felidae		56929
+                            Felinae		12838
+                             Lynx		55
+                              Lynx canadensis		25
+                             Felis		6904
+                              Felis catus		6904
+                          Caniformia		296320
+                           Mustelidae		2258
+                            Melinae		1130
+                             Meles		1130
+                              Meles meles		1130
+                           Canidae		267172
+                            Vulpes		27697
+                             Vulpes vulpes		3350
+                             Vulpes lagopus		4018
+                            Canis		73266
+                             Canis lupus		73266
+                              Canis lupus familiaris		4273
+                              Canis lupus dingo		1077
+                         Eulipotyphla		1923
+                          Erinaceidae		1920
+                           Erinaceinae		1920
+                            Erinaceus		1920
+                             Erinaceus europaeus		1920
+                          Talpidae		3
+                        Euarchontoglires		39123
+                         Primates		8194
+                          Haplorrhini		7914
+                           Simiiformes		7837
+                            Catarrhini		6392
+                             Hominoidea		4662
+                              Hominidae		3367
+                               Homininae		2695
+                                Homo		903
+                                 Homo sapiens		903
+                             Cercopithecoidea		17
+                              Cercopithecidae		17
+                               Cercopithecinae		10
+                                Chlorocebus		4
+                                 Chlorocebus sabaeus		4
+                         Glires		30402
+                          Lagomorpha		28183
+                           Leporidae		26107
+                            Oryctolagus		26107
+                             Oryctolagus cuniculus		26107
+                          Rodentia		2147
+                           Hystricomorpha		364
+                           Myomorpha		1563
+                            Muroidea		1460
+                             Spalacidae		352
+                              Spalacinae		352
+                               Nannospalax		352
+                                Nannospalax galili		352
+                             Muridae		567
+                              Murinae		553
+                               Rattus		451
+                                Rattus norvegicus		250
+                           Castorimorpha		8
+                            Heteromyidae		8
+                             Perognathinae		8
+                              Perognathus		8
+                               Perognathus longimembris		8
+                                Perognathus longimembris pacificus		8

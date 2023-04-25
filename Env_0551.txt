@@ -1,0 +1,58 @@
+                     Theria		66637
+                      Eutheria		66487
+                       Boreoeutheria		65670
+                        Euarchontoglires		46153
+                         Primates		44321
+                          Haplorrhini		42748
+                           Simiiformes		42396
+                            Catarrhini		34954
+                             Hominoidea		25510
+                              Hominidae		17898
+                               Homininae		14362
+                                Homo		4665
+                                 Homo sapiens		4665
+                             Cercopithecoidea		33
+                              Cercopithecidae		33
+                               Colobinae		15
+                                Colobus		4
+                                 Colobus angolensis		4
+                                  Colobus angolensis palliatus		4
+                            Platyrrhini		19
+                             Cebidae		12
+                              Callitrichinae		10
+                               Callithrix		10
+                                Callithrix		10
+                                 Callithrix jacchus		10
+                         Scandentia		3
+                          Tupaiidae		3
+                           Tupaia		3
+                            Tupaia chinensis		3
+                         Glires		851
+                          Rodentia		61
+                           Myomorpha		18
+                            Muroidea		16
+                             Muridae		8
+                              Murinae		8
+                               Rattus		7
+                          Lagomorpha		786
+                           Leporidae		676
+                            Oryctolagus		676
+                             Oryctolagus cuniculus		676
+                        Laurasiatheria		17066
+                         Carnivora		289
+                          Caniformia		194
+                           Mustelidae		121
+                          Feliformia		52
+                           Felidae		50
+                         Eulipotyphla		16180
+                          Erinaceidae		16170
+                           Erinaceinae		16170
+                            Erinaceus		16170
+                             Erinaceus europaeus		16170
+                         Artiodactyla		256
+                          Suina		68
+                           Suidae		68
+                            Sus		22
+                             Sus scrofa		22
+                          Ruminantia		168
+                           Pecora		168

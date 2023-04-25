@@ -1,0 +1,44 @@
+                     Theria		77137
+                      Eutheria		76902
+                       Boreoeutheria		75592
+                        Laurasiatheria		67435
+                         Carnivora		7673
+                          Feliformia		921
+                           Felidae		808
+                            Felinae		91
+                          Caniformia		6362
+                           Canidae		5646
+                            Vulpes		681
+                            Canis		999
+                             Canis lupus		999
+                              Canis lupus dingo		23
+                         Artiodactyla		57983
+                          Ruminantia		229
+                           Pecora		229
+                          Suina		55914
+                           Suidae		55914
+                            Phacochoerus		1920
+                             Phacochoerus africanus		1920
+                            Sus		18214
+                             Sus scrofa		18214
+                        Euarchontoglires		6305
+                         Primates		4208
+                          Haplorrhini		4023
+                           Simiiformes		3826
+                            Catarrhini		3095
+                             Hominoidea		2263
+                              Hominidae		1601
+                               Homininae		1306
+                                Homo		423
+                                 Homo sapiens		423
+                         Glires		1965
+                          Rodentia		1050
+                           Myomorpha		983
+                            Muroidea		944
+                             Muridae		710
+                              Murinae		704
+                               Rattus		533
+                          Lagomorpha		907
+                           Leporidae		801
+                            Oryctolagus		801
+                             Oryctolagus cuniculus		801

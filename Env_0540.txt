@@ -1,0 +1,77 @@
+                     Theria		37468
+                      Eutheria		37163
+                       Boreoeutheria		36546
+                        Euarchontoglires		16613
+                         Primates		11093
+                          Haplorrhini		10691
+                           Simiiformes		10599
+                            Catarrhini		8730
+                             Hominoidea		6311
+                              Hominidae		4527
+                               Homininae		3639
+                                Homo		1217
+                                 Homo sapiens		1217
+                         Glires		5267
+                          Rodentia		1829
+                           Hystricomorpha		2
+                            Chinchillidae		1
+                             Chinchilla		1
+                              Chinchilla lanigera		1
+                           Myomorpha		1799
+                            Muroidea		1782
+                             Spalacidae		46
+                              Spalacinae		46
+                               Nannospalax		46
+                                Nannospalax galili		46
+                             Muridae		1596
+                              Murinae		1586
+                               Rattus		1393
+                                Rattus rattus		484
+                                Rattus norvegicus		184
+                          Lagomorpha		3430
+                           Leporidae		3208
+                            Oryctolagus		3208
+                             Oryctolagus cuniculus		3208
+                        Laurasiatheria		18886
+                         Artiodactyla		1415
+                          Suina		372
+                           Suidae		372
+                            Sus		129
+                             Sus scrofa		129
+                          Ruminantia		971
+                           Pecora		971
+                            Bovidae		257
+                             Caprinae		179
+                              Capra		22
+                               Capra hircus		22
+                              Ovis		67
+                               Ovis aries		67
+                            Cervidae		190
+                             Cervinae		116
+                              Cervus		116
+                               Cervus elaphus		8
+                         Carnivora		15555
+                          Caniformia		14581
+                           Mustelidae		953
+                            Melinae		451
+                             Meles		451
+                              Meles meles		451
+                            Mustelinae		72
+                             Mustela		54
+                              Mustela putorius		20
+                               Mustela putorius furo		20
+                           Canidae		12192
+                            Vulpes		1127
+                             Vulpes vulpes		117
+                             Vulpes lagopus		173
+                            Canis		3527
+                             Canis lupus		3527
+                              Canis lupus familiaris		198
+                              Canis lupus dingo		55
+                          Feliformia		319
+                           Felidae		272
+                         Eulipotyphla		1440
+                          Erinaceidae		1439
+                           Erinaceinae		1439
+                            Erinaceus		1439
+                             Erinaceus europaeus		1439

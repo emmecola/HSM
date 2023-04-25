@@ -1,0 +1,85 @@
+                     Theria		18549
+                      Eutheria		18492
+                       Boreoeutheria		18402
+                        Euarchontoglires		2881
+                         Glires		190
+                          Lagomorpha		90
+                           Leporidae		90
+                            Oryctolagus		90
+                             Oryctolagus cuniculus		90
+                          Rodentia		98
+                           Myomorpha		80
+                            Muroidea		78
+                             Muridae		68
+                              Murinae		66
+                               Rattus		57
+                                Rattus rattus		19
+                             Cricetidae		6
+                              Arvicolinae		3
+                               Myodes		2
+                                Myodes glareolus		2
+                           Hystricomorpha		7
+                            Chinchillidae		5
+                             Chinchilla		5
+                              Chinchilla lanigera		5
+                         Primates		2651
+                          Haplorrhini		2632
+                           Simiiformes		2617
+                            Catarrhini		2422
+                             Hominoidea		2097
+                              Hominidae		1735
+                               Homininae		1490
+                                Homo		595
+                                 Homo sapiens		595
+                             Cercopithecoidea		27
+                              Cercopithecidae		27
+                               Cercopithecinae		6
+                                Macaca		1
+                                 Macaca fascicularis		1
+                               Colobinae		14
+                                Colobus		5
+                                 Colobus angolensis		5
+                                  Colobus angolensis palliatus		5
+                            Platyrrhini		13
+                             Cebidae		13
+                              Callitrichinae		13
+                               Callithrix		13
+                                Callithrix		13
+                                 Callithrix jacchus		13
+                        Laurasiatheria		15322
+                         Artiodactyla		7749
+                          Ruminantia		6930
+                           Pecora		6930
+                            Bovidae		5947
+                             Bovinae		2044
+                              Bos		577
+                               Bos indicus x Bos taurus		32
+                             Caprinae		3148
+                              Ovis		1622
+                               Ovis aries		1622
+                              Capra		333
+                               Capra hircus		333
+                            Cervidae		3
+                          Suina		681
+                           Suidae		681
+                            Sus		359
+                             Sus scrofa		359
+                         Carnivora		7448
+                          Feliformia		7264
+                           Felidae		6991
+                            Felinae		2948
+                             Leopardus		11
+                              Leopardus geoffroyi		11
+                             Felis		1738
+                              Felis catus		1738
+                             Puma		8
+                              Puma concolor		4
+                          Caniformia		54
+                           Canidae		39
+                           Phocidae		6
+                            Mirounga		1
+                         Chiroptera		9
+                          Microchiroptera		9
+                           Vespertilionidae		9
+                            Myotis		5
+                             Myotis myotis		1

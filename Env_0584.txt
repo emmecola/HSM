@@ -1,0 +1,80 @@
+                     Theria		226686
+                      Eutheria		221358
+                       Boreoeutheria		217859
+                        Laurasiatheria		203754
+                         Carnivora		176151
+                          Caniformia		169918
+                           Canidae		157820
+                            Vulpes		632
+                             Vulpes lagopus		89
+                            Canis		70018
+                             Canis lupus		70018
+                              Canis lupus dingo		1131
+                              Canis lupus familiaris		4528
+                           Otariidae		7
+                           Ursidae		17
+                            Ursus		10
+                         Artiodactyla		7014
+                          Suina		295
+                           Suidae		295
+                          Ruminantia		6396
+                           Pecora		6396
+                            Cervidae		2271
+                             Cervinae		1038
+                              Cervus		1038
+                               Cervus elaphus		94
+                             Odocoileinae		287
+                              Odocoileus		287
+                               Odocoileus virginianus		287
+                                Odocoileus virginianus texanus		287
+                            Bovidae		401
+                             Bovinae		187
+                              Bubalus		34
+                               Bubalus bubalis		34
+                             Caprinae		84
+                         Perissodactyla		3
+                          Rhinocerotidae		3
+                           Ceratotherium		3
+                            Ceratotherium simum		3
+                             Ceratotherium simum simum		3
+                         Eulipotyphla		15979
+                          Erinaceidae		15972
+                           Erinaceinae		15972
+                            Erinaceus		15972
+                             Erinaceus europaeus		15972
+                        Euarchontoglires		9467
+                         Primates		6970
+                          Haplorrhini		6694
+                           Simiiformes		6625
+                            Catarrhini		5416
+                             Hominoidea		3910
+                              Hominidae		2757
+                               Homininae		2178
+                                Homo		706
+                                 Homo sapiens		706
+                                Pan		10
+                         Glires		2278
+                          Lagomorpha		1988
+                           Leporidae		1831
+                            Oryctolagus		1831
+                             Oryctolagus cuniculus		1831
+                          Rodentia		288
+                           Sciuromorpha		40
+                            Sciuridae		40
+                             Xerinae		36
+                              Marmotini		36
+                               Marmota		20
+                                Marmota monax		2
+                           Hystricomorpha		15
+                            Chinchillidae		7
+                             Chinchilla		7
+                              Chinchilla lanigera		7
+                            Caviidae		3
+                             Cavia		3
+                              Cavia porcellus		3
+                           Myomorpha		206
+                            Muroidea		184
+                             Muridae		69
+                              Murinae		67
+                               Rattus		47
+                                Rattus norvegicus		21

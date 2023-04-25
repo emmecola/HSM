@@ -1,0 +1,61 @@
+                     Theria		88792
+                      Eutheria		88100
+                       Boreoeutheria		86952
+                        Euarchontoglires		24815
+                         Glires		17603
+                          Rodentia		2510
+                           Myomorpha		2303
+                            Muroidea		2028
+                             Spalacidae		853
+                              Spalacinae		853
+                               Nannospalax		853
+                                Nannospalax galili		853
+                             Muridae		21
+                              Murinae		18
+                               Mus		2
+                                Mus		1
+                             Cricetidae		17
+                              Neotominae		7
+                               Onychomys		5
+                                Onychomys torridus		5
+                           Sciuromorpha		12
+                            Sciuridae		12
+                          Lagomorpha		15055
+                           Leporidae		14041
+                            Oryctolagus		14041
+                             Oryctolagus cuniculus		14041
+                         Primates		6888
+                          Haplorrhini		6618
+                           Simiiformes		6551
+                            Catarrhini		5311
+                             Hominoidea		3868
+                              Hominidae		2741
+                               Homininae		2222
+                                Homo		657
+                                 Homo sapiens		657
+                        Laurasiatheria		60615
+                         Carnivora		23940
+                          Caniformia		23086
+                           Mustelidae		88
+                            Mustelinae		34
+                             Mustela		17
+                           Canidae		21178
+                            Vulpes		192
+                            Canis		9054
+                             Canis lupus		9054
+                              Canis lupus dingo		123
+                              Canis lupus familiaris		549
+                         Artiodactyla		1451
+                          Suina		698
+                           Suidae		698
+                            Sus		253
+                             Sus scrofa		253
+                          Ruminantia		703
+                           Pecora		703
+                            Bovidae		260
+                             Caprinae		137
+                         Eulipotyphla		34048
+                          Erinaceidae		34029
+                           Erinaceinae		34029
+                            Erinaceus		34029
+                             Erinaceus europaeus		34029

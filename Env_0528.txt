@@ -1,0 +1,30 @@
+                     Theria		3568
+                      Eutheria		3512
+                       Boreoeutheria		3437
+                        Laurasiatheria		2391
+                         Carnivora		2283
+                          Caniformia		2165
+                           Mustelidae		37
+                           Canidae		1887
+                            Vulpes		183
+                            Canis		385
+                             Canis lupus		385
+                              Canis lupus dingo		8
+                         Artiodactyla		37
+                          Suina		34
+                           Suidae		34
+                        Euarchontoglires		891
+                         Primates		710
+                          Haplorrhini		683
+                           Simiiformes		671
+                            Catarrhini		545
+                             Hominoidea		405
+                              Hominidae		305
+                               Homininae		251
+                                Homo		80
+                                 Homo sapiens		80
+                         Glires		159
+                          Lagomorpha		159
+                           Leporidae		148
+                            Oryctolagus		148
+                             Oryctolagus cuniculus		148

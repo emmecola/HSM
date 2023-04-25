@@ -1,0 +1,51 @@
+                     Theria		2547352
+                      Eutheria		2544477
+                       Boreoeutheria		2522630
+                        Euarchontoglires		502249
+                         Primates		490827
+                          Haplorrhini		474016
+                           Simiiformes		469786
+                            Catarrhini		386923
+                             Hominoidea		282462
+                              Hominidae		201359
+                               Homininae		162426
+                                Pan		749
+                                Gorilla		328
+                                 Gorilla gorilla		328
+                                  Gorilla gorilla gorilla		328
+                                Homo		52016
+                                 Homo sapiens		52016
+                             Cercopithecoidea		289
+                              Cercopithecidae		289
+                               Colobinae		70
+                         Glires		1194
+                          Rodentia		51
+                           Myomorpha		2
+                          Lagomorpha		1126
+                           Leporidae		1017
+                            Oryctolagus		1017
+                             Oryctolagus cuniculus		1017
+                        Laurasiatheria		1974050
+                         Eulipotyphla		1926701
+                          Erinaceidae		1925559
+                           Erinaceinae		1925559
+                            Erinaceus		1925559
+                             Erinaceus europaeus		1925559
+                         Artiodactyla		9637
+                          Ruminantia		8906
+                           Pecora		8906
+                            Bovidae		5281
+                             Bovinae		160
+                             Caprinae		3793
+                              Ovis		1699
+                               Ovis aries		1699
+                         Carnivora		3050
+                          Feliformia		680
+                           Felidae		591
+                          Caniformia		2175
+                           Canidae		659
+                           Mustelidae		1094
+                            Mustelinae		577
+                             Mustela		408
+                              Mustela putorius		245
+                               Mustela putorius furo		245

@@ -1,0 +1,53 @@
+                     Theria		7272847
+                      Eutheria		7265365
+                       Boreoeutheria		7215513
+                        Laurasiatheria		7060467
+                         Eulipotyphla		6909367
+                          Erinaceidae		6905523
+                           Erinaceinae		6905523
+                            Erinaceus		6905523
+                             Erinaceus europaeus		6905523
+                         Artiodactyla		5141
+                          Ruminantia		4739
+                           Pecora		4739
+                            Bovidae		2833
+                             Bovinae		777
+                             Caprinae		1401
+                              Ovis		671
+                               Ovis aries		671
+                         Carnivora		21790
+                          Caniformia		11352
+                           Canidae		2121
+                            Canis		626
+                             Canis lupus		626
+                           Mustelidae		7347
+                            Mustelinae		4036
+                             Mustela		2815
+                              Mustela putorius		1666
+                               Mustela putorius furo		1666
+                          Feliformia		9103
+                           Felidae		8091
+                            Felinae		923
+                        Euarchontoglires		76462
+                         Glires		10434
+                          Lagomorpha		4569
+                           Leporidae		4254
+                            Oryctolagus		4254
+                             Oryctolagus cuniculus		4254
+                          Rodentia		5813
+                           Myomorpha		5576
+                            Muroidea		5498
+                             Muridae		4903
+                              Murinae		4844
+                               Rattus		4238
+                                Rattus norvegicus		859
+                                Rattus rattus		1223
+                         Primates		64285
+                          Haplorrhini		61885
+                           Simiiformes		61295
+                            Catarrhini		50043
+                             Hominoidea		36467
+                              Hominidae		25965
+                               Homininae		20930
+                                Homo		6773
+                                 Homo sapiens		6773

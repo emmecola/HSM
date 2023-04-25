@@ -1,0 +1,72 @@
+                     Theria		1887290
+                      Eutheria		1855656
+                       Boreoeutheria		1816009
+                        Laurasiatheria		1513371
+                         Artiodactyla		1543
+                          Ruminantia		1154
+                           Pecora		1154
+                            Bovidae		493
+                             Caprinae		341
+                              Ovis		174
+                               Ovis aries		174
+                          Whippomorpha		148
+                           Cetacea		148
+                            Odontoceti		56
+                         Carnivora		1466469
+                          Caniformia		1401536
+                           Mustelidae		7810
+                            Lutrinae		248
+                            Mustelinae		128
+                            Melinae		3812
+                             Meles		3812
+                              Meles meles		3812
+                           Phocidae		765
+                           Canidae		1248760
+                            Vulpes		210107
+                             Vulpes lagopus		28961
+                             Vulpes vulpes		23639
+                            Canis		184644
+                             Canis lupus		184644
+                              Canis lupus familiaris		8253
+                              Canis lupus dingo		3001
+                           Ursidae		828
+                            Ursus		423
+                          Feliformia		990
+                           Felidae		522
+                           Herpestidae		163
+                            Suricata		163
+                             Suricata suricatta		163
+                         Chiroptera		100
+                          Microchiroptera		78
+                        Euarchontoglires		255332
+                         Primates		31944
+                          Haplorrhini		30708
+                           Simiiformes		30434
+                            Catarrhini		24912
+                             Hominoidea		17911
+                              Hominidae		12660
+                               Homininae		10215
+                                Homo		3223
+                                 Homo sapiens		3223
+                             Cercopithecoidea		99
+                              Cercopithecidae		99
+                               Cercopithecinae		57
+                                Chlorocebus		21
+                                 Chlorocebus sabaeus		21
+                         Glires		220506
+                          Rodentia		580
+                           Myomorpha		375
+                            Muroidea		312
+                           Castorimorpha		57
+                            Heteromyidae		57
+                             Perognathinae		49
+                              Perognathus		49
+                               Perognathus longimembris		49
+                                Perognathus longimembris pacificus		49
+                          Lagomorpha		219121
+                           Leporidae		181136
+                            Oryctolagus		181136
+                             Oryctolagus cuniculus		181136
+                           Ochotonidae		742
+                            Ochotona		742
+                             Ochotona princeps		388

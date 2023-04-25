@@ -1,0 +1,56 @@
+                     Theria		11991
+                      Eutheria		11965
+                       Boreoeutheria		11905
+                        Laurasiatheria		5903
+                         Artiodactyla		5550
+                          Ruminantia		4508
+                           Pecora		4508
+                            Bovidae		3542
+                             Caprinae		1445
+                              Ovis		805
+                               Ovis aries		805
+                             Bovinae		1525
+                              Bos		372
+                          Suina		899
+                           Suidae		899
+                            Sus		449
+                             Sus scrofa		449
+                         Carnivora		298
+                          Feliformia		69
+                           Felidae		61
+                          Caniformia		222
+                           Canidae		203
+                            Canis		122
+                             Canis lupus		122
+                        Euarchontoglires		5818
+                         Primates		5662
+                          Haplorrhini		5624
+                           Simiiformes		5613
+                            Catarrhini		5160
+                             Hominoidea		4496
+                              Hominidae		3728
+                               Homininae		3224
+                                Homo		1303
+                                 Homo sapiens		1303
+                             Cercopithecoidea		12
+                              Cercopithecidae		12
+                               Cercopithecinae		10
+                         Glires		127
+                          Lagomorpha		50
+                           Leporidae		49
+                            Oryctolagus		49
+                             Oryctolagus cuniculus		49
+                          Rodentia		75
+                           Myomorpha		37
+                            Muroidea		37
+                             Muridae		33
+                              Murinae		32
+                               Mus		18
+                                Mus		16
+                                 Mus musculus		13
+                           Castorimorpha		17
+                            Heteromyidae		17
+                             Perognathinae		17
+                              Perognathus		17
+                               Perognathus longimembris		17
+                                Perognathus longimembris pacificus		17

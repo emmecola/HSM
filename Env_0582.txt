@@ -1,0 +1,54 @@
+                     Theria		240179
+                      Eutheria		236800
+                       Boreoeutheria		232646
+                        Laurasiatheria		176215
+                         Carnivora		110949
+                          Caniformia		106865
+                           Canidae		98491
+                            Vulpes		1764
+                            Canis		39905
+                             Canis lupus		39905
+                              Canis lupus dingo		559
+                              Canis lupus familiaris		2424
+                         Artiodactyla		51330
+                          Ruminantia		48990
+                           Pecora		48990
+                            Bovidae		2165
+                             Caprinae		306
+                             Bovinae		836
+                            Cervidae		18039
+                             Cervinae		7943
+                              Cervus		7943
+                               Cervus canadensis		415
+                             Odocoileinae		2286
+                              Odocoileus		2286
+                               Odocoileus virginianus		2286
+                                Odocoileus virginianus texanus		2285
+                         Eulipotyphla		9562
+                          Erinaceidae		9556
+                           Erinaceinae		9556
+                            Erinaceus		9556
+                             Erinaceus europaeus		9556
+                        Euarchontoglires		51174
+                         Glires		40826
+                          Lagomorpha		35479
+                           Leporidae		32764
+                            Oryctolagus		32764
+                             Oryctolagus cuniculus		32764
+                          Rodentia		5229
+                           Myomorpha		4563
+                            Muroidea		4000
+                             Cricetidae		44
+                             Spalacidae		1723
+                              Spalacinae		1723
+                               Nannospalax		1723
+                                Nannospalax galili		1723
+                         Primates		9562
+                          Haplorrhini		9224
+                           Simiiformes		9142
+                            Catarrhini		7531
+                             Hominoidea		5421
+                              Hominidae		3813
+                               Homininae		3037
+                                Homo		988
+                                 Homo sapiens		988

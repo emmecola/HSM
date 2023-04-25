@@ -1,0 +1,65 @@
+                     Theria		920955
+                      Eutheria		919896
+                       Boreoeutheria		912540
+                        Euarchontoglires		71542
+                         Primates		54606
+                          Haplorrhini		52849
+                           Simiiformes		52392
+                            Catarrhini		43267
+                             Hominoidea		31307
+                              Hominidae		22064
+                               Homininae		17706
+                                Homo		5640
+                                 Homo sapiens		5640
+                             Cercopithecoidea		19
+                              Cercopithecidae		19
+                         Glires		15700
+                          Rodentia		10844
+                           Myomorpha		10744
+                            Muroidea		10717
+                             Muridae		10107
+                              Murinae		10005
+                               Rattus		8721
+                                Rattus norvegicus		749
+                                Rattus rattus		3553
+                          Lagomorpha		4838
+                           Leporidae		4314
+                            Oryctolagus		4314
+                             Oryctolagus cuniculus		4314
+                        Laurasiatheria		828324
+                         Artiodactyla		3450
+                          Suina		1336
+                           Suidae		1336
+                            Sus		474
+                             Sus scrofa		474
+                          Ruminantia		1908
+                           Pecora		1908
+                            Bovidae		1035
+                             Bovinae		300
+                             Caprinae		448
+                              Capra		90
+                               Capra hircus		90
+                         Carnivora		25577
+                          Caniformia		23875
+                           Canidae		2074
+                            Canis		688
+                             Canis lupus		688
+                           Mustelidae		18259
+                            Mustelinae		9930
+                             Mustela		6887
+                              Mustela erminea		335
+                              Mustela putorius		3781
+                               Mustela putorius furo		3781
+                            Lutrinae		63
+                             Lutra		11
+                              Lutra lutra		11
+                            Melinae		330
+                             Meles		330
+                              Meles meles		330
+                          Feliformia		522
+                           Felidae		462
+                         Eulipotyphla		784726
+                          Erinaceidae		784257
+                           Erinaceinae		784257
+                            Erinaceus		784257
+                             Erinaceus europaeus		784257

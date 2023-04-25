@@ -1,0 +1,59 @@
+                     Theria		2579419
+                      Eutheria		2578046
+                       Boreoeutheria		2571481
+                        Laurasiatheria		761677
+                         Carnivora		257470
+                          Caniformia		92966
+                           Mustelidae		36235
+                            Mustelinae		26478
+                             Mustela		20492
+                              Mustela putorius		12795
+                               Mustela putorius furo		12786
+                           Canidae		53086
+                            Canis		28451
+                             Canis lupus		28451
+                          Feliformia		160653
+                           Felidae		155632
+                            Felinae		63656
+                             Felis		37490
+                              Felis catus		37490
+                         Artiodactyla		499730
+                          Ruminantia		378326
+                           Pecora		378326
+                            Bovidae		322495
+                             Bovinae		34482
+                              Bos		9929
+                             Caprinae		243169
+                              Capra		20443
+                               Capra hircus		20443
+                              Ovis		126776
+                               Ovis aries		126776
+                          Suina		112565
+                           Suidae		112565
+                            Sus		61882
+                             Sus scrofa		61882
+                        Euarchontoglires		1789403
+                         Glires		29014
+                          Lagomorpha		12947
+                           Leporidae		12689
+                            Oryctolagus		12689
+                             Oryctolagus cuniculus		12689
+                          Rodentia		16027
+                           Myomorpha		15848
+                            Muroidea		15782
+                             Muridae		15166
+                              Murinae		15101
+                               Rattus		13848
+                                Rattus rattus		7198
+                         Primates		1754651
+                          Haplorrhini		1746050
+                           Simiiformes		1742590
+                            Catarrhini		1636022
+                             Hominoidea		1454365
+                              Hominidae		1215354
+                               Homininae		1059930
+                                Pan		5815
+                                Homo		420912
+                                 Homo sapiens		420912
+                             Cercopithecoidea		894
+                              Cercopithecidae		894

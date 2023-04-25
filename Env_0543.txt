@@ -1,0 +1,59 @@
+                     Theria		57934
+                      Eutheria		57414
+                       Boreoeutheria		56691
+                        Euarchontoglires		36392
+                         Primates		7483
+                          Haplorrhini		7222
+                           Simiiformes		7157
+                            Catarrhini		5877
+                             Hominoidea		4332
+                              Hominidae		3109
+                               Homininae		2475
+                                Homo		847
+                                 Homo sapiens		847
+                         Glires		28656
+                          Lagomorpha		6281
+                           Leporidae		5752
+                            Oryctolagus		5752
+                             Oryctolagus cuniculus		5752
+                          Rodentia		22350
+                           Myomorpha		22172
+                            Muroidea		22054
+                             Muridae		20586
+                              Murinae		20406
+                               Rattus		18021
+                                Rattus rattus		6705
+                                Rattus norvegicus		1903
+                        Laurasiatheria		19169
+                         Carnivora		16475
+                          Caniformia		15840
+                           Canidae		11956
+                            Vulpes		885
+                             Vulpes vulpes		128
+                            Canis		3658
+                             Canis lupus		3658
+                              Canis lupus familiaris		216
+                           Mustelidae		2264
+                            Mustelinae		918
+                             Mustela		645
+                              Mustela putorius		382
+                               Mustela putorius furo		382
+                            Melinae		342
+                             Meles		342
+                              Meles meles		342
+                         Artiodactyla		1816
+                          Ruminantia		1514
+                           Pecora		1514
+                            Bovidae		769
+                             Caprinae		532
+                              Ovis		290
+                               Ovis aries		290
+                          Suina		173
+                           Suidae		173
+                            Sus		70
+                             Sus scrofa		70
+                         Eulipotyphla		430
+                          Erinaceidae		429
+                           Erinaceinae		429
+                            Erinaceus		429
+                             Erinaceus europaeus		429

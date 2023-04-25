@@ -1,0 +1,38 @@
+                     Theria		2471229
+                      Eutheria		2470422
+                       Boreoeutheria		2465591
+                        Laurasiatheria		32
+                         Chiroptera		5
+                          Microchiroptera		3
+                        Euarchontoglires		2451635
+                         Primates		2441040
+                          Haplorrhini		2419568
+                           Simiiformes		2412652
+                            Platyrrhini		636
+                             Cebidae		402
+                              Cebinae		242
+                               Sapajus		84
+                                Sapajus apella		84
+                            Catarrhini		2247679
+                             Hominoidea		1940248
+                              Hominidae		1626137
+                               Homininae		1359749
+                                Pan		10675
+                                 Pan troglodytes		1428
+                                Homo		567635
+                                 Homo sapiens		567635
+                                Gorilla		2781
+                                 Gorilla gorilla		2781
+                                  Gorilla gorilla gorilla		2781
+                              Hylobatidae		675
+                             Cercopithecoidea		4195
+                              Cercopithecidae		4195
+                               Cercopithecinae		2159
+                                Chlorocebus		297
+                                 Chlorocebus sabaeus		297
+                               Colobinae		665
+                                Rhinopithecus		152
+                                Trachypithecus		158
+                                 Trachypithecus francoisi		158
+                          Strepsirrhini		13
+                           Lemuriformes		5

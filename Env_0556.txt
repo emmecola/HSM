@@ -1,0 +1,73 @@
+                     Theria		192320
+                      Eutheria		191361
+                       Boreoeutheria		189196
+                        Euarchontoglires		138786
+                         Primates		5321
+                          Haplorrhini		5130
+                           Simiiformes		4958
+                            Catarrhini		4084
+                             Hominoidea		3023
+                              Hominidae		2186
+                               Homininae		1737
+                                Homo		585
+                                 Homo sapiens		585
+                         Glires		132670
+                          Rodentia		124638
+                           Myomorpha		123192
+                            Muroidea		122333
+                             Muridae		112063
+                              Murinae		110981
+                               Rattus		97220
+                                Rattus rattus		37091
+                                Rattus norvegicus		8942
+                             Cricetidae		93
+                              Cricetinae		37
+                               Mesocricetus		24
+                                Mesocricetus auratus		24
+                             Spalacidae		1586
+                              Spalacinae		1586
+                               Nannospalax		1586
+                                Nannospalax galili		1586
+                           Sciuromorpha		279
+                            Sciuridae		279
+                             Xerinae		277
+                              Marmotini		277
+                               Marmota		176
+                           Hystricomorpha		38
+                            Bathyergidae		35
+                             Heterocephalus		31
+                              Heterocephalus glaber		31
+                          Lagomorpha		7955
+                           Leporidae		7405
+                            Oryctolagus		7405
+                             Oryctolagus cuniculus		7405
+                        Laurasiatheria		47523
+                         Carnivora		43496
+                          Caniformia		41587
+                           Canidae		35414
+                            Vulpes		5054
+                             Vulpes lagopus		672
+                             Vulpes vulpes		552
+                            Canis		6926
+                             Canis lupus		6926
+                              Canis lupus familiaris		396
+                              Canis lupus dingo		118
+                           Mustelidae		1859
+                            Melinae		969
+                             Meles		969
+                              Meles meles		969
+                          Feliformia		25
+                         Artiodactyla		713
+                          Suina		659
+                           Suidae		659
+                          Whippomorpha		3
+                           Cetacea		3
+                         Pholidota		1065
+                          Manidae		1065
+                           Manis		1065
+                            Manis javanica		552
+                         Eulipotyphla		739
+                          Erinaceidae		737
+                           Erinaceinae		737
+                            Erinaceus		737
+                             Erinaceus europaeus		737

@@ -1,0 +1,38 @@
+                     Theria		18082
+                      Eutheria		18061
+                       Boreoeutheria		17924
+                        Euarchontoglires		14855
+                         Primates		14741
+                          Haplorrhini		14558
+                           Simiiformes		14497
+                            Catarrhini		13095
+                             Hominoidea		11044
+                              Hominidae		8918
+                               Homininae		7626
+                                Pan		46
+                                Homo		2921
+                                 Homo sapiens		2921
+                             Cercopithecoidea		28
+                              Cercopithecidae		28
+                               Cercopithecinae		8
+                                Mandrillus		1
+                                 Mandrillus leucophaeus		1
+                        Laurasiatheria		2737
+                         Artiodactyla		2608
+                          Ruminantia		2214
+                           Pecora		2214
+                            Bovidae		1591
+                             Bovinae		432
+                              Bos		109
+                               Bos taurus		23
+                             Caprinae		864
+                              Ovis		425
+                               Ovis aries		425
+                          Suina		314
+                           Suidae		314
+                            Sus		142
+                             Sus scrofa		142
+                         Carnivora		83
+                          Caniformia		56
+                           Canidae		45
+                          Feliformia		16

@@ -1,0 +1,106 @@
+                     Theria		1756313
+                      Eutheria		1744628
+                       Boreoeutheria		1714410
+                        Euarchontoglires		212211
+                         Primates		38538
+                          Haplorrhini		37042
+                           Simiiformes		36681
+                            Catarrhini		29797
+                             Hominoidea		21682
+                              Hominidae		15501
+                               Homininae		12496
+                                Homo		4037
+                                 Homo sapiens		4037
+                             Cercopithecoidea		80
+                              Cercopithecidae		80
+                               Cercopithecinae		54
+                                Chlorocebus		13
+                                 Chlorocebus sabaeus		13
+                         Glires		171372
+                          Rodentia		20982
+                           Myomorpha		18988
+                            Muroidea		18622
+                             Muridae		15398
+                              Murinae		15192
+                               Rattus		13361
+                                Rattus norvegicus		5846
+                                Rattus rattus		505
+                             Cricetidae		25
+                             Spalacidae		962
+                              Spalacinae		962
+                               Nannospalax		962
+                                Nannospalax galili		962
+                           Hystricomorpha		1220
+                            Octodontidae		625
+                             Octodon		625
+                              Octodon degus		625
+                           Sciuromorpha		199
+                            Sciuridae		199
+                             Xerinae		170
+                              Marmotini		170
+                           Castorimorpha		20
+                            Heteromyidae		19
+                             Perognathinae		17
+                              Perognathus		17
+                               Perognathus longimembris		17
+                                Perognathus longimembris pacificus		17
+                          Lagomorpha		149957
+                           Leporidae		140329
+                            Oryctolagus		140329
+                             Oryctolagus cuniculus		140329
+                        Laurasiatheria		1464720
+                         Artiodactyla		5019
+                          Ruminantia		2508
+                           Pecora		2508
+                            Bovidae		410
+                             Bovinae		246
+                            Cervidae		578
+                             Cervinae		264
+                              Cervus		264
+                          Suina		2256
+                           Suidae		2256
+                            Sus		792
+                             Sus scrofa		792
+                         Carnivora		1411586
+                          Caniformia		549912
+                           Canidae		484588
+                            Vulpes		70771
+                             Vulpes lagopus		13433
+                             Vulpes vulpes		7998
+                            Canis		103893
+                             Canis lupus		103893
+                              Canis lupus dingo		1684
+                              Canis lupus familiaris		5393
+                           Phocidae		262
+                           Mustelidae		10962
+                            Lutrinae		167
+                            Melinae		5422
+                             Meles		5422
+                              Meles meles		5422
+                          Feliformia		783379
+                           Felidae		705986
+                            Felinae		164505
+                             Puma		581
+                              Puma yagouaroundi		399
+                             Lynx		864
+                              Lynx rufus		366
+                             Prionailurus		1979
+                              Prionailurus bengalensis		320
+                              Prionailurus viverrinus		700
+                             Leopardus		467
+                              Leopardus geoffroyi		467
+                             Felis		87465
+                              Felis catus		87465
+                            Pantherinae		621
+                             Panthera		621
+                            Acinonychinae		378
+                             Acinonyx		378
+                              Acinonyx jubatus		378
+                           Herpestidae		183
+                            Suricata		183
+                             Suricata suricatta		183
+                         Eulipotyphla		9806
+                          Erinaceidae		9796
+                           Erinaceinae		9796
+                            Erinaceus		9796
+                             Erinaceus europaeus		9796

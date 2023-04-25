@@ -1,0 +1,99 @@
+                     Theria		202590
+                      Eutheria		201040
+                       Boreoeutheria		198071
+                        Laurasiatheria		86641
+                         Artiodactyla		15014
+                          Ruminantia		8371
+                           Pecora		8371
+                            Bovidae		3714
+                             Bovinae		1107
+                              Bos		253
+                               Bos taurus		52
+                             Caprinae		1757
+                              Ovis		741
+                               Ovis aries		741
+                              Capra		99
+                               Capra hircus		99
+                            Cervidae		868
+                             Cervinae		462
+                              Cervus		462
+                          Suina		5888
+                           Suidae		5888
+                            Sus		1997
+                             Sus scrofa		1997
+                            Phacochoerus		135
+                             Phacochoerus africanus		135
+                         Carnivora		65928
+                          Caniformia		60926
+                           Mustelidae		2954
+                            Mustelinae		154
+                            Melinae		1246
+                             Meles		1246
+                              Meles meles		1246
+                           Canidae		51900
+                            Vulpes		6040
+                             Vulpes lagopus		881
+                             Vulpes vulpes		678
+                            Canis		12796
+                             Canis lupus		12796
+                              Canis lupus dingo		197
+                              Canis lupus familiaris		724
+                          Feliformia		1939
+                           Felidae		1715
+                            Felinae		390
+                             Felis		202
+                              Felis catus		202
+                         Eulipotyphla		3271
+                          Erinaceidae		3270
+                           Erinaceinae		3270
+                            Erinaceus		3270
+                             Erinaceus europaeus		3270
+                        Euarchontoglires		106608
+                         Primates		37678
+                          Haplorrhini		36028
+                           Simiiformes		35636
+                            Catarrhini		28703
+                             Hominoidea		20940
+                              Hominidae		15018
+                               Homininae		12251
+                                Pan		55
+                                Homo		3908
+                                 Homo sapiens		3908
+                         Glires		67707
+                          Rodentia		34880
+                           Myomorpha		34559
+                            Muroidea		34379
+                             Muridae		31891
+                              Murinae		31582
+                               Rattus		27805
+                                Rattus rattus		10260
+                                Rattus norvegicus		3382
+                               Arvicanthis		13
+                                Arvicanthis niloticus		13
+                               Mus		27
+                                Mus		21
+                                 Mus caroli		9
+                             Spalacidae		253
+                              Spalacinae		253
+                               Nannospalax		253
+                                Nannospalax galili		253
+                           Sciuromorpha		28
+                            Sciuridae		28
+                             Xerinae		26
+                              Marmotini		26
+                               Marmota		12
+                           Castorimorpha		9
+                            Heteromyidae		8
+                             Perognathinae		6
+                              Perognathus		6
+                               Perognathus longimembris		6
+                                Perognathus longimembris pacificus		6
+                          Lagomorpha		32747
+                           Leporidae		30376
+                            Oryctolagus		30376
+                             Oryctolagus cuniculus		30376
+                       Afrotheria		2
+                        Tenrecidae		1
+                         Tenrecinae		1
+                          Echinops		1
+                           Echinops telfairi		1

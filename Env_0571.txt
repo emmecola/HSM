@@ -1,0 +1,34 @@
+                     Theria		18763
+                      Eutheria		18635
+                       Boreoeutheria		18328
+                        Laurasiatheria		7899
+                         Carnivora		4292
+                          Caniformia		3885
+                           Mustelidae		145
+                           Canidae		3271
+                            Canis		842
+                             Canis lupus		842
+                          Feliformia		178
+                           Felidae		157
+                         Artiodactyla		3341
+                          Suina		750
+                           Suidae		750
+                          Ruminantia		2294
+                           Pecora		2294
+                            Bovidae		1025
+                             Caprinae		635
+                        Euarchontoglires		9748
+                         Primates		8383
+                          Haplorrhini		8066
+                           Simiiformes		7913
+                            Catarrhini		6472
+                             Hominoidea		4649
+                              Hominidae		3292
+                               Homininae		2624
+                                Homo		827
+                                 Homo sapiens		827
+                         Glires		1142
+                          Lagomorpha		1136
+                           Leporidae		1071
+                            Oryctolagus		1071
+                             Oryctolagus cuniculus		1071

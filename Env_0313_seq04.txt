@@ -1,0 +1,18 @@
+                     Theria		1229
+                      Eutheria		1222
+                       Boreoeutheria		1190
+                        Euarchontoglires		1156
+                         Primates		1139
+                          Haplorrhini		1135
+                           Simiiformes		1132
+                            Catarrhini		1036
+                             Hominoidea		153
+                              Hominidae		127
+                               Homininae		117
+                                Homo		41
+                                 Homo sapiens		41
+                             Cercopithecoidea		810
+                              Cercopithecidae		810
+                               Cercopithecinae		674
+                                Chlorocebus		572
+                                 Chlorocebus sabaeus		572
