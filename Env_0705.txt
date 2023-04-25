@@ -1,0 +1,88 @@
+                     Theria		3842
+                      Eutheria		3577
+                       Boreoeutheria		3508
+                        Laurasiatheria		930
+                         Chiroptera		16
+                          Microchiroptera		15
+                           Hipposideridae		15
+                            Hipposideros		15
+                             Hipposideros armiger		15
+                         Eulipotyphla		55
+                          Erinaceidae		54
+                           Erinaceinae		54
+                            Erinaceus		54
+                             Erinaceus europaeus		54
+                         Artiodactyla		651
+                          Ruminantia		489
+                           Pecora		489
+                            Bovidae		391
+                             Caprinae		331
+                              Capra		25
+                               Capra hircus		25
+                              Ovis		180
+                               Ovis aries		180
+                          Suina		146
+                           Suidae		146
+                         Carnivora		136
+                          Caniformia		119
+                           Canidae		57
+                           Mustelidae		48
+                            Mustelinae		18
+                             Mustela		14
+                              Mustela putorius		7
+                               Mustela putorius furo		7
+                            Lutrinae		19
+                             Lontra		11
+                              Lontra canadensis		11
+                        Euarchontoglires		2160
+                         Primates		1887
+                          Haplorrhini		1851
+                           Simiiformes		1833
+                            Catarrhini		1637
+                             Hominoidea		1312
+                              Hominidae		1026
+                               Homininae		871
+                                Homo		306
+                                 Homo sapiens		306
+                             Cercopithecoidea		39
+                              Cercopithecidae		39
+                               Colobinae		27
+                                Rhinopithecus		14
+                                 Rhinopithecus roxellana		12
+                         Glires		178
+                          Rodentia		168
+                           Sciuromorpha		20
+                            Sciuridae		20
+                             Xerinae		20
+                              Marmotini		20
+                               Ictidomys		10
+                                Ictidomys tridecemlineatus		10
+                           Castorimorpha		14
+                            Castoridae		13
+                             Castor		13
+                              Castor canadensis		13
+                           Hystricomorpha		21
+                            Chinchillidae		17
+                             Chinchilla		17
+                              Chinchilla lanigera		17
+                           Myomorpha		83
+                            Muroidea		77
+                             Muridae		55
+                              Murinae		55
+                               Mus		45
+                                Mus		43
+                                 Mus caroli		36
+                       Xenarthra		16
+                        Pilosa		16
+                         Folivora		16
+                          Megalonychidae		16
+                           Choloepus		16
+                            Choloepus didactylus		16
+                      Metatheria		61
+                       Diprotodontia		54
+                        Phascolarctidae		19
+                         Phascolarctos		19
+                          Phascolarctos cinereus		19
+                        Phalangeridae		31
+                         Trichosurus		31
+                          Trichosurus vulpecula		31

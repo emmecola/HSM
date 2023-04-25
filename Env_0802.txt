@@ -1,0 +1,66 @@
+                     Theria		56035
+                      Eutheria		56005
+                       Boreoeutheria		55790
+                        Laurasiatheria		2209
+                         Artiodactyla		317
+                          Suina		195
+                           Suidae		195
+                          Ruminantia		74
+                           Pecora		74
+                            Bovidae		65
+                             Bovinae		55
+                         Carnivora		1856
+                          Caniformia		1821
+                           Canidae		1482
+                            Canis		939
+                             Canis lupus		939
+                           Ursidae		296
+                            Ailuropoda		296
+                             Ailuropoda melanoleuca		296
+                           Mustelidae		3
+                            Melinae		3
+                             Meles		3
+                              Meles meles		3
+                          Feliformia		11
+                           Felidae		11
+                            Felinae		3
+                             Puma		1
+                              Puma yagouaroundi		1
+                         Perissodactyla		1
+                          Equidae		1
+                           Equus		1
+                        Euarchontoglires		52833
+                         Primates		52244
+                          Haplorrhini		51861
+                           Simiiformes		51760
+                            Catarrhini		48287
+                             Hominoidea		42232
+                              Hominidae		34997
+                               Homininae		30428
+                                Pan		210
+                                 Pan troglodytes		26
+                                 Pan paniscus		29
+                                Homo		11766
+                                 Homo sapiens		11766
+                             Cercopithecoidea		122
+                              Cercopithecidae		122
+                               Cercopithecinae		44
+                                Macaca		6
+                                 Macaca nemestrina		2
+                               Colobinae		30
+                                Piliocolobus		11
+                                 Piliocolobus tephrosceles		11
+                            Platyrrhini		6
+                         Glires		376
+                          Rodentia		363
+                           Myomorpha		64
+                            Muroidea		64
+                             Muridae		61
+                              Murinae		61
+                               Rattus		57
+                                Rattus rattus		36
+                                Rattus norvegicus		16
+                          Lagomorpha		13
+                           Leporidae		13
+                            Oryctolagus		13
+                             Oryctolagus cuniculus		13

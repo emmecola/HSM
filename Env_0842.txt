@@ -1,0 +1,21 @@
+                     Theria		5296
+                      Eutheria		5296
+                       Boreoeutheria		5281
+                        Laurasiatheria		332
+                         Artiodactyla		332
+                          Ruminantia		331
+                           Pecora		331
+                            Bovidae		301
+                             Bovinae		283
+                              Bos		70
+                               Bos taurus		19
+                        Euarchontoglires		4872
+                         Primates		4859
+                          Haplorrhini		4842
+                           Simiiformes		4830
+                            Catarrhini		4499
+                             Hominoidea		3923
+                              Hominidae		3239
+                               Homininae		2852
+                                Homo		1138
+                                 Homo sapiens		1138

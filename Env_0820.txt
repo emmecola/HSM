@@ -1,0 +1,33 @@
+                     Theria		428
+                      Eutheria		424
+                       Boreoeutheria		409
+                        Euarchontoglires		242
+                         Glires		152
+                          Rodentia		152
+                           Myomorpha		1
+                            Muroidea		1
+                             Muridae		1
+                              Murinae		1
+                         Primates		89
+                          Haplorrhini		86
+                           Simiiformes		86
+                            Platyrrhini		1
+                            Catarrhini		79
+                             Hominoidea		69
+                              Hominidae		61
+                               Homininae		54
+                                Homo		23
+                                 Homo sapiens		23
+                        Laurasiatheria		126
+                         Carnivora		44
+                          Caniformia		44
+                           Otariidae		1
+                            Zalophus		1
+                             Zalophus californianus		1
+                         Artiodactyla		80
+                          Ruminantia		79
+                           Pecora		79
+                            Bovidae		75
+                             Bovinae		67
+                              Bos		15
+                               Bos taurus		11

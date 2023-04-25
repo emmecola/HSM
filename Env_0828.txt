@@ -1,0 +1,11 @@
+                     Theria		328
+                      Eutheria		328
+                       Boreoeutheria		327
+                        Euarchontoglires		319
+                         Primates		316
+                          Haplorrhini		311
+                           Simiiformes		308
+                            Catarrhini		276
+                             Hominoidea		227
+                              Hominidae		172
+                               Homininae		140

@@ -1,0 +1,45 @@
+                     Theria		3110
+                      Eutheria		3095
+                       Boreoeutheria		3031
+                        Euarchontoglires		2289
+                         Glires		101
+                          Rodentia		13
+                           Myomorpha		5
+                            Muroidea		5
+                             Muridae		4
+                              Murinae		3
+                               Rattus		3
+                                Rattus rattus		2
+                          Lagomorpha		87
+                           Leporidae		78
+                            Oryctolagus		78
+                             Oryctolagus cuniculus		78
+                         Primates		2159
+                          Haplorrhini		2141
+                           Simiiformes		2135
+                            Catarrhini		1963
+                             Hominoidea		1716
+                              Hominidae		1439
+                               Homininae		1232
+                                Homo		481
+                                 Homo sapiens		481
+                        Laurasiatheria		591
+                         Carnivora		42
+                          Caniformia		41
+                           Canidae		26
+                         Artiodactyla		375
+                          Ruminantia		369
+                           Pecora		369
+                            Bovidae		336
+                             Bovinae		302
+                         Eulipotyphla		150
+                          Erinaceidae		138
+                           Erinaceinae		138
+                            Erinaceus		138
+                             Erinaceus europaeus		138
+                       Afrotheria		1
+                        Tubulidentata		1
+                         Orycteropodidae		1
+                          Orycteropus		1
+                           Orycteropus afer		1
+                            Orycteropus afer afer		1

@@ -1,0 +1,40 @@
+                     Theria		4069
+                      Eutheria		4056
+                       Boreoeutheria		4038
+                        Laurasiatheria		3358
+                         Eulipotyphla		2877
+                          Erinaceidae		2875
+                           Erinaceinae		2875
+                            Erinaceus		2875
+                             Erinaceus europaeus		2875
+                         Carnivora		437
+                          Feliformia		415
+                           Felidae		392
+                            Felinae		119
+                             Felis		72
+                              Felis catus		72
+                        Euarchontoglires		637
+                         Glires		107
+                          Rodentia		25
+                           Castorimorpha		2
+                            Heteromyidae		2
+                             Dipodomyinae		2
+                              Dipodomys		2
+                               Dipodomys spectabilis		2
+                           Myomorpha		19
+                            Muroidea		19
+                             Muridae		19
+                              Murinae		18
+                               Rattus		17
+                                Rattus norvegicus		5
+                          Lagomorpha		82
+                           Leporidae		72
+                            Oryctolagus		72
+                             Oryctolagus cuniculus		72
+                         Primates		527
+                          Haplorrhini		519
+                           Simiiformes		517
+                            Catarrhini		454
+                             Hominoidea		364
+                              Hominidae		259
+                               Homininae		204

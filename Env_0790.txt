@@ -1,0 +1,82 @@
+                     Theria		85045
+                      Eutheria		84981
+                       Boreoeutheria		84696
+                        Euarchontoglires		80232
+                         Primates		79569
+                          Haplorrhini		78975
+                           Simiiformes		78824
+                            Catarrhini		73082
+                             Hominoidea		63437
+                              Hominidae		51759
+                               Homininae		44172
+                                Pan		326
+                                 Pan troglodytes		107
+                                Homo		16351
+                                 Homo sapiens		16351
+                                Gorilla		104
+                                 Gorilla gorilla		104
+                                  Gorilla gorilla gorilla		104
+                               Ponginae		100
+                                Pongo		100
+                                 Pongo abelii		100
+                              Hylobatidae		71
+                               Hylobates		31
+                                Hylobates moloch		31
+                             Cercopithecoidea		242
+                              Cercopithecidae		242
+                               Cercopithecinae		177
+                            Platyrrhini		52
+                             Cebidae		34
+                              Callitrichinae		13
+                               Callithrix		13
+                                Callithrix		13
+                                 Callithrix jacchus		13
+                              Cebinae		13
+                         Scandentia		34
+                          Tupaiidae		34
+                           Tupaia		34
+                            Tupaia chinensis		34
+                         Glires		325
+                          Rodentia		282
+                           Sciuromorpha		9
+                            Sciuridae		9
+                             Xerinae		9
+                              Marmotini		9
+                               Marmota		5
+                           Castorimorpha		22
+                            Castoridae		22
+                             Castor		22
+                              Castor canadensis		22
+                          Lagomorpha		42
+                           Ochotonidae		42
+                            Ochotona		42
+                             Ochotona curzoniae		41
+                        Laurasiatheria		2858
+                         Artiodactyla		991
+                          Ruminantia		207
+                           Pecora		207
+                            Bovidae		160
+                             Bovinae		138
+                          Suina		705
+                           Suidae		705
+                            Sus		302
+                             Sus scrofa		302
+                         Carnivora		1749
+                          Caniformia		1697
+                           Canidae		1632
+                            Canis		999
+                             Canis lupus		999
+                           Mustelidae		20
+                            Melinae		18
+                             Meles		18
+                              Meles meles		18
+                          Feliformia		22
+                           Felidae		21
+                            Pantherinae		1
+                             Panthera		1
+                              Panthera tigris		1
+                         Chiroptera		14
+                          Microchiroptera		13
+                           Vespertilionidae		13
+                            Myotis		7
+                             Myotis myotis		5

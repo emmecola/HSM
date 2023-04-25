@@ -1,0 +1,100 @@
+                     Theria		131491
+                      Eutheria		131109
+                       Boreoeutheria		130220
+                        Laurasiatheria		6830
+                         Artiodactyla		3754
+                          Ruminantia		2606
+                           Pecora		2606
+                            Bovidae		2205
+                             Bovinae		2007
+                              Bos		531
+                               Bos taurus		80
+                          Suina		1077
+                           Suidae		1077
+                            Sus		527
+                             Sus scrofa		527
+                         Carnivora		2802
+                          Feliformia		1117
+                           Felidae		1078
+                            Felinae		378
+                             Felis		225
+                              Felis catus		225
+                             Prionailurus		24
+                              Prionailurus viverrinus		4
+                          Caniformia		1617
+                           Canidae		1480
+                            Canis		872
+                             Canis lupus		872
+                           Phocidae		28
+                           Mustelidae		60
+                            Melinae		43
+                             Meles		43
+                              Meles meles		43
+                        Euarchontoglires		119995
+                         Glires		1027
+                          Rodentia		590
+                           Hystricomorpha		17
+                            Chinchillidae		13
+                             Chinchilla		13
+                              Chinchilla lanigera		13
+                           Myomorpha		534
+                            Muroidea		527
+                             Muridae		472
+                              Murinae		471
+                               Rattus		327
+                               Arvicanthis		66
+                                Arvicanthis niloticus		66
+                          Lagomorpha		413
+                           Leporidae		339
+                            Oryctolagus		339
+                             Oryctolagus cuniculus		339
+                           Ochotonidae		73
+                            Ochotona		73
+                             Ochotona curzoniae		72
+                         Primates		118215
+                          Haplorrhini		117386
+                           Simiiformes		117101
+                            Catarrhini		108512
+                             Hominoidea		94202
+                              Hominidae		77107
+                               Homininae		66261
+                                Pan		429
+                                 Pan paniscus		104
+                                Homo		25758
+                                 Homo sapiens		25758
+                                Gorilla		210
+                                 Gorilla gorilla		210
+                                  Gorilla gorilla gorilla		210
+                               Ponginae		107
+                                Pongo		107
+                                 Pongo abelii		107
+                             Cercopithecoidea		261
+                              Cercopithecidae		261
+                               Colobinae		153
+                                Rhinopithecus		14
+                            Platyrrhini		56
+                             Aotidae		22
+                              Aotus		22
+                               Aotus nancymaae		22
+                       Xenarthra		40
+                        Pilosa		40
+                         Folivora		40
+                          Megalonychidae		40
+                           Choloepus		40
+                            Choloepus didactylus		40
+                       Afrotheria		11
+                        Tubulidentata		9
+                         Orycteropodidae		9
+                          Orycteropus		9
+                           Orycteropus afer		9
+                            Orycteropus afer afer		9
+                      Metatheria		40
+                       Diprotodontia		27
+                        Phalangeridae		27
+                         Trichosurus		27
+                          Trichosurus vulpecula		27
+                     Prototheria		47
+                      Monotremata		47
+                       Tachyglossidae		46
+                        Tachyglossus		46
+                         Tachyglossus aculeatus		46

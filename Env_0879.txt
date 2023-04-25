@@ -1,0 +1,28 @@
+                     Theria		41950
+                      Eutheria		41912
+                       Boreoeutheria		41467
+                        Laurasiatheria		13457
+                         Artiodactyla		13244
+                          Ruminantia		941
+                           Pecora		941
+                            Bovidae		279
+                          Suina		11823
+                           Suidae		11823
+                            Sus		5039
+                             Sus scrofa		5039
+                            Phacochoerus		354
+                             Phacochoerus africanus		354
+                        Euarchontoglires		26710
+                         Glires		409
+                          Rodentia		225
+                           Myomorpha		36
+                            Muroidea		36
+                         Primates		26152
+                          Haplorrhini		25854
+                           Simiiformes		25814
+                            Catarrhini		24483
+                             Hominoidea		22035
+                              Hominidae		17784
+                               Homininae		15800
+                                Homo		6639
+                                 Homo sapiens		6639

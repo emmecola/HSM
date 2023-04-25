@@ -1,0 +1,8 @@
+                     Theria		77
+                      Eutheria		76
+                       Boreoeutheria		60
+                        Euarchontoglires		47
+                         Primates		47
+                          Haplorrhini		45
+                           Simiiformes		45
+                            Catarrhini		22

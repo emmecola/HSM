@@ -1,0 +1,39 @@
+                     Theria		1456
+                      Eutheria		1450
+                       Boreoeutheria		1431
+                        Laurasiatheria		793
+                         Eulipotyphla		434
+                          Erinaceidae		434
+                           Erinaceinae		434
+                            Erinaceus		434
+                             Erinaceus europaeus		434
+                         Carnivora		49
+                          Caniformia		44
+                           Canidae		39
+                            Canis		13
+                             Canis lupus		13
+                         Artiodactyla		286
+                          Suina		277
+                           Suidae		277
+                            Sus		98
+                             Sus scrofa		98
+                        Euarchontoglires		566
+                         Glires		100
+                          Lagomorpha		12
+                           Leporidae		12
+                            Oryctolagus		12
+                             Oryctolagus cuniculus		12
+                          Rodentia		88
+                           Myomorpha		80
+                            Muroidea		79
+                             Muridae		71
+                              Murinae		69
+                               Rattus		56
+                                Rattus rattus		7
+                         Primates		447
+                          Haplorrhini		426
+                           Simiiformes		424
+                            Catarrhini		335
+                             Hominoidea		227
+                              Hominidae		161
+                               Homininae		125

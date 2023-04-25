@@ -1,0 +1,26 @@
+                     Theria		1539
+                      Eutheria		1525
+                       Boreoeutheria		1516
+                        Euarchontoglires		1346
+                         Glires		58
+                          Rodentia		56
+                           Myomorpha		35
+                            Muroidea		35
+                             Muridae		35
+                              Murinae		34
+                               Rattus		29
+                                Rattus norvegicus		2
+                                Rattus rattus		12
+                         Primates		1283
+                          Haplorrhini		1277
+                           Simiiformes		1271
+                            Catarrhini		1202
+                             Hominoidea		1037
+                              Hominidae		872
+                               Homininae		768
+                                Homo		240
+                                 Homo sapiens		240
+                        Laurasiatheria		90
+                         Artiodactyla		80
+                          Ruminantia		76
+                           Pecora		76

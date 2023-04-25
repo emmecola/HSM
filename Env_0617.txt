@@ -1,0 +1,55 @@
+                     Theria		2819938
+                      Eutheria		2818655
+                       Boreoeutheria		2805788
+                        Euarchontoglires		2753311
+                         Primates		2736802
+                          Haplorrhini		2708053
+                           Simiiformes		2698459
+                            Catarrhini		2450183
+                             Hominoidea		2057190
+                              Hominidae		1632139
+                               Homininae		1387423
+                                Pan		10528
+                                 Pan paniscus		1687
+                                 Pan troglodytes		2024
+                                Gorilla		3904
+                                 Gorilla gorilla		3904
+                                  Gorilla gorilla gorilla		3904
+                                Homo		515101
+                                 Homo sapiens		515101
+                               Ponginae		2115
+                                Pongo		2115
+                                 Pongo abelii		2115
+                              Hylobatidae		2624
+                               Nomascus		831
+                                Nomascus leucogenys		831
+                               Hylobates		808
+                                Hylobates moloch		808
+                             Cercopithecoidea		5094
+                              Cercopithecidae		5094
+                               Colobinae		885
+                               Cercopithecinae		1706
+                                Macaca		267
+                            Platyrrhini		1876
+                             Cebidae		1252
+                              Cebinae		492
+                               Cebus		170
+                                Cebus imitator		170
+                              Callitrichinae		407
+                               Callithrix		407
+                                Callithrix		407
+                                 Callithrix jacchus		407
+                        Laurasiatheria		12156
+                         Artiodactyla		10779
+                          Suina		438
+                           Suidae		438
+                          Ruminantia		10159
+                           Pecora		10159
+                            Bovidae		8229
+                             Caprinae		377
+                             Bovinae		6699
+                              Bos		1504
+                               Bos indicus x Bos taurus		65
+                         Carnivora		1079
+                          Caniformia		1024
+                           Canidae		962

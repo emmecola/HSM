@@ -1,0 +1,35 @@
+                     Theria		22828
+                      Eutheria		22808
+                       Boreoeutheria		22736
+                        Euarchontoglires		21520
+                         Primates		21425
+                          Haplorrhini		21265
+                           Simiiformes		21192
+                            Catarrhini		19584
+                             Hominoidea		16898
+                              Hominidae		13872
+                               Homininae		11969
+                                Pan		39
+                                Homo		4417
+                                 Homo sapiens		4417
+                             Cercopithecoidea		36
+                              Cercopithecidae		36
+                               Cercopithecinae		19
+                                Macaca		1
+                            Platyrrhini		16
+                             Cebidae		15
+                              Callitrichinae		4
+                               Callithrix		4
+                                Callithrix		4
+                                 Callithrix jacchus		4
+                              Saimiriinae		4
+                               Saimiri		4
+                                Saimiri boliviensis		4
+                                 Saimiri boliviensis boliviensis		4
+                        Laurasiatheria		950
+                         Carnivora		945
+                          Caniformia		937
+                           Canidae		930
+                            Canis		600
+                             Canis lupus		600
+                              Canis lupus familiaris		47

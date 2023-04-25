@@ -1,0 +1,54 @@
+                     Theria		5063
+                      Eutheria		5032
+                       Boreoeutheria		4951
+                        Euarchontoglires		571
+                         Glires		62
+                          Lagomorpha		17
+                           Leporidae		16
+                            Oryctolagus		16
+                             Oryctolagus cuniculus		16
+                          Rodentia		44
+                           Sciuromorpha		10
+                            Sciuridae		10
+                             Xerinae		10
+                              Marmotini		10
+                               Marmota		8
+                                Marmota flaviventris		6
+                           Myomorpha		25
+                            Muroidea		24
+                         Primates		473
+                          Strepsirrhini		5
+                           Lorisiformes		5
+                            Galagidae		5
+                             Otolemur		5
+                              Otolemur garnettii		5
+                          Haplorrhini		455
+                           Simiiformes		452
+                            Catarrhini		368
+                             Hominoidea		260
+                              Hominidae		175
+                               Homininae		138
+                                Homo		36
+                                 Homo sapiens		36
+                        Laurasiatheria		4237
+                         Artiodactyla		1788
+                          Ruminantia		200
+                           Pecora		200
+                            Bovidae		45
+                          Suina		1499
+                           Suidae		1499
+                            Sus		514
+                             Sus scrofa		514
+                         Perissodactyla		5
+                          Equidae		5
+                           Equus		5
+                         Eulipotyphla		2266
+                          Erinaceidae		2263
+                           Erinaceinae		2263
+                            Erinaceus		2263
+                             Erinaceus europaeus		2263
+                         Carnivora		50
+                          Caniformia		39
+                           Canidae		31
+                            Vulpes		9
+                             Vulpes lagopus		5

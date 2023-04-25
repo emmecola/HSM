@@ -1,0 +1,20 @@
+                     Theria		8251
+                      Eutheria		8248
+                       Boreoeutheria		8202
+                        Euarchontoglires		8070
+                         Primates		8016
+                          Haplorrhini		7893
+                           Simiiformes		7860
+                            Catarrhini		7033
+                             Hominoidea		5840
+                              Hominidae		4615
+                               Homininae		3908
+                                Homo		1440
+                                 Homo sapiens		1440
+                                Gorilla		10
+                                 Gorilla gorilla		10
+                                  Gorilla gorilla gorilla		10
+                                Pan		16
+                             Cercopithecoidea		9
+                              Cercopithecidae		9
+                               Colobinae		1

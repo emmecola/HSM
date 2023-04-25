@@ -1,0 +1,129 @@
+                     Theria		53847
+                      Eutheria		53524
+                       Boreoeutheria		53130
+                        Laurasiatheria		37233
+                         Artiodactyla		6712
+                          Ruminantia		4951
+                           Pecora		4951
+                            Bovidae		4009
+                             Bovinae		877
+                              Bos		280
+                               Bos taurus		58
+                             Caprinae		2492
+                              Capra		402
+                               Capra hircus		402
+                              Ovis		1089
+                               Ovis aries		1089
+                          Suina		1597
+                           Suidae		1597
+                            Sus		786
+                             Sus scrofa		786
+                         Carnivora		29773
+                          Feliformia		4499
+                           Felidae		4272
+                            Felinae		1452
+                             Felis		782
+                              Felis catus		782
+                             Lynx		17
+                              Lynx canadensis		8
+                             Prionailurus		16
+                          Caniformia		24827
+                           Phocidae		33
+                           Canidae		2809
+                            Vulpes		351
+                             Vulpes lagopus		71
+                            Canis		1023
+                             Canis lupus		1023
+                              Canis lupus dingo		28
+                           Mustelidae		20411
+                            Mustelinae		14084
+                             Mustela		10573
+                              Mustela erminea		532
+                              Mustela putorius		5991
+                               Mustela putorius furo		5991
+                             Neogale		156
+                              Neogale vison		156
+                         Eulipotyphla		293
+                          Erinaceidae		293
+                           Erinaceinae		293
+                            Erinaceus		293
+                             Erinaceus europaeus		293
+                        Euarchontoglires		15000
+                         Primates		6662
+                          Haplorrhini		6590
+                           Simiiformes		6566
+                            Catarrhini		5917
+                             Hominoidea		4931
+                              Hominidae		3863
+                               Homininae		3282
+                                Pan		26
+                                Homo		1275
+                                 Homo sapiens		1275
+                             Cercopithecoidea		83
+                              Cercopithecidae		83
+                               Colobinae		46
+                                Colobus		13
+                                 Colobus angolensis		13
+                                  Colobus angolensis palliatus		13
+                            Platyrrhini		41
+                             Cebidae		24
+                              Saimiriinae		22
+                               Saimiri		22
+                                Saimiri boliviensis		22
+                                 Saimiri boliviensis boliviensis		22
+                         Glires		8204
+                          Rodentia		7560
+                           Castorimorpha		21
+                            Heteromyidae		21
+                             Perognathinae		21
+                              Perognathus		21
+                               Perognathus longimembris		21
+                                Perognathus longimembris pacificus		21
+                           Sciuromorpha		13
+                            Sciuridae		13
+                             Xerinae		10
+                              Marmotini		10
+                           Hystricomorpha		28
+                            Chinchillidae		26
+                             Chinchilla		26
+                              Chinchilla lanigera		26
+                           Myomorpha		7448
+                            Muroidea		7437
+                             Muridae		7261
+                              Murinae		7235
+                               Rattus		6759
+                                Rattus norvegicus		2318
+                                Rattus rattus		1673
+                               Mus		47
+                                Coelomys		31
+                                 Mus pahari		31
+                                Mus		8
+                             Cricetidae		36
+                              Cricetinae		33
+                               Cricetulus		33
+                                Cricetulus griseus		33
+                          Lagomorpha		632
+                           Leporidae		598
+                            Oryctolagus		598
+                             Oryctolagus cuniculus		598
+                           Ochotonidae		17
+                            Ochotona		17
+                             Ochotona princeps		15
+                       Xenarthra		14
+                        Pilosa		14
+                         Folivora		14
+                          Megalonychidae		14
+                           Choloepus		14
+                            Choloepus didactylus		14
+                      Metatheria		118
+                       Didelphimorphia		63
+                        Didelphidae		63
+                         Didelphinae		63
+                          Gracilinanus		37
+                           Gracilinanus agilis		37
+                          Monodelphis		23
+                           Monodelphis domestica		23
+                       Diprotodontia		43
+                        Vombatidae		38
+                         Vombatus		38
+                          Vombatus ursinus		38

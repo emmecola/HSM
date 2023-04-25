@@ -1,0 +1,49 @@
+                     Theria		2886
+                      Eutheria		2834
+                       Boreoeutheria		2785
+                        Laurasiatheria		1511
+                         Artiodactyla		699
+                          Suina		73
+                           Suidae		73
+                          Ruminantia		577
+                           Pecora		577
+                            Bovidae		261
+                             Caprinae		156
+                         Eulipotyphla		752
+                          Erinaceidae		752
+                           Erinaceinae		752
+                            Erinaceus		752
+                             Erinaceus europaeus		752
+                        Euarchontoglires		1142
+                         Primates		335
+                          Strepsirrhini		7
+                           Lorisiformes		7
+                            Galagidae		7
+                             Otolemur		7
+                              Otolemur garnettii		7
+                          Haplorrhini		298
+                           Simiiformes		289
+                            Catarrhini		160
+                            Platyrrhini		2
+                             Cebidae		1
+                         Glires		761
+                          Rodentia		357
+                           Hystricomorpha		5
+                            Chinchillidae		5
+                             Chinchilla		5
+                              Chinchilla lanigera		5
+                           Myomorpha		343
+                            Muroidea		342
+                             Muridae		323
+                              Murinae		321
+                               Rattus		281
+                                Rattus norvegicus		129
+                          Lagomorpha		400
+                           Leporidae		385
+                            Oryctolagus		385
+                             Oryctolagus cuniculus		385
+                      Metatheria		7
+                       Microbiotheria		7
+                        Microbiotheriidae		7
+                         Dromiciops		7
+                          Dromiciops gliroides		7

@@ -1,0 +1,61 @@
+                     Theria		1728758
+                      Eutheria		1727989
+                       Boreoeutheria		1720200
+                        Euarchontoglires		1691456
+                         Primates		1680969
+                          Haplorrhini		1661855
+                           Simiiformes		1655762
+                            Catarrhini		1499954
+                             Hominoidea		1255652
+                              Hylobatidae		1236
+                               Hylobates		587
+                                Hylobates moloch		587
+                              Hominidae		995719
+                               Homininae		845036
+                                Pan		6298
+                                 Pan paniscus		961
+                                 Pan troglodytes		1125
+                                Homo		312629
+                                 Homo sapiens		312629
+                                Gorilla		2427
+                                 Gorilla gorilla		2427
+                                  Gorilla gorilla gorilla		2427
+                               Ponginae		1234
+                                Pongo		1234
+                                 Pongo abelii		1234
+                             Cercopithecoidea		3792
+                              Cercopithecidae		3792
+                               Cercopithecinae		1149
+                                Chlorocebus		297
+                                 Chlorocebus sabaeus		297
+                               Colobinae		1002
+                                Colobus		208
+                                 Colobus angolensis		208
+                                  Colobus angolensis palliatus		208
+                                Trachypithecus		206
+                                 Trachypithecus francoisi		206
+                            Platyrrhini		850
+                             Cebidae		237
+                             Aotidae		252
+                              Aotus		252
+                               Aotus nancymaae		252
+                          Strepsirrhini		22
+                           Lemuriformes		16
+                        Laurasiatheria		3569
+                         Artiodactyla		2455
+                          Suina		292
+                           Suidae		292
+                          Ruminantia		2108
+                           Pecora		2108
+                            Bovidae		1745
+                             Bovinae		1277
+                              Bos		387
+                               Bos taurus		77
+                             Caprinae		237
+                              Ovis		136
+                               Ovis aries		136
+                         Carnivora		962
+                          Caniformia		956
+                           Canidae		923
+                            Canis		301
+                             Canis lupus		301

@@ -1,0 +1,40 @@
+                     Theria		14830
+                      Eutheria		14812
+                       Boreoeutheria		14714
+                        Euarchontoglires		13762
+                         Primates		13645
+                          Haplorrhini		13424
+                           Simiiformes		13357
+                            Catarrhini		11904
+                             Hominoidea		9849
+                              Hominidae		7797
+                               Homininae		6599
+                                Pan		55
+                                 Pan troglodytes		8
+                                Homo		2430
+                                 Homo sapiens		2430
+                             Cercopithecoidea		43
+                              Cercopithecidae		43
+                               Colobinae		9
+                                Piliocolobus		4
+                                 Piliocolobus tephrosceles		4
+                               Cercopithecinae		16
+                            Platyrrhini		13
+                             Aotidae		4
+                              Aotus		4
+                               Aotus nancymaae		4
+                             Cebidae		5
+                              Cebinae		2
+                               Sapajus		1
+                                Sapajus apella		1
+                          Strepsirrhini		1
+                           Lemuriformes		1
+                            Lemuridae		1
+                             Lemur		1
+                              Lemur catta		1
+                        Laurasiatheria		636
+                         Artiodactyla		604
+                          Suina		580
+                           Suidae		580
+                            Sus		226
+                             Sus scrofa		226

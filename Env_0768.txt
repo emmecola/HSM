@@ -1,0 +1,138 @@
+                     Theria		93682
+                      Eutheria		93045
+                       Boreoeutheria		91974
+                        Euarchontoglires		84756
+                         Primates		82723
+                          Haplorrhini		82193
+                           Simiiformes		81972
+                            Catarrhini		75871
+                             Hominoidea		65632
+                              Hominidae		53414
+                               Homininae		45610
+                                Pan		212
+                                Homo		17869
+                                 Homo sapiens		17869
+                                Gorilla		159
+                                 Gorilla gorilla		159
+                                  Gorilla gorilla gorilla		159
+                               Ponginae		157
+                                Pongo		157
+                                 Pongo abelii		157
+                              Hylobatidae		81
+                               Nomascus		50
+                                Nomascus leucogenys		50
+                             Cercopithecoidea		208
+                              Cercopithecidae		208
+                               Colobinae		68
+                                Trachypithecus		26
+                                 Trachypithecus francoisi		26
+                            Platyrrhini		123
+                             Cebidae		101
+                              Cebinae		40
+                              Callitrichinae		42
+                               Callithrix		42
+                                Callithrix		42
+                                 Callithrix jacchus		42
+                         Glires		1436
+                          Rodentia		1282
+                           Sciuromorpha		52
+                            Sciuridae		52
+                             Sciurinae		44
+                              Sciurini		44
+                           Myomorpha		1133
+                            Muroidea		1053
+                             Cricetidae		57
+                              Arvicolinae		31
+                               Microtus		31
+                                Microtus ochrogaster		29
+                              Neotominae		26
+                               Peromyscus		26
+                                Peromyscus leucopus		23
+                             Muridae		956
+                              Murinae		955
+                               Rattus		839
+                                Rattus norvegicus		653
+                               Mus		66
+                                Mus		63
+                                 Mus musculus		62
+                            Dipodoidea		72
+                             Dipodidae		72
+                              Dipodinae		72
+                               Jaculus		72
+                                Jaculus jaculus		72
+                          Lagomorpha		137
+                           Ochotonidae		137
+                            Ochotona		137
+                             Ochotona curzoniae		137
+                        Laurasiatheria		3285
+                         Carnivora		1384
+                          Caniformia		1119
+                           Mustelidae		106
+                            Melinae		56
+                             Meles		56
+                              Meles meles		56
+                            Mustelinae		24
+                             Mustela		6
+                           Phocidae		46
+                            Neomonachus		16
+                             Neomonachus schauinslandi		16
+                           Canidae		720
+                            Canis		449
+                             Canis lupus		449
+                            Vulpes		49
+                             Vulpes lagopus		30
+                          Feliformia		223
+                           Felidae		217
+                            Acinonychinae		14
+                             Acinonyx		14
+                              Acinonyx jubatus		14
+                            Felinae		136
+                             Leopardus		115
+                              Leopardus geoffroyi		115
+                         Artiodactyla		1387
+                          Whippomorpha		209
+                           Cetacea		209
+                            Odontoceti		168
+                             Lipotidae		130
+                              Lipotes		130
+                               Lipotes vexillifer		130
+                             Phocoenidae		7
+                          Ruminantia		259
+                           Pecora		259
+                            Bovidae		198
+                             Bovinae		177
+                          Suina		887
+                           Suidae		887
+                            Sus		490
+                             Sus scrofa		490
+                         Perissodactyla		31
+                          Rhinocerotidae		30
+                           Ceratotherium		30
+                            Ceratotherium simum		30
+                             Ceratotherium simum simum		30
+                         Chiroptera		56
+                          Microchiroptera		54
+                           Vespertilionidae		28
+                            Myotis		21
+                             Myotis brandtii		10
+                       Xenarthra		28
+                        Pilosa		28
+                         Folivora		28
+                          Megalonychidae		28
+                           Choloepus		28
+                            Choloepus didactylus		28
+                      Metatheria		129
+                       Didelphimorphia		46
+                        Didelphidae		46
+                         Didelphinae		46
+                          Gracilinanus		45
+                           Gracilinanus agilis		45
+                       Microbiotheria		68
+                        Microbiotheriidae		68
+                         Dromiciops		68
+                          Dromiciops gliroides		68
+                     Prototheria		100
+                      Monotremata		100
+                       Tachyglossidae		93
+                        Tachyglossus		93
+                         Tachyglossus aculeatus		93

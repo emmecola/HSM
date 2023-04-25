@@ -1,0 +1,88 @@
+                     Theria		603170
+                      Eutheria		602946
+                       Boreoeutheria		600697
+                        Euarchontoglires		323928
+                         Primates		322137
+                          Haplorrhini		319530
+                           Simiiformes		318594
+                            Platyrrhini		154
+                             Cebidae		89
+                              Saimiriinae		45
+                               Saimiri		45
+                                Saimiri boliviensis		45
+                                 Saimiri boliviensis boliviensis		45
+                            Catarrhini		294059
+                             Hominoidea		253260
+                              Hylobatidae		471
+                               Hylobates		138
+                                Hylobates moloch		138
+                               Nomascus		185
+                                Nomascus leucogenys		185
+                              Hominidae		206011
+                               Homininae		177274
+                                Pan		1517
+                                 Pan paniscus		257
+                                 Pan troglodytes		254
+                                Homo		67568
+                                 Homo sapiens		67568
+                                Gorilla		587
+                                 Gorilla gorilla		587
+                                  Gorilla gorilla gorilla		587
+                               Ponginae		337
+                                Pongo		337
+                                 Pongo abelii		337
+                             Cercopithecoidea		670
+                              Cercopithecidae		670
+                               Cercopithecinae		174
+                               Colobinae		169
+                                Piliocolobus		49
+                                 Piliocolobus tephrosceles		49
+                         Glires		407
+                          Rodentia		403
+                           Myomorpha		396
+                            Dipodoidea		2
+                             Dipodidae		2
+                              Dipodinae		2
+                               Jaculus		2
+                                Jaculus jaculus		2
+                            Muroidea		393
+                             Muridae		380
+                              Murinae		378
+                               Rattus		357
+                                Rattus norvegicus		245
+                        Laurasiatheria		271192
+                         Artiodactyla		258390
+                          Suina		246101
+                           Suidae		246101
+                            Phacochoerus		6297
+                             Phacochoerus africanus		6297
+                            Sus		125308
+                             Sus scrofa		125308
+                          Ruminantia		8220
+                           Pecora		8220
+                            Bovidae		6952
+                             Caprinae		46
+                             Bovinae		6183
+                              Bos		1982
+                               Bos taurus		443
+                              Bubalus		25
+                               Bubalus bubalis		25
+                          Whippomorpha		68
+                           Cetacea		68
+                            Odontoceti		26
+                             Delphinidae		9
+                              Lagenorhynchus		2
+                               Lagenorhynchus obliquidens		2
+                         Carnivora		10014
+                          Caniformia		68
+                           Mustelidae		39
+                            Mustelinae		17
+                          Feliformia		9615
+                           Felidae		9034
+                            Felinae		2939
+                             Felis		1638
+                              Felis catus		1638
+                             Puma		14
+                              Puma concolor		9
+                         Chiroptera		8
+                          Microchiroptera		7

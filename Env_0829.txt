@@ -1,0 +1,67 @@
+                     Theria		2573
+                      Eutheria		2541
+                       Boreoeutheria		2451
+                        Laurasiatheria		1566
+                         Pholidota		3
+                          Manidae		3
+                           Manis		3
+                            Manis pentadactyla		3
+                         Eulipotyphla		1233
+                          Erinaceidae		1232
+                           Erinaceinae		1232
+                            Erinaceus		1232
+                             Erinaceus europaeus		1232
+                         Artiodactyla		161
+                          Whippomorpha		28
+                           Cetacea		28
+                            Odontoceti		21
+                             Delphinidae		10
+                              Tursiops		8
+                               Tursiops truncatus		8
+                          Suina		27
+                           Suidae		27
+                            Sus		10
+                             Sus scrofa		10
+                          Ruminantia		100
+                           Pecora		100
+                            Bovidae		57
+                             Caprinae		39
+                              Ovis		20
+                               Ovis aries		20
+                         Carnivora		122
+                          Caniformia		112
+                           Canidae		77
+                            Canis		43
+                             Canis lupus		43
+                        Euarchontoglires		651
+                         Glires		204
+                          Rodentia		203
+                           Sciuromorpha		9
+                            Sciuridae		9
+                             Sciurinae		8
+                              Sciurini		8
+                           Myomorpha		188
+                            Muroidea		185
+                             Cricetidae		24
+                              Arvicolinae		23
+                               Myodes		9
+                                Myodes glareolus		9
+                             Muridae		140
+                              Murinae		138
+                               Rattus		107
+                         Primates		424
+                          Haplorrhini		405
+                           Simiiformes		397
+                            Catarrhini		311
+                             Hominoidea		205
+                              Hominidae		129
+                               Homininae		98
+                             Cercopithecoidea		13
+                              Cercopithecidae		13
+                               Cercopithecinae		8
+                            Platyrrhini		5
+                             Cebidae		3
+                              Saimiriinae		2
+                               Saimiri		2
+                                Saimiri boliviensis		2
+                                 Saimiri boliviensis boliviensis		2

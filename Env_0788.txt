@@ -1,0 +1,37 @@
+                     Theria		51007
+                      Eutheria		50985
+                       Boreoeutheria		50779
+                        Euarchontoglires		47787
+                         Primates		47546
+                          Haplorrhini		47133
+                           Simiiformes		47035
+                            Catarrhini		43767
+                             Hominoidea		38347
+                              Hominidae		31314
+                               Homininae		26848
+                                Pan		212
+                                 Pan paniscus		40
+                                Homo		10957
+                                 Homo sapiens		10957
+                             Cercopithecoidea		159
+                              Cercopithecidae		159
+                               Cercopithecinae		108
+                                Chlorocebus		6
+                                 Chlorocebus sabaeus		6
+                            Platyrrhini		30
+                             Cebidae		16
+                              Callitrichinae		3
+                               Callithrix		3
+                                Callithrix		3
+                                 Callithrix jacchus		3
+                              Cebinae		10
+                        Laurasiatheria		2204
+                         Carnivora		2181
+                          Caniformia		2161
+                           Canidae		2122
+                            Canis		1327
+                             Canis lupus		1327
+                           Mustelidae		11
+                            Melinae		1
+                             Meles		1
+                              Meles meles		1

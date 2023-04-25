@@ -1,0 +1,74 @@
+                     Theria		147676
+                      Eutheria		147601
+                       Boreoeutheria		147046
+                        Euarchontoglires		139031
+                         Primates		138212
+                          Haplorrhini		137037
+                           Simiiformes		136642
+                            Platyrrhini		94
+                             Cebidae		51
+                              Callitrichinae		26
+                               Callithrix		26
+                                Callithrix		26
+                                 Callithrix jacchus		26
+                            Catarrhini		125223
+                             Hominoidea		106788
+                              Hominidae		86049
+                               Homininae		73290
+                                Pan		620
+                                 Pan paniscus		102
+                                 Pan troglodytes		91
+                                Gorilla		235
+                                 Gorilla gorilla		235
+                                  Gorilla gorilla gorilla		235
+                                Homo		27810
+                                 Homo sapiens		27810
+                               Ponginae		129
+                                Pongo		129
+                                 Pongo abelii		129
+                              Hylobatidae		148
+                               Hylobates		49
+                                Hylobates moloch		49
+                               Nomascus		42
+                                Nomascus leucogenys		42
+                             Cercopithecoidea		221
+                              Cercopithecidae		221
+                               Cercopithecinae		69
+                         Glires		145
+                          Rodentia		145
+                           Myomorpha		144
+                            Muroidea		143
+                             Cricetidae		2
+                              Cricetinae		2
+                               Cricetulus		2
+                                Cricetulus griseus		2
+                             Muridae		131
+                              Murinae		131
+                               Rattus		121
+                                Rattus norvegicus		81
+                        Laurasiatheria		6219
+                         Artiodactyla		1310
+                          Suina		295
+                           Suidae		295
+                            Sus		152
+                             Sus scrofa		152
+                          Ruminantia		965
+                           Pecora		965
+                            Bovidae		777
+                             Caprinae		615
+                              Capra		41
+                               Capra hircus		41
+                              Ovis		309
+                               Ovis aries		309
+                         Carnivora		4830
+                          Feliformia		3667
+                           Felidae		3417
+                            Felinae		1046
+                             Felis		616
+                              Felis catus		616
+                          Caniformia		1031
+                           Canidae		997
+                            Canis		579
+                             Canis lupus		579
+                         Chiroptera		2
+                          Microchiroptera		2

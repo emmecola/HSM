@@ -1,0 +1,38 @@
+                     Theria		68363
+                      Eutheria		68152
+                       Boreoeutheria		67722
+                        Laurasiatheria		17875
+                         Artiodactyla		1562
+                          Suina		1515
+                           Suidae		1515
+                            Sus		676
+                             Sus scrofa		676
+                         Carnivora		16065
+                          Caniformia		15808
+                           Canidae		15195
+                            Canis		8114
+                             Canis lupus		8114
+                              Canis lupus familiaris		557
+                           Mustelidae		4
+                         Eulipotyphla		1
+                          Talpidae		1
+                           Condylura		1
+                            Condylura cristata		1
+                        Euarchontoglires		48632
+                         Primates		48259
+                          Haplorrhini		47573
+                           Simiiformes		47354
+                            Catarrhini		41891
+                             Hominoidea		34004
+                              Hominidae		26034
+                               Homininae		21697
+                                Pan		187
+                                 Pan troglodytes		35
+                                Homo		7693
+                                 Homo sapiens		7693
+                             Cercopithecoidea		47
+                              Cercopithecidae		47
+                            Platyrrhini		24
+                             Aotidae		12
+                              Aotus		12
+                               Aotus nancymaae		12

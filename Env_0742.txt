@@ -1,0 +1,49 @@
+                     Theria		102526
+                      Eutheria		102444
+                       Boreoeutheria		101752
+                        Laurasiatheria		1494
+                         Artiodactyla		237
+                          Ruminantia		229
+                           Pecora		229
+                            Bovidae		202
+                             Bovinae		182
+                              Bos		57
+                             Caprinae		5
+                              Capra		5
+                               Capra hircus		5
+                         Carnivora		1227
+                          Caniformia		1215
+                           Canidae		1167
+                            Canis		582
+                             Canis lupus		582
+                        Euarchontoglires		98171
+                         Primates		97423
+                          Haplorrhini		96117
+                           Simiiformes		95731
+                            Catarrhini		85151
+                             Hominoidea		68451
+                              Hominidae		52618
+                               Homininae		43872
+                                Pan		285
+                                 Pan troglodytes		50
+                                Homo		15637
+                                 Homo sapiens		15637
+                                Gorilla		131
+                                 Gorilla gorilla		131
+                                  Gorilla gorilla gorilla		131
+                             Cercopithecoidea		214
+                              Cercopithecidae		214
+                               Colobinae		48
+                                Trachypithecus		15
+                                 Trachypithecus francoisi		15
+                               Cercopithecinae		81
+                                Chlorocebus		15
+                                 Chlorocebus sabaeus		15
+                                Macaca		14
+                                 Macaca nemestrina		8
+                            Platyrrhini		52
+                             Cebidae		31
+                              Saimiriinae		16
+                               Saimiri		16
+                                Saimiri boliviensis		16
+                                 Saimiri boliviensis boliviensis		16

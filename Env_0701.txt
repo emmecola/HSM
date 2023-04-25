@@ -1,0 +1,77 @@
+                     Theria		387957
+                      Eutheria		387526
+                       Boreoeutheria		386320
+                        Laurasiatheria		352399
+                         Carnivora		61540
+                          Caniformia		49411
+                           Mustelidae		211
+                            Mustelinae		147
+                             Mustela		108
+                              Mustela putorius		63
+                               Mustela putorius furo		63
+                           Canidae		47831
+                            Vulpes		391
+                             Vulpes lagopus		86
+                            Canis		29233
+                             Canis lupus		29233
+                              Canis lupus familiaris		2215
+                              Canis lupus dingo		611
+                          Feliformia		11150
+                           Felidae		10438
+                            Felinae		3297
+                             Felis		1908
+                              Felis catus		1908
+                         Artiodactyla		288540
+                          Whippomorpha		62
+                           Cetacea		62
+                            Odontoceti		28
+                          Suina		7001
+                           Suidae		7001
+                            Sus		3305
+                             Sus scrofa		3305
+                            Phacochoerus		221
+                             Phacochoerus africanus		221
+                          Ruminantia		272999
+                           Pecora		272999
+                            Cervidae		660
+                             Cervinae		413
+                              Cervus		413
+                               Cervus elaphus		48
+                            Bovidae		219330
+                             Bovinae		4731
+                              Bos		836
+                               Bos indicus x Bos taurus		79
+                              Bubalus		971
+                               Bubalus bubalis		971
+                             Caprinae		177463
+                              Capra		21802
+                               Capra hircus		21802
+                              Ovis		82967
+                               Ovis aries		82967
+                        Euarchontoglires		31892
+                         Primates		27714
+                          Haplorrhini		27501
+                           Simiiformes		27406
+                            Catarrhini		25300
+                             Hominoidea		21853
+                              Hominidae		17731
+                               Homininae		15192
+                                Homo		6014
+                                 Homo sapiens		6014
+                         Glires		4015
+                          Rodentia		1756
+                           Sciuromorpha		40
+                            Sciuridae		40
+                             Xerinae		38
+                              Marmotini		38
+                           Myomorpha		1680
+                            Muroidea		1679
+                             Muridae		1634
+                              Murinae		1631
+                               Rattus		1532
+                                Rattus norvegicus		360
+                                Rattus rattus		532
+                          Lagomorpha		2254
+                           Leporidae		2213
+                            Oryctolagus		2213
+                             Oryctolagus cuniculus		2213

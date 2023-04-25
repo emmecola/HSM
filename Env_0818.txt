@@ -1,0 +1,60 @@
+                     Theria		10495
+                      Eutheria		10403
+                       Boreoeutheria		10265
+                        Laurasiatheria		7978
+                         Carnivora		3685
+                          Caniformia		3544
+                           Canidae		3260
+                            Canis		1307
+                             Canis lupus		1307
+                           Mustelidae		13
+                            Melinae		3
+                             Meles		3
+                              Meles meles		3
+                         Artiodactyla		3508
+                          Ruminantia		3156
+                           Pecora		3156
+                            Bovidae		1955
+                             Bovinae		849
+                              Bos		112
+                               Bos taurus		17
+                             Caprinae		717
+                              Capra		333
+                               Capra hircus		333
+                          Suina		218
+                           Suidae		218
+                         Eulipotyphla		584
+                          Erinaceidae		583
+                           Erinaceinae		583
+                            Erinaceus		583
+                             Erinaceus europaeus		583
+                         Chiroptera		6
+                          Microchiroptera		3
+                           Rhinolophidae		3
+                            Rhinolophinae		3
+                             Rhinolophus		3
+                              Rhinolophus ferrumequinum		3
+                        Euarchontoglires		1990
+                         Primates		1048
+                          Haplorrhini		1010
+                           Simiiformes		1005
+                            Catarrhini		811
+                             Hominoidea		583
+                              Hominidae		397
+                               Homininae		297
+                                Homo		110
+                                 Homo sapiens		110
+                             Cercopithecoidea		3
+                              Cercopithecidae		3
+                         Glires		908
+                          Lagomorpha		693
+                           Leporidae		656
+                            Oryctolagus		656
+                             Oryctolagus cuniculus		656
+                          Rodentia		209
+                           Myomorpha		202
+                            Muroidea		202
+                             Muridae		181
+                              Murinae		177
+                               Rattus		145
+                                Rattus rattus		14

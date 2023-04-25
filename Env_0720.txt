@@ -1,0 +1,98 @@
+                     Theria		43805
+                      Eutheria		43679
+                       Boreoeutheria		43328
+                        Euarchontoglires		17993
+                         Primates		5076
+                          Haplorrhini		4994
+                           Simiiformes		4967
+                            Catarrhini		4432
+                             Hominoidea		3545
+                              Hominidae		2767
+                               Homininae		2334
+                                Homo		856
+                                 Homo sapiens		856
+                         Glires		12734
+                          Rodentia		12460
+                           Myomorpha		12419
+                            Muroidea		12410
+                             Muridae		12118
+                              Murinae		12061
+                               Rattus		11154
+                                Rattus norvegicus		1568
+                                Rattus rattus		4592
+                               Mastomys		69
+                                Mastomys coucha		69
+                               Mus		12
+                                Mus		5
+                             Cricetidae		8
+                              Arvicolinae		6
+                               Microtus		5
+                                Microtus ochrogaster		3
+                          Lagomorpha		270
+                           Leporidae		254
+                            Oryctolagus		254
+                             Oryctolagus cuniculus		254
+                        Laurasiatheria		24437
+                         Carnivora		8180
+                          Caniformia		7961
+                           Mustelidae		7352
+                            Mustelinae		4946
+                             Mustela		3605
+                              Mustela erminea		182
+                              Mustela putorius		2044
+                               Mustela putorius furo		2042
+                             Neogale		57
+                              Neogale vison		57
+                            Lutrinae		17
+                           Ursidae		18
+                            Ailuropoda		18
+                             Ailuropoda melanoleuca		18
+                          Feliformia		92
+                           Felidae		83
+                            Felinae		20
+                             Prionailurus		6
+                              Prionailurus bengalensis		5
+                         Artiodactyla		891
+                          Suina		292
+                           Suidae		292
+                            Sus		162
+                             Sus scrofa		162
+                          Tylopoda		8
+                           Camelidae		8
+                            Camelus		6
+                             Camelus dromedarius		3
+                          Ruminantia		548
+                           Pecora		548
+                            Bovidae		436
+                             Caprinae		310
+                              Capra		22
+                               Capra hircus		22
+                              Ovis		152
+                               Ovis aries		152
+                             Bovinae		50
+                          Whippomorpha		17
+                           Cetacea		17
+                            Mysticeti		5
+                             Balaenopteridae		5
+                              Balaenoptera		5
+                               Balaenoptera acutorostrata		5
+                                Balaenoptera acutorostrata scammoni		5
+                            Odontoceti		8
+                         Chiroptera		43
+                          Microchiroptera		43
+                           Rhinolophidae		15
+                            Rhinolophinae		15
+                             Rhinolophus		15
+                              Rhinolophus ferrumequinum		15
+                           Phyllostomidae		10
+                            Stenodermatinae		9
+                             Artibeus		7
+                              Artibeus jamaicensis		7
+                           Vespertilionidae		13
+                            Eptesicus		7
+                             Eptesicus fuscus		7
+                         Eulipotyphla		14967
+                          Erinaceidae		14952
+                           Erinaceinae		14952
+                            Erinaceus		14952
+                             Erinaceus europaeus		14952

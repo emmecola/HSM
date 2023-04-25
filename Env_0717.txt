@@ -1,0 +1,56 @@
+                     Theria		39575
+                      Eutheria		39546
+                       Boreoeutheria		39407
+                        Laurasiatheria		36567
+                         Carnivora		9248
+                          Caniformia		5706
+                           Canidae		78
+                           Mustelidae		5206
+                            Mustelinae		3485
+                             Mustela		2597
+                              Mustela putorius		1622
+                               Mustela putorius furo		1622
+                          Feliformia		3312
+                           Felidae		3100
+                            Felinae		927
+                             Felis		514
+                              Felis catus		514
+                             Prionailurus		7
+                         Eulipotyphla		26621
+                          Erinaceidae		26613
+                           Erinaceinae		26613
+                            Erinaceus		26613
+                             Erinaceus europaeus		26613
+                         Artiodactyla		221
+                          Suina		138
+                           Suidae		138
+                            Sus		75
+                             Sus scrofa		75
+                          Ruminantia		73
+                           Pecora		73
+                        Euarchontoglires		2609
+                         Glires		2130
+                          Rodentia		1968
+                           Myomorpha		1962
+                            Muroidea		1959
+                             Muridae		1922
+                              Murinae		1916
+                               Rattus		1800
+                                Rattus rattus		778
+                                Rattus norvegicus		248
+                          Lagomorpha		161
+                           Leporidae		155
+                            Oryctolagus		155
+                             Oryctolagus cuniculus		155
+                         Primates		468
+                          Haplorrhini		459
+                           Simiiformes		458
+                            Catarrhini		410
+                             Hominoidea		323
+                              Hominidae		231
+                               Homininae		182
+                             Cercopithecoidea		2
+                              Cercopithecidae		2
+                               Colobinae		2
+                                Rhinopithecus		2
+                                 Rhinopithecus bieti		2

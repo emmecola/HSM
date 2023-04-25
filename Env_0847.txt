@@ -1,0 +1,22 @@
+                     Theria		6594
+                      Eutheria		6593
+                       Boreoeutheria		6568
+                        Euarchontoglires		5626
+                         Primates		5598
+                          Haplorrhini		5561
+                           Simiiformes		5546
+                            Catarrhini		5133
+                             Hominoidea		4684
+                              Hominidae		3867
+                               Homininae		3293
+                                Homo		1330
+                                 Homo sapiens		1330
+                                Gorilla		16
+                                 Gorilla gorilla		16
+                                  Gorilla gorilla gorilla		16
+                        Laurasiatheria		882
+                         Artiodactyla		871
+                          Ruminantia		867
+                           Pecora		867
+                            Bovidae		774
+                             Bovinae		711

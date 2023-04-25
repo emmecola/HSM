@@ -1,0 +1,37 @@
+                     Theria		41521
+                      Eutheria		41467
+                       Boreoeutheria		41192
+                        Laurasiatheria		2106
+                         Carnivora		2070
+                          Caniformia		2040
+                           Canidae		1940
+                            Canis		934
+                             Canis lupus		934
+                           Mustelidae		1
+                        Euarchontoglires		38285
+                         Primates		37938
+                          Haplorrhini		37377
+                           Simiiformes		37234
+                            Catarrhini		32860
+                             Hominoidea		26426
+                              Hominidae		20135
+                               Homininae		16746
+                                Pan		91
+                                 Pan troglodytes		18
+                                Homo		5990
+                                 Homo sapiens		5990
+                               Ponginae		21
+                                Pongo		21
+                                 Pongo abelii		21
+                              Hylobatidae		35
+                               Nomascus		13
+                                Nomascus leucogenys		13
+                             Cercopithecoidea		53
+                              Cercopithecidae		53
+                               Colobinae		16
+                         Glires		49
+                          Rodentia		46
+                           Myomorpha		28
+                            Muroidea		28
+                             Muridae		21
+                              Murinae		14

@@ -1,0 +1,49 @@
+                     Theria		17346
+                      Eutheria		17253
+                       Boreoeutheria		15190
+                        Euarchontoglires		9886
+                         Primates		6642
+                          Haplorrhini		6476
+                           Simiiformes		6442
+                            Catarrhini		5847
+                             Hominoidea		4944
+                              Hominidae		3990
+                               Homininae		3382
+                                Homo		1321
+                                 Homo sapiens		1321
+                         Glires		2952
+                          Rodentia		1290
+                           Myomorpha		453
+                            Muroidea		417
+                             Muridae		34
+                              Murinae		29
+                               Rattus		18
+                                Rattus rattus		8
+                          Lagomorpha		353
+                           Leporidae		348
+                            Oryctolagus		348
+                             Oryctolagus cuniculus		348
+                        Laurasiatheria		1460
+                         Artiodactyla		238
+                          Ruminantia		166
+                           Pecora		166
+                            Cervidae		24
+                             Odocoileinae		15
+                              Odocoileus		15
+                               Odocoileus virginianus		15
+                                Odocoileus virginianus texanus		15
+                          Suina		26
+                           Suidae		26
+                            Sus		9
+                             Sus scrofa		9
+                         Carnivora		1001
+                          Caniformia		970
+                           Canidae		858
+                            Canis		542
+                             Canis lupus		542
+                       Afrotheria		2
+                        Tubulidentata		1
+                         Orycteropodidae		1
+                          Orycteropus		1
+                           Orycteropus afer		1
+                            Orycteropus afer afer		1

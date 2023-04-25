@@ -1,0 +1,28 @@
+                     Theria		1137
+                      Eutheria		1133
+                       Boreoeutheria		1128
+                        Laurasiatheria		75
+                         Artiodactyla		72
+                          Ruminantia		71
+                           Pecora		71
+                            Bovidae		64
+                             Bovinae		55
+                        Euarchontoglires		1019
+                         Glires		9
+                          Rodentia		9
+                           Myomorpha		4
+                            Muroidea		4
+                             Muridae		4
+                              Murinae		4
+                               Rattus		3
+                                Rattus rattus		3
+                               Mus		1
+                                Mus		1
+                                 Mus caroli		1
+                         Primates		1006
+                          Haplorrhini		999
+                           Simiiformes		997
+                            Catarrhini		906
+                             Hominoidea		785
+                              Hominidae		611
+                               Homininae		466

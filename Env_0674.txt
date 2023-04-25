@@ -1,0 +1,55 @@
+                     Theria		10326
+                      Eutheria		10280
+                       Boreoeutheria		10198
+                        Euarchontoglires		2058
+                         Glires		30
+                          Rodentia		29
+                         Primates		1983
+                          Haplorrhini		1962
+                           Simiiformes		1954
+                            Catarrhini		1813
+                             Hominoidea		1549
+                              Hominidae		1245
+                               Homininae		1079
+                                Homo		414
+                                 Homo sapiens		414
+                             Cercopithecoidea		12
+                              Cercopithecidae		12
+                               Cercopithecinae		9
+                                Macaca		4
+                        Laurasiatheria		7968
+                         Carnivora		7191
+                          Feliformia		6900
+                           Felidae		6421
+                            Felinae		2019
+                             Felis		1114
+                              Felis catus		1114
+                             Puma		14
+                              Puma yagouaroundi		8
+                             Lynx		17
+                              Lynx canadensis		8
+                             Prionailurus		18
+                          Caniformia		50
+                           Canidae		32
+                            Vulpes		14
+                             Vulpes lagopus		11
+                         Eulipotyphla		5
+                          Erinaceidae		5
+                           Erinaceinae		5
+                            Erinaceus		5
+                             Erinaceus europaeus		5
+                         Artiodactyla		643
+                          Ruminantia		324
+                           Pecora		324
+                            Bovidae		242
+                             Caprinae		135
+                             Bovinae		44
+                          Suina		306
+                           Suidae		306
+                            Sus		155
+                             Sus scrofa		155
+                     Prototheria		7
+                      Monotremata		7
+                       Ornithorhynchidae		7
+                        Ornithorhynchus		7
+                         Ornithorhynchus anatinus		7

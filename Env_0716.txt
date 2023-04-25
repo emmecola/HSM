@@ -1,0 +1,68 @@
+                     Theria		25323
+                      Eutheria		25289
+                       Boreoeutheria		25190
+                        Laurasiatheria		21695
+                         Artiodactyla		2982
+                          Ruminantia		2763
+                           Pecora		2763
+                            Bovidae		2241
+                             Bovinae		73
+                             Caprinae		1811
+                              Capra		936
+                               Capra hircus		936
+                              Ovis		165
+                               Ovis aries		165
+                          Suina		178
+                           Suidae		178
+                            Sus		86
+                             Sus scrofa		86
+                         Carnivora		1998
+                          Feliformia		1224
+                           Felidae		1140
+                            Felinae		338
+                             Felis		193
+                              Felis catus		193
+                            Pantherinae		6
+                             Panthera		6
+                          Caniformia		716
+                           Canidae		261
+                            Vulpes		18
+                           Mustelidae		411
+                            Mustelinae		283
+                             Mustela		229
+                              Mustela putorius		150
+                               Mustela putorius furo		150
+                         Eulipotyphla		16465
+                          Erinaceidae		16460
+                           Erinaceinae		16460
+                            Erinaceus		16460
+                             Erinaceus europaeus		16460
+                        Euarchontoglires		3314
+                         Glires		2426
+                          Lagomorpha		1172
+                           Leporidae		1134
+                            Oryctolagus		1134
+                             Oryctolagus cuniculus		1134
+                          Rodentia		1251
+                           Myomorpha		1234
+                            Muroidea		1227
+                             Muridae		1191
+                              Murinae		1185
+                               Rattus		1110
+                                Rattus rattus		479
+                                Rattus norvegicus		142
+                         Primates		871
+                          Haplorrhini		862
+                           Simiiformes		858
+                            Catarrhini		777
+                             Hominoidea		643
+                              Hominidae		518
+                               Homininae		461
+                                Homo		178
+                                 Homo sapiens		178
+                       Afrotheria		1
+                        Sirenia		1
+                         Trichechidae		1
+                          Trichechus		1
+                           Trichechus manatus		1
+                            Trichechus manatus latirostris		1

@@ -1,0 +1,44 @@
+                     Theria		9528
+                      Eutheria		9520
+                       Boreoeutheria		9302
+                        Laurasiatheria		420
+                         Carnivora		256
+                          Caniformia		247
+                           Canidae		203
+                            Canis		88
+                             Canis lupus		88
+                           Mustelidae		11
+                            Melinae		8
+                             Meles		8
+                              Meles meles		8
+                         Artiodactyla		125
+                          Ruminantia		111
+                           Pecora		111
+                        Euarchontoglires		8559
+                         Glires		193
+                          Rodentia		166
+                           Sciuromorpha		152
+                            Sciuridae		152
+                             Xerinae		145
+                              Marmotini		145
+                               Marmota		105
+                                Marmota marmota		14
+                                 Marmota marmota marmota		14
+                           Myomorpha		8
+                            Muroidea		8
+                             Muridae		8
+                              Murinae		8
+                               Mus		6
+                                Mus		6
+                                 Mus caroli		6
+                               Rattus		2
+                                Rattus rattus		2
+                         Primates		8328
+                          Haplorrhini		8294
+                           Simiiformes		8276
+                            Catarrhini		7805
+                             Hominoidea		6923
+                              Hominidae		5756
+                               Homininae		4925
+                                Homo		1968
+                                 Homo sapiens		1968

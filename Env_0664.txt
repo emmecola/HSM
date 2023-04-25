@@ -1,0 +1,19 @@
+                     Theria		311
+                      Eutheria		310
+                       Boreoeutheria		301
+                        Euarchontoglires		249
+                         Glires		4
+                          Rodentia		4
+                           Myomorpha		1
+                            Muroidea		1
+                             Cricetidae		1
+                              Arvicolinae		1
+                               Microtus		1
+                                Microtus ochrogaster		1
+                         Primates		237
+                          Haplorrhini		233
+                           Simiiformes		231
+                            Catarrhini		191
+                             Hominoidea		132
+                              Hominidae		94
+                               Homininae		72

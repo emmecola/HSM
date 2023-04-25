@@ -1,0 +1,20 @@
+                     Theria		5702
+                      Eutheria		5692
+                       Boreoeutheria		5580
+                        Laurasiatheria		4560
+                         Carnivora		4422
+                          Feliformia		4130
+                           Felidae		3624
+                            Felinae		769
+                             Felis		421
+                              Felis catus		421
+                        Euarchontoglires		865
+                         Primates		845
+                          Haplorrhini		808
+                           Simiiformes		801
+                            Catarrhini		650
+                             Hominoidea		472
+                              Hominidae		326
+                               Homininae		257
+                                Homo		92
+                                 Homo sapiens		92

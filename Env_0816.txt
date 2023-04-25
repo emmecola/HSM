@@ -1,0 +1,49 @@
+                     Theria		8540
+                      Eutheria		8504
+                       Boreoeutheria		8407
+                        Laurasiatheria		3147
+                         Artiodactyla		1302
+                          Ruminantia		1097
+                           Pecora		1097
+                            Bovidae		567
+                             Caprinae		112
+                             Bovinae		296
+                          Suina		140
+                           Suidae		140
+                         Carnivora		860
+                          Caniformia		824
+                           Canidae		735
+                            Canis		295
+                             Canis lupus		295
+                         Eulipotyphla		901
+                          Erinaceidae		900
+                           Erinaceinae		900
+                            Erinaceus		900
+                             Erinaceus europaeus		900
+                        Euarchontoglires		5025
+                         Primates		1873
+                          Haplorrhini		1806
+                           Simiiformes		1776
+                            Catarrhini		1416
+                             Hominoidea		967
+                              Hominidae		601
+                               Homininae		436
+                         Glires		3097
+                          Lagomorpha		947
+                           Leporidae		852
+                            Oryctolagus		852
+                             Oryctolagus cuniculus		852
+                           Ochotonidae		31
+                            Ochotona		31
+                             Ochotona curzoniae		31
+                          Rodentia		2149
+                           Myomorpha		2134
+                            Muroidea		2130
+                             Cricetidae		2
+                              Cricetinae		2
+                               Cricetulus		2
+                                Cricetulus griseus		2
+                             Muridae		2021
+                              Murinae		2004
+                               Rattus		1749
+                                Rattus norvegicus		813

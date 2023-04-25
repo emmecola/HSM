@@ -1,0 +1,46 @@
+                     Theria		17484
+                      Eutheria		17472
+                       Boreoeutheria		17341
+                        Euarchontoglires		16677
+                         Primates		16268
+                          Haplorrhini		16088
+                           Simiiformes		16030
+                            Catarrhini		14736
+                             Hominoidea		12620
+                              Hominidae		10212
+                               Homininae		8713
+                                Pan		60
+                                Gorilla		33
+                                 Gorilla gorilla		33
+                                  Gorilla gorilla gorilla		33
+                                Homo		3267
+                                 Homo sapiens		3267
+                              Hylobatidae		28
+                               Nomascus		7
+                                Nomascus leucogenys		7
+                               Hylobates		9
+                                Hylobates moloch		9
+                             Cercopithecoidea		33
+                              Cercopithecidae		33
+                               Colobinae		15
+                                Piliocolobus		9
+                                 Piliocolobus tephrosceles		9
+                         Glires		324
+                          Rodentia		105
+                           Myomorpha		81
+                            Muroidea		73
+                             Cricetidae		2
+                          Lagomorpha		185
+                           Leporidae		181
+                            Oryctolagus		181
+                             Oryctolagus cuniculus		181
+                        Laurasiatheria		322
+                         Carnivora		96
+                          Caniformia		86
+                           Canidae		76
+                         Artiodactyla		212
+                          Ruminantia		202
+                           Pecora		202
+                            Bovidae		170
+                             Bovinae		128
+                             Caprinae		22

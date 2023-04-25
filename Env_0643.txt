@@ -1,0 +1,180 @@
+                     Theria		52507
+                      Eutheria		51145
+                       Boreoeutheria		50796
+                        Euarchontoglires		38121
+                         Primates		30290
+                          Haplorrhini		29977
+                           Simiiformes		29860
+                            Catarrhini		27334
+                             Hominoidea		22955
+                              Hominidae		18547
+                               Homininae		15959
+                                Pan		133
+                                 Pan paniscus		51
+                                Gorilla		61
+                                 Gorilla gorilla		61
+                                  Gorilla gorilla gorilla		61
+                                Homo		6060
+                                 Homo sapiens		6060
+                              Hylobatidae		74
+                               Hylobates		55
+                                Hylobates moloch		55
+                             Cercopithecoidea		566
+                              Cercopithecidae		566
+                               Colobinae		256
+                                Trachypithecus		44
+                                 Trachypithecus francoisi		44
+                                Piliocolobus		99
+                                 Piliocolobus tephrosceles		99
+                               Cercopithecinae		208
+                                Papio		19
+                                 Papio anubis		19
+                                Cercocebus		34
+                                 Cercocebus atys		34
+                                Chlorocebus		53
+                                 Chlorocebus sabaeus		53
+                            Platyrrhini		83
+                             Cebidae		61
+                              Saimiriinae		56
+                               Saimiri		56
+                                Saimiri boliviensis		56
+                                 Saimiri boliviensis boliviensis		56
+                          Strepsirrhini		28
+                           Lorisiformes		27
+                            Galagidae		27
+                             Otolemur		27
+                              Otolemur garnettii		27
+                         Glires		7295
+                          Rodentia		7211
+                           Castorimorpha		176
+                            Castoridae		45
+                             Castor		45
+                              Castor canadensis		45
+                            Heteromyidae		129
+                             Perognathinae		52
+                              Perognathus		52
+                               Perognathus longimembris		52
+                                Perognathus longimembris pacificus		52
+                             Dipodomyinae		74
+                              Dipodomys		74
+                               Dipodomys ordii		66
+                           Myomorpha		6909
+                            Muroidea		6787
+                             Cricetidae		74
+                              Cricetinae		66
+                               Cricetulus		66
+                                Cricetulus griseus		66
+                             Muridae		6581
+                              Murinae		6561
+                               Rattus		6028
+                                Rattus rattus		143
+                                Rattus norvegicus		3916
+                               Arvicanthis		104
+                                Arvicanthis niloticus		104
+                               Mus		131
+                                Mus		122
+                                 Mus musculus		114
+                            Dipodoidea		112
+                             Dipodidae		112
+                              Dipodinae		112
+                               Jaculus		112
+                                Jaculus jaculus		112
+                          Lagomorpha		50
+                           Leporidae		50
+                            Oryctolagus		50
+                             Oryctolagus cuniculus		50
+                        Laurasiatheria		10723
+                         Carnivora		9659
+                          Caniformia		278
+                           Canidae		107
+                            Canis		79
+                             Canis lupus		79
+                           Ursidae		39
+                            Ursus		34
+                             Ursus arctos		6
+                           Mustelidae		66
+                            Mustelinae		43
+                             Neogale		34
+                              Neogale vison		34
+                          Feliformia		9016
+                           Felidae		8468
+                            Felinae		2738
+                             Lynx		51
+                              Lynx rufus		25
+                             Felis		1469
+                              Felis catus		1469
+                             Leopardus		56
+                              Leopardus geoffroyi		56
+                             Prionailurus		22
+                            Acinonychinae		29
+                             Acinonyx		29
+                              Acinonyx jubatus		29
+                            Pantherinae		111
+                             Panthera		111
+                              Panthera tigris		30
+                           Hyaenidae		38
+                            Hyaena		38
+                             Hyaena hyaena		38
+                         Eulipotyphla		130
+                          Erinaceidae		113
+                           Erinaceinae		113
+                            Erinaceus		113
+                             Erinaceus europaeus		113
+                          Talpidae		17
+                           Condylura		13
+                            Condylura cristata		13
+                         Chiroptera		128
+                          Microchiroptera		122
+                           Phyllostomidae		34
+                            Stenodermatinae		28
+                             Sturnira		28
+                              Sturnira hondurensis		28
+                           Vespertilionidae		69
+                            Myotis		63
+                             Myotis davidii		11
+                             Myotis brandtii		13
+                             Myotis myotis		18
+                         Artiodactyla		479
+                          Suina		93
+                           Suidae		93
+                          Ruminantia		315
+                           Pecora		315
+                            Bovidae		230
+                             Bovinae		180
+                              Bos		29
+                            Cervidae		18
+                             Cervinae		15
+                              Cervus		15
+                               Cervus canadensis		4
+                               Cervus elaphus		5
+                          Tylopoda		48
+                           Camelidae		48
+                            Camelus		38
+                             Camelus ferus		6
+                      Metatheria		508
+                       Dasyuromorphia		114
+                        Dasyuridae		114
+                         Sarcophilus		114
+                          Sarcophilus harrisii		114
+                       Didelphimorphia		202
+                        Didelphidae		202
+                         Didelphinae		202
+                          Monodelphis		100
+                           Monodelphis domestica		100
+                          Gracilinanus		98
+                           Gracilinanus agilis		98
+                       Diprotodontia		169
+                        Phalangeridae		77
+                         Trichosurus		77
+                          Trichosurus vulpecula		77
+                        Phascolarctidae		86
+                         Phascolarctos		86
+                          Phascolarctos cinereus		86
+                     Prototheria		82
+                      Monotremata		82
+                       Tachyglossidae		50
+                        Tachyglossus		50
+                         Tachyglossus aculeatus		50
+                       Ornithorhynchidae		29
+                        Ornithorhynchus		29
+                         Ornithorhynchus anatinus		29

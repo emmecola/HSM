@@ -1,0 +1,40 @@
+                     Theria		16896
+                      Eutheria		16888
+                       Boreoeutheria		16811
+                        Euarchontoglires		16511
+                         Primates		16374
+                          Haplorrhini		16132
+                           Simiiformes		16060
+                            Catarrhini		14219
+                             Hominoidea		11593
+                              Hominidae		9093
+                               Homininae		7627
+                                Pan		78
+                                 Pan troglodytes		12
+                                Gorilla		27
+                                 Gorilla gorilla		27
+                                  Gorilla gorilla gorilla		27
+                                Homo		2762
+                                 Homo sapiens		2762
+                               Ponginae		18
+                                Pongo		18
+                                 Pongo abelii		18
+                              Hylobatidae		33
+                               Hylobates		5
+                                Hylobates moloch		5
+                               Nomascus		11
+                                Nomascus leucogenys		11
+                             Cercopithecoidea		63
+                              Cercopithecidae		63
+                               Colobinae		15
+                                Piliocolobus		4
+                                 Piliocolobus tephrosceles		4
+                                Rhinopithecus		2
+                               Cercopithecinae		13
+                            Platyrrhini		9
+                             Cebidae		4
+                              Saimiriinae		4
+                               Saimiri		4
+                                Saimiri boliviensis		4
+                                 Saimiri boliviensis boliviensis		4
+                        Laurasiatheria		3

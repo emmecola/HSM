@@ -1,0 +1,19 @@
+                     Theria		11148
+                      Eutheria		11143
+                       Boreoeutheria		11092
+                        Euarchontoglires		10556
+                         Primates		10500
+                          Haplorrhini		10428
+                           Simiiformes		10404
+                            Catarrhini		9710
+                             Hominoidea		8367
+                              Hominidae		6824
+                               Homininae		5837
+                                Homo		2249
+                                 Homo sapiens		2249
+                        Laurasiatheria		376
+                         Carnivora		375
+                          Caniformia		370
+                           Canidae		356
+                            Canis		241
+                             Canis lupus		241

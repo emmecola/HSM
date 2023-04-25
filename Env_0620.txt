@@ -1,0 +1,57 @@
+                     Theria		14668516
+                      Eutheria		14661582
+                       Boreoeutheria		14587155
+                        Euarchontoglires		14175881
+                         Primates		14091444
+                          Haplorrhini		13933485
+                           Simiiformes		13879981
+                            Platyrrhini		4551
+                             Cebidae		1782
+                            Catarrhini		12576100
+                             Hominoidea		10504972
+                              Hylobatidae		9119
+                               Nomascus		4317
+                                Nomascus leucogenys		4317
+                              Hominidae		8309905
+                               Homininae		7034729
+                                Pan		59105
+                                 Pan paniscus		9510
+                                 Pan troglodytes		10549
+                                Gorilla		18977
+                                 Gorilla gorilla		18977
+                                  Gorilla gorilla gorilla		18977
+                                Homo		2597568
+                                 Homo sapiens		2597568
+                               Ponginae		10254
+                                Pongo		10254
+                                 Pongo abelii		10254
+                             Cercopithecoidea		27264
+                              Cercopithecidae		27264
+                               Colobinae		4293
+                               Cercopithecinae		10756
+                                Macaca		1392
+                                Chlorocebus		2814
+                                 Chlorocebus sabaeus		2814
+                         Glires		47
+                        Laurasiatheria		180464
+                         Carnivora		132816
+                          Caniformia		129509
+                           Canidae		124068
+                            Canis		74144
+                             Canis lupus		74144
+                         Artiodactyla		42849
+                          Ruminantia		38034
+                           Pecora		38034
+                            Bovidae		31618
+                             Bovinae		23176
+                              Bos		5924
+                             Caprinae		4504
+                              Ovis		2391
+                               Ovis aries		2391
+                          Suina		3848
+                           Suidae		3848
+                            Sus		1526
+                             Sus scrofa		1526
+                         Perissodactyla		149
+                          Equidae		138
+                           Equus		138

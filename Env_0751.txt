@@ -1,0 +1,25 @@
+                     Theria		36969
+                      Eutheria		36941
+                       Boreoeutheria		36626
+                        Laurasiatheria		2093
+                         Carnivora		2051
+                          Caniformia		2016
+                           Canidae		1920
+                            Canis		997
+                             Canis lupus		997
+                              Canis lupus familiaris		53
+                              Canis lupus dingo		15
+                        Euarchontoglires		33815
+                         Primates		33519
+                          Haplorrhini		33054
+                           Simiiformes		32668
+                            Catarrhini		28848
+                             Hominoidea		23265
+                              Hominidae		17959
+                               Homininae		15207
+                                Homo		5366
+                                 Homo sapiens		5366
+                            Platyrrhini		10
+                             Aotidae		5
+                              Aotus		5
+                               Aotus nancymaae		5

@@ -1,0 +1,113 @@
+                     Theria		70328
+                      Eutheria		70040
+                       Boreoeutheria		69631
+                        Euarchontoglires		21894
+                         Primates		2123
+                          Strepsirrhini		22
+                           Lemuriformes		22
+                            Cheirogaleidae		22
+                             Microcebus		22
+                              Microcebus murinus		22
+                          Haplorrhini		2065
+                           Simiiformes		2009
+                            Catarrhini		1785
+                             Hominoidea		1338
+                              Hominidae		1027
+                               Homininae		846
+                                Homo		297
+                                 Homo sapiens		297
+                             Cercopithecoidea		84
+                              Cercopithecidae		84
+                               Colobinae		16
+                               Cercopithecinae		51
+                                Mandrillus		10
+                                 Mandrillus leucophaeus		10
+                                Macaca		19
+                                 Macaca fascicularis		2
+                                 Macaca nemestrina		3
+                                 Macaca mulatta		4
+                           Tarsiiformes		37
+                            Tarsiidae		37
+                             Carlito		37
+                              Carlito syrichta		37
+                         Glires		19598
+                          Lagomorpha		18969
+                           Leporidae		18567
+                            Oryctolagus		18567
+                             Oryctolagus cuniculus		18567
+                          Rodentia		605
+                           Hystricomorpha		92
+                            Octodontidae		62
+                             Octodon		62
+                              Octodon degus		62
+                           Myomorpha		467
+                            Muroidea		466
+                             Muridae		437
+                              Murinae		435
+                               Rattus		390
+                                Rattus rattus		109
+                                Rattus norvegicus		141
+                         Scandentia		24
+                          Tupaiidae		24
+                           Tupaia		24
+                            Tupaia chinensis		24
+                        Laurasiatheria		46914
+                         Carnivora		44402
+                          Caniformia		41868
+                           Canidae		40472
+                            Vulpes		622
+                             Vulpes lagopus		104
+                             Vulpes vulpes		100
+                            Canis		23171
+                             Canis lupus		23171
+                              Canis lupus familiaris		1736
+                              Canis lupus dingo		476
+                          Feliformia		1878
+                           Felidae		1761
+                            Felinae		294
+                             Lynx		8
+                              Lynx rufus		5
+                         Artiodactyla		1812
+                          Ruminantia		753
+                           Pecora		753
+                            Bovidae		558
+                             Caprinae		470
+                              Ovis		114
+                               Ovis aries		114
+                              Capra		176
+                               Capra hircus		176
+                            Cervidae		16
+                          Whippomorpha		24
+                           Cetacea		24
+                            Odontoceti		13
+                             Phocoenidae		3
+                              Phocoena		2
+                               Phocoena sinus		2
+                          Suina		981
+                           Suidae		981
+                            Sus		461
+                             Sus scrofa		461
+                         Perissodactyla		18
+                          Equidae		18
+                           Equus		18
+                            Equus quagga		1
+                         Eulipotyphla		150
+                          Erinaceidae		150
+                           Erinaceinae		150
+                            Erinaceus		150
+                             Erinaceus europaeus		150
+                       Afrotheria		6
+                        Chrysochloridae		3
+                         Chrysochlorinae		3
+                          Chrysochloris		3
+                           Chrysochloris asiatica		3
+                      Metatheria		31
+                       Microbiotheria		27
+                        Microbiotheriidae		27
+                         Dromiciops		27
+                          Dromiciops gliroides		27
+                     Prototheria		16
+                      Monotremata		16
+                       Ornithorhynchidae		14
+                        Ornithorhynchus		14
+                         Ornithorhynchus anatinus		14

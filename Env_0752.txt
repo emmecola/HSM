@@ -1,0 +1,29 @@
+                     Prototheria		1
+                      Monotremata		1
+                       Ornithorhynchidae		1
+                        Ornithorhynchus		1
+                         Ornithorhynchus anatinus		1
+                     Theria		3457
+                      Eutheria		3455
+                       Boreoeutheria		3443
+                        Euarchontoglires		3155
+                         Primates		3147
+                          Haplorrhini		3124
+                           Simiiformes		3114
+                            Catarrhini		2888
+                             Hominoidea		2555
+                              Hominidae		2123
+                               Homininae		1812
+                                Homo		688
+                                 Homo sapiens		688
+                        Laurasiatheria		255
+                         Carnivora		41
+                          Caniformia		40
+                           Canidae		40
+                            Canis		32
+                             Canis lupus		32
+                         Artiodactyla		204
+                          Ruminantia		202
+                           Pecora		202
+                            Bovidae		181
+                             Bovinae		156

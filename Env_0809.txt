@@ -1,0 +1,13 @@
+                     Theria		101
+                      Eutheria		98
+                       Boreoeutheria		91
+                        Euarchontoglires		69
+                         Primates		68
+                          Haplorrhini		68
+                           Simiiformes		68
+                            Catarrhini		61
+                             Hominoidea		54
+                              Hominidae		37
+                               Homininae		28
+                                Homo		16
+                                 Homo sapiens		16

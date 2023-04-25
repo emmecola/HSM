@@ -1,0 +1,18 @@
+                     Prototheria		3
+                      Monotremata		3
+                       Ornithorhynchidae		3
+                        Ornithorhynchus		3
+                         Ornithorhynchus anatinus		3
+                     Theria		1717
+                      Eutheria		1712
+                       Boreoeutheria		1698
+                        Euarchontoglires		1652
+                         Primates		1638
+                          Haplorrhini		1629
+                           Simiiformes		1624
+                            Catarrhini		1531
+                             Hominoidea		1340
+                              Hominidae		1103
+                               Homininae		950
+                                Homo		362
+                                 Homo sapiens		362

@@ -1,0 +1,70 @@
+                     Theria		142198
+                      Eutheria		142073
+                       Boreoeutheria		141003
+                        Euarchontoglires		131283
+                         Primates		129948
+                          Haplorrhini		127973
+                           Simiiformes		127449
+                            Platyrrhini		97
+                             Aotidae		19
+                              Aotus		19
+                               Aotus nancymaae		19
+                             Cebidae		42
+                              Callitrichinae		19
+                               Callithrix		19
+                                Callithrix		19
+                                 Callithrix jacchus		19
+                            Catarrhini		112777
+                             Hominoidea		90559
+                              Hylobatidae		113
+                               Nomascus		51
+                                Nomascus leucogenys		51
+                              Hominidae		69533
+                               Homininae		58111
+                                Pan		380
+                                 Pan troglodytes		65
+                                Gorilla		190
+                                 Gorilla gorilla		190
+                                  Gorilla gorilla gorilla		190
+                                Homo		20261
+                                 Homo sapiens		20261
+                             Cercopithecoidea		194
+                              Cercopithecidae		194
+                               Colobinae		79
+                                Trachypithecus		20
+                                 Trachypithecus francoisi		20
+                          Strepsirrhini		8
+                           Lemuriformes		8
+                            Cheirogaleidae		5
+                             Microcebus		5
+                              Microcebus murinus		5
+                         Glires		234
+                          Rodentia		209
+                           Hystricomorpha		4
+                            Caviidae		4
+                             Cavia		4
+                              Cavia porcellus		4
+                          Lagomorpha		15
+                           Leporidae		5
+                            Oryctolagus		5
+                             Oryctolagus cuniculus		5
+                        Laurasiatheria		6895
+                         Carnivora		6215
+                          Caniformia		6069
+                           Canidae		5853
+                            Canis		3068
+                             Canis lupus		3068
+                         Artiodactyla		605
+                          Suina		274
+                           Suidae		274
+                            Sus		111
+                             Sus scrofa		111
+                          Ruminantia		303
+                           Pecora		303
+                            Bovidae		219
+                             Bovinae		149
+                         Chiroptera		5
+                          Microchiroptera		5
+                           Vespertilionidae		4
+                            Pipistrellus		2
+                             Pipistrellus kuhlii		2

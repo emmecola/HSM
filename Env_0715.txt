@@ -1,0 +1,13 @@
+                     Theria		34
+                      Eutheria		29
+                       Boreoeutheria		27
+                        Laurasiatheria		8
+                         Carnivora		5
+                          Caniformia		5
+                           Phocidae		2
+                            Neomonachus		2
+                             Neomonachus schauinslandi		2
+                         Perissodactyla		1
+                          Equidae		1
+                           Equus		1
+                            Equus caballus		1

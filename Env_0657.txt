@@ -1,0 +1,123 @@
+                     Theria		19031
+                      Eutheria		18756
+                       Boreoeutheria		18562
+                        Euarchontoglires		3512
+                         Primates		1443
+                          Strepsirrhini		9
+                           Lemuriformes		9
+                            Indriidae		8
+                             Propithecus		8
+                              Propithecus coquereli		8
+                          Haplorrhini		1409
+                           Simiiformes		1393
+                            Catarrhini		1228
+                             Hominoidea		941
+                              Hominidae		675
+                               Homininae		539
+                                Pan		12
+                             Cercopithecoidea		57
+                              Cercopithecidae		57
+                               Colobinae		33
+                                Rhinopithecus		7
+                            Platyrrhini		39
+                             Cebidae		19
+                              Callitrichinae		18
+                               Callithrix		18
+                                Callithrix		18
+                                 Callithrix jacchus		18
+                         Glires		1918
+                          Lagomorpha		1392
+                           Leporidae		1341
+                            Oryctolagus		1341
+                             Oryctolagus cuniculus		1341
+                           Ochotonidae		14
+                            Ochotona		14
+                             Ochotona princeps		13
+                          Rodentia		512
+                           Hystricomorpha		18
+                            Caviidae		16
+                             Cavia		16
+                              Cavia porcellus		16
+                           Myomorpha		398
+                            Muroidea		395
+                             Muridae		328
+                              Gerbillinae		29
+                               Meriones		29
+                                Meriones unguiculatus		29
+                              Murinae		296
+                               Rattus		227
+                                Rattus norvegicus		177
+                               Grammomys		49
+                                Grammomys surdaster		49
+                               Mus		5
+                                Mus		3
+                             Cricetidae		32
+                              Arvicolinae		29
+                               Arvicola		16
+                                Arvicola amphibius		16
+                        Laurasiatheria		14319
+                         Carnivora		13103
+                          Caniformia		7656
+                           Mustelidae		24
+                           Phocidae		33
+                           Canidae		7324
+                            Vulpes		125
+                             Vulpes lagopus		45
+                            Canis		4334
+                             Canis lupus		4334
+                              Canis lupus familiaris		342
+                          Feliformia		5169
+                           Felidae		4855
+                            Felinae		1511
+                             Leopardus		24
+                              Leopardus geoffroyi		24
+                             Felis		848
+                              Felis catus		848
+                             Puma		9
+                              Puma concolor		8
+                             Lynx		8
+                            Pantherinae		22
+                             Panthera		22
+                           Hyaenidae		21
+                            Hyaena		21
+                             Hyaena hyaena		21
+                         Eulipotyphla		67
+                          Erinaceidae		67
+                           Erinaceinae		67
+                            Erinaceus		67
+                             Erinaceus europaeus		67
+                         Chiroptera		32
+                          Microchiroptera		30
+                           Vespertilionidae		21
+                            Myotis		17
+                             Myotis brandtii		7
+                         Artiodactyla		900
+                          Ruminantia		818
+                           Pecora		818
+                            Bovidae		672
+                             Bovinae		46
+                              Bubalus		14
+                               Bubalus bubalis		14
+                             Caprinae		498
+                              Ovis		300
+                               Ovis aries		300
+                          Suina		65
+                           Suidae		65
+                       Afrotheria		30
+                        Macroscelidea		24
+                         Macroscelididae		24
+                          Elephantulus		24
+                           Elephantulus edwardii		24
+                      Metatheria		66
+                       Microbiotheria		59
+                        Microbiotheriidae		59
+                         Dromiciops		59
+                          Dromiciops gliroides		59
+                       Didelphimorphia		1
+                        Didelphidae		1
+                         Didelphinae		1
+                     Prototheria		10
+                      Monotremata		10
+                       Ornithorhynchidae		8
+                        Ornithorhynchus		8
+                         Ornithorhynchus anatinus		8

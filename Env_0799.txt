@@ -1,0 +1,25 @@
+                     Theria		38598
+                      Eutheria		38587
+                       Boreoeutheria		38466
+                        Euarchontoglires		37039
+                         Primates		36898
+                          Haplorrhini		36591
+                           Simiiformes		36507
+                            Catarrhini		33622
+                             Hominoidea		29269
+                              Hominidae		23862
+                               Homininae		20547
+                                Homo		7860
+                                 Homo sapiens		7860
+                            Platyrrhini		8
+                        Laurasiatheria		1023
+                         Artiodactyla		54
+                          Suina		50
+                           Suidae		50
+                            Sus		27
+                             Sus scrofa		27
+                         Carnivora		965
+                          Caniformia		957
+                           Canidae		937
+                            Canis		518
+                             Canis lupus		518

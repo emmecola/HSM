@@ -1,0 +1,48 @@
+                     Theria		3842
+                      Eutheria		3803
+                       Boreoeutheria		3757
+                        Laurasiatheria		2763
+                         Artiodactyla		915
+                          Ruminantia		872
+                           Pecora		872
+                            Bovidae		515
+                             Caprinae		338
+                              Ovis		77
+                               Ovis aries		77
+                              Capra		101
+                               Capra hircus		101
+                             Bovinae		71
+                         Carnivora		1420
+                          Caniformia		1355
+                           Canidae		1232
+                            Canis		464
+                             Canis lupus		464
+                         Eulipotyphla		349
+                          Erinaceidae		348
+                           Erinaceinae		348
+                            Erinaceus		348
+                             Erinaceus europaeus		348
+                        Euarchontoglires		883
+                         Glires		438
+                          Rodentia		125
+                           Myomorpha		121
+                            Muroidea		121
+                             Muridae		105
+                              Murinae		102
+                               Rattus		73
+                          Lagomorpha		307
+                           Leporidae		285
+                            Oryctolagus		285
+                             Oryctolagus cuniculus		285
+                         Primates		429
+                          Haplorrhini		420
+                           Simiiformes		414
+                            Catarrhini		352
+                             Hominoidea		237
+                              Hominidae		163
+                               Homininae		129
+                                Homo		37
+                                 Homo sapiens		37
+                             Cercopithecoidea		9
+                              Cercopithecidae		9
+                               Colobinae		6

@@ -1,0 +1,55 @@
+                     Theria		72828
+                      Metatheria		66
+                       Microbiotheria		27
+                        Microbiotheriidae		27
+                         Dromiciops		27
+                          Dromiciops gliroides		27
+                      Eutheria		72340
+                       Boreoeutheria		71595
+                        Euarchontoglires		37422
+                         Primates		16912
+                          Haplorrhini		16332
+                           Simiiformes		16208
+                            Catarrhini		13307
+                             Hominoidea		9593
+                              Hominidae		6805
+                               Homininae		5390
+                                Homo		1723
+                                 Homo sapiens		1723
+                             Cercopithecoidea		52
+                              Cercopithecidae		52
+                               Colobinae		17
+                         Glires		19999
+                          Lagomorpha		1215
+                           Leporidae		1062
+                            Oryctolagus		1062
+                             Oryctolagus cuniculus		1062
+                          Rodentia		18767
+                           Myomorpha		18508
+                            Muroidea		18458
+                             Muridae		17440
+                              Murinae		17242
+                               Rattus		15037
+                                Rattus rattus		5679
+                                Rattus norvegicus		1518
+                        Laurasiatheria		32274
+                         Artiodactyla		794
+                          Suina		172
+                           Suidae		172
+                          Ruminantia		577
+                           Pecora		577
+                            Bovidae		301
+                             Caprinae		205
+                              Ovis		93
+                               Ovis aries		93
+                         Carnivora		1389
+                          Caniformia		1299
+                           Canidae		202
+                           Mustelidae		844
+                            Mustelinae		317
+                             Mustela		150
+                         Eulipotyphla		29448
+                          Erinaceidae		29430
+                           Erinaceinae		29430
+                            Erinaceus		29430
+                             Erinaceus europaeus		29430

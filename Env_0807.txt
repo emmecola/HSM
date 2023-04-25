@@ -1,0 +1,58 @@
+                     Theria		2220647
+                      Eutheria		2216419
+                       Boreoeutheria		2200478
+                        Euarchontoglires		359900
+                         Glires		351417
+                          Lagomorpha		3922
+                           Leporidae		3604
+                            Oryctolagus		3604
+                             Oryctolagus cuniculus		3604
+                          Rodentia		347351
+                           Myomorpha		345195
+                            Muroidea		344432
+                             Muridae		327332
+                              Murinae		323369
+                               Rattus		283452
+                                Rattus norvegicus		127636
+                                Rattus rattus		9188
+                         Primates		7053
+                          Haplorrhini		6784
+                           Simiiformes		6700
+                            Catarrhini		5458
+                             Hominoidea		3975
+                              Hominidae		2792
+                               Homininae		2203
+                                Homo		701
+                                 Homo sapiens		701
+                        Laurasiatheria		1813567
+                         Eulipotyphla		1704746
+                          Erinaceidae		1703741
+                           Erinaceinae		1703741
+                            Erinaceus		1703741
+                             Erinaceus europaeus		1703741
+                         Artiodactyla		18303
+                          Ruminantia		17260
+                           Pecora		17260
+                            Bovidae		10606
+                             Bovinae		485
+                             Caprinae		7519
+                              Ovis		3278
+                               Ovis aries		3278
+                              Capra		440
+                               Capra hircus		440
+                            Cervidae		21
+                         Carnivora		60646
+                          Caniformia		56609
+                           Mustelidae		41771
+                            Mustelinae		14132
+                             Mustela		9531
+                              Mustela putorius		5435
+                               Mustela putorius furo		5433
+                            Melinae		7553
+                             Meles		7553
+                              Meles meles		7553
+                           Canidae		4463
+                            Canis		1693
+                             Canis lupus		1693
+                          Feliformia		1131
+                           Felidae		988

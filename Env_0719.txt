@@ -1,0 +1,92 @@
+                     Theria		197207
+                      Eutheria		197044
+                       Boreoeutheria		196396
+                        Laurasiatheria		151117
+                         Eulipotyphla		109271
+                          Erinaceidae		109234
+                           Erinaceinae		109234
+                            Erinaceus		109234
+                             Erinaceus europaeus		109234
+                         Carnivora		35906
+                          Feliformia		3885
+                           Felidae		3671
+                            Felinae		1180
+                             Felis		655
+                              Felis catus		655
+                             Prionailurus		17
+                              Prionailurus bengalensis		4
+                            Pantherinae		9
+                             Panthera		9
+                              Panthera pardus		5
+                          Caniformia		31486
+                           Canidae		4838
+                            Vulpes		355
+                            Canis		2128
+                             Canis lupus		2128
+                              Canis lupus familiaris		132
+                              Canis lupus dingo		53
+                           Mustelidae		24867
+                            Mustelinae		16960
+                             Mustela		12784
+                              Mustela erminea		613
+                              Mustela putorius		7242
+                               Mustela putorius furo		7242
+                             Neogale		163
+                              Neogale vison		163
+                            Lutrinae		115
+                             Enhydra		29
+                              Enhydra lutris		29
+                               Enhydra lutris kenyoni		29
+                            Melinae		180
+                             Meles		180
+                              Meles meles		180
+                           Otariidae		13
+                         Artiodactyla		4106
+                          Suina		356
+                           Suidae		356
+                            Sus		186
+                             Sus scrofa		186
+                          Ruminantia		3647
+                           Pecora		3647
+                            Bovidae		2983
+                             Bovinae		265
+                             Caprinae		2206
+                              Capra		193
+                               Capra hircus		193
+                              Ovis		1086
+                               Ovis aries		1086
+                        Euarchontoglires		44085
+                         Primates		6441
+                          Haplorrhini		6369
+                           Simiiformes		6349
+                            Catarrhini		5754
+                             Hominoidea		4837
+                              Hominidae		3887
+                               Homininae		3309
+                                Homo		1265
+                                 Homo sapiens		1265
+                             Cercopithecoidea		40
+                              Cercopithecidae		40
+                               Cercopithecinae		21
+                            Platyrrhini		8
+                             Cebidae		3
+                         Glires		37511
+                          Rodentia		34292
+                           Myomorpha		34199
+                            Muroidea		34149
+                             Muridae		33205
+                              Murinae		33095
+                               Rattus		30758
+                                Rattus rattus		13107
+                                Rattus norvegicus		4141
+                               Mus		54
+                                Mus		47
+                                 Mus musculus		34
+                           Hystricomorpha		11
+                            Caviidae		10
+                             Cavia		10
+                              Cavia porcellus		10
+                          Lagomorpha		3207
+                           Leporidae		3121
+                            Oryctolagus		3121
+                             Oryctolagus cuniculus		3121

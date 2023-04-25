@@ -1,0 +1,46 @@
+                     Theria		90781
+                      Eutheria		90705
+                       Boreoeutheria		90342
+                        Euarchontoglires		87055
+                         Primates		86567
+                          Haplorrhini		85818
+                           Simiiformes		85592
+                            Catarrhini		78257
+                             Hominoidea		67048
+                              Hominidae		54011
+                               Homininae		45955
+                                Pan		389
+                                 Pan troglodytes		61
+                                 Pan paniscus		67
+                                Homo		17531
+                                 Homo sapiens		17531
+                              Hylobatidae		72
+                               Nomascus		29
+                                Nomascus leucogenys		29
+                             Cercopithecoidea		125
+                              Cercopithecidae		125
+                               Colobinae		43
+                                Rhinopithecus		18
+                                 Rhinopithecus roxellana		2
+                            Platyrrhini		17
+                         Scandentia		1
+                          Tupaiidae		1
+                           Tupaia		1
+                            Tupaia chinensis		1
+                        Laurasiatheria		2088
+                         Carnivora		2002
+                          Caniformia		1932
+                           Canidae		1858
+                            Canis		1154
+                             Canis lupus		1154
+                           Mustelidae		27
+                            Melinae		3
+                             Meles		3
+                              Meles meles		3
+                            Mustelinae		6
+                             Mustela		1
+                         Artiodactyla		50
+                          Ruminantia		50
+                           Pecora		50
+                            Bovidae		39
+                             Bovinae		35

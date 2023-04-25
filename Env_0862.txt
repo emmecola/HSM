@@ -1,0 +1,31 @@
+                     Theria		2602
+                      Eutheria		2588
+                       Boreoeutheria		2571
+                        Laurasiatheria		271
+                         Artiodactyla		232
+                          Suina		3
+                           Suidae		3
+                            Phacochoerus		2
+                             Phacochoerus africanus		2
+                          Ruminantia		228
+                           Pecora		228
+                            Bovidae		203
+                             Bovinae		174
+                        Euarchontoglires		2231
+                         Glires		17
+                          Rodentia		17
+                           Myomorpha		6
+                            Muroidea		6
+                             Muridae		6
+                              Murinae		6
+                               Rattus		6
+                                Rattus rattus		3
+                         Primates		2199
+                          Haplorrhini		2177
+                           Simiiformes		2162
+                            Catarrhini		1991
+                             Hominoidea		1719
+                              Hominidae		1421
+                               Homininae		1265
+                                Homo		489
+                                 Homo sapiens		489

@@ -1,0 +1,69 @@
+                     Theria		53259
+                      Eutheria		53054
+                       Boreoeutheria		52751
+                        Laurasiatheria		36057
+                         Artiodactyla		1524
+                          Suina		1076
+                           Suidae		1076
+                            Sus		506
+                             Sus scrofa		506
+                          Ruminantia		405
+                           Pecora		405
+                            Bovidae		251
+                             Caprinae		211
+                              Capra		94
+                               Capra hircus		94
+                         Carnivora		33949
+                          Caniformia		33519
+                           Canidae		32402
+                            Vulpes		279
+                             Vulpes lagopus		65
+                            Canis		19010
+                             Canis lupus		19010
+                              Canis lupus familiaris		1346
+                              Canis lupus dingo		334
+                           Mustelidae		91
+                         Eulipotyphla		198
+                          Erinaceidae		198
+                           Erinaceinae		198
+                            Erinaceus		198
+                             Erinaceus europaeus		198
+                        Euarchontoglires		16118
+                         Primates		1116
+                          Haplorrhini		1091
+                           Simiiformes		1072
+                            Catarrhini		932
+                             Hominoidea		718
+                              Hominidae		512
+                               Homininae		411
+                             Cercopithecoidea		11
+                              Cercopithecidae		11
+                         Glires		14888
+                          Lagomorpha		14872
+                           Leporidae		14537
+                            Oryctolagus		14537
+                             Oryctolagus cuniculus		14537
+                       Afrotheria		17
+                        Tubulidentata		6
+                         Orycteropodidae		6
+                          Orycteropus		6
+                           Orycteropus afer		6
+                            Orycteropus afer afer		6
+                        Tenrecidae		7
+                         Tenrecinae		7
+                          Echinops		7
+                           Echinops telfairi		7
+                        Chrysochloridae		4
+                         Chrysochlorinae		4
+                          Chrysochloris		4
+                           Chrysochloris asiatica		4
+                      Metatheria		15
+                       Microbiotheria		14
+                        Microbiotheriidae		14
+                         Dromiciops		14
+                          Dromiciops gliroides		14
+                     Prototheria		13
+                      Monotremata		13
+                       Ornithorhynchidae		12
+                        Ornithorhynchus		12
+                         Ornithorhynchus anatinus		12

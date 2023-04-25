@@ -1,0 +1,23 @@
+                     Theria		17015
+                      Eutheria		17009
+                       Boreoeutheria		16978
+                        Laurasiatheria		2533
+                         Artiodactyla		1980
+                          Ruminantia		1974
+                           Pecora		1974
+                            Bovidae		1763
+                             Bovinae		1656
+                            Cervidae		1
+                         Carnivora		491
+                          Caniformia		484
+                           Canidae		436
+                        Euarchontoglires		14231
+                         Primates		14182
+                          Haplorrhini		14115
+                           Simiiformes		14104
+                            Catarrhini		13229
+                             Hominoidea		11906
+                              Hominidae		9963
+                               Homininae		8616
+                                Homo		3211
+                                 Homo sapiens		3211

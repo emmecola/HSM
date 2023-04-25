@@ -1,0 +1,40 @@
+                     Theria		13052
+                      Eutheria		13041
+                       Boreoeutheria		12926
+                        Euarchontoglires		12107
+                         Glires		555
+                          Rodentia		9
+                           Myomorpha		8
+                            Dipodoidea		2
+                             Dipodidae		2
+                              Dipodinae		2
+                               Jaculus		2
+                                Jaculus jaculus		2
+                            Muroidea		6
+                             Muridae		3
+                              Murinae		2
+                               Rattus		1
+                                Rattus rattus		1
+                          Lagomorpha		520
+                           Leporidae		502
+                            Oryctolagus		502
+                             Oryctolagus cuniculus		502
+                         Primates		11502
+                          Haplorrhini		11425
+                           Simiiformes		11406
+                            Catarrhini		10622
+                             Hominoidea		9329
+                              Hominidae		7661
+                               Homininae		6585
+                                Homo		2435
+                                 Homo sapiens		2435
+                        Laurasiatheria		542
+                         Carnivora		20
+                          Caniformia		20
+                           Canidae		18
+                         Artiodactyla		511
+                          Ruminantia		505
+                           Pecora		505
+                            Bovidae		445
+                             Bovinae		418
+                              Bos		132

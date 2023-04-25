@@ -1,0 +1,21 @@
+                     Theria		996
+                      Eutheria		993
+                       Boreoeutheria		984
+                        Laurasiatheria		305
+                         Artiodactyla		299
+                          Ruminantia		66
+                           Pecora		66
+                            Bovidae		58
+                             Bovinae		50
+                              Bos		25
+                          Suina		223
+                           Suidae		223
+                            Sus		84
+                             Sus scrofa		84
+                        Euarchontoglires		669
+                         Primates		659
+                          Haplorrhini		648
+                           Simiiformes		646
+                            Catarrhini		538
+                             Hominoidea		331
+                              Hominidae		111

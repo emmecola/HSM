@@ -1,0 +1,27 @@
+                     Theria		331
+                      Eutheria		325
+                       Boreoeutheria		318
+                        Euarchontoglires		147
+                         Glires		45
+                          Rodentia		45
+                           Myomorpha		2
+                            Muroidea		2
+                             Muridae		1
+                              Murinae		1
+                         Primates		101
+                          Haplorrhini		97
+                           Simiiformes		96
+                            Catarrhini		81
+                             Hominoidea		52
+                              Hominidae		25
+                            Platyrrhini		3
+                        Laurasiatheria		133
+                         Artiodactyla		130
+                          Ruminantia		37
+                           Pecora		37
+                            Bovidae		28
+                             Bovinae		25
+                          Suina		89
+                           Suidae		89
+                            Sus		38
+                             Sus scrofa		38

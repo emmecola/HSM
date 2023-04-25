@@ -1,0 +1,26 @@
+                     Theria		8202
+                      Eutheria		8186
+                       Boreoeutheria		8094
+                        Euarchontoglires		7717
+                         Primates		7632
+                          Haplorrhini		7510
+                           Simiiformes		7483
+                            Catarrhini		6614
+                             Hominoidea		5466
+                              Hominidae		4290
+                               Homininae		3665
+                                Pan		30
+                                Homo		1371
+                                 Homo sapiens		1371
+                             Cercopithecoidea		14
+                              Cercopithecidae		14
+                               Colobinae		3
+                        Laurasiatheria		86
+                         Carnivora		37
+                          Caniformia		35
+                           Canidae		27
+                         Artiodactyla		38
+                          Ruminantia		35
+                           Pecora		35
+                            Bovidae		27
+                             Bovinae		22
